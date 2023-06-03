@@ -1,0 +1,1231 @@
+,folio_tripulante,clase_pasajero,supervivencia,nombre,sexo,edad,parientes,familiares,grave,embarque,bote,cuerpo,residencias,tipo_tripulante,religión
+0,66905,Segunda Clase,1.0,Dieter Harris,F,44,2,2,,G,9.0,,Dublín,Oficial Subalterno,Judaísmo
+1,32296,Segunda Clase,0.0,Klaus Garcia,M,46,3,1,0.0,nan,,686.0,,Oficial de Cubierta,Islam
+2,26639,Segunda Clase,0.0,Helga White,nan,36,4,1,1.0,nan,,48.0,,Oficial Subalterno,Hinduismo
+3,43024,Cuarta Clase,1.0,Renate Thompson,M,9,0,0,0.0,G,8.0,,Lisboa,Pasajeros Civiles,Ateísmo
+4,41049,Segunda Clase,1.0,Dieter Jackson,nan,29,3,2,,G,9.0,,Bern,Personal de Máquinas,Cristianismo
+5,39628,Cuarta Clase,1.0,Jürgen Moore,nan,26,4,0,0.0,K,7.0,,Dublín,Pasajeros Civiles,Judaísmo
+6,34144,Cuarta Clase,1.0,Karl Anderson,nan,20,3,1,,G,8.0,,Londres,Pasajeros Civiles,Hinduismo
+7,31717,Segunda Clase,1.0,Friedrich Harris,nan,23,2,0,0.0,D,5.0,,Lisboa,Personal de Cubierta,Budismo
+8,60741,Segunda Clase,0.0,Ingrid Williams,M,17,3,1,0.0,nan,,445.0,,Oficial Subalterno,Otras
+9,30697,Segunda Clase,0.0,Renate Miller,nan,76,3,1,1.0,nan,,407.0,,Personal de Cubierta,Budismo
+10,63698,Segunda Clase,1.0,Klaus Moore,M,36,3,0,1.0,G,6.0,,Londres,Personal Médico,Ateísmo
+11,52651,Segunda Clase,0.0,Elisabeth Robinson,F,31,2,0,0.0,nan,,213.0,,Personal de Cubierta,Cristianismo
+12,27082,Segunda Clase,1.0,Erika Johnson,M,69,2,1,,P,1.0,,Estocolmo,Personal de Máquinas,Islam
+13,26952,Segunda Clase,0.0,Friedrich Miller,M,67,2,1,,nan,,320.0,,Oficial Superior,Otras
+14,31140,Segunda Clase,0.0,Hannelore Garcia,F,47,2,2,1.0,nan,,1000.0,,Personal Médico,Judaísmo
+15,39328,Segunda Clase,0.0,Karl Martin,nan,5,4,0,0.0,nan,,626.0,,Oficial Superior,Islam
+16,40247,Segunda Clase,0.0,Karl Anderson,nan,48,3,2,0.0,nan,,153.0,,Oficial Subalterno,Hinduismo
+17,58118,Segunda Clase,0.0,Gustav Smith,F,46,3,2,0.0,nan,,904.0,,Oficial de Cubierta,Budismo
+18,64453,Segunda Clase,1.0,Karl Miller,F,5,1,2,0.0,G,2.0,,Bern,Personal de Servicio,Budismo
+19,26739,Cuarta Clase,0.0,Heinz Martin,M,7,1,0,,nan,,601.0,,Pasajeros Civiles,Cristianismo
+20,61781,Segunda Clase,0.0,Jürgen Robinson,F,47,1,0,0.0,nan,,143.0,,Personal de Máquinas,Budismo
+21,38031,Segunda Clase,1.0,Karl Jackson,M,58,4,0,0.0,G,2.0,,Berna,Oficial Superior,Budismo
+22,67590,Segunda Clase,1.0,Jürgen Garcia,F,20,2,0,1.0,G,1.0,,Berna,Personal de Servicio,Budismo
+23,60713,Primera Clase,0.0,Greta Taylor,M,5,3,1,0.0,nan,,15.0,,Capitán,Cristianismo
+24,52493,Segunda Clase,1.0,Elisabeth Harris,M,54,0,1,,D,8.0,,Dublín,Personal de Cubierta,Cristianismo
+25,39446,Cuarta Clase,0.0,Renate Thomas,F,63,4,1,0.0,nan,,491.0,,Pasajeros Civiles,Budismo
+26,54439,Segunda Clase,1.0,Gustav Moore,F,43,4,2,0.0,G,8.0,,Bern,Oficial Superior,Islam
+27,63618,Segunda Clase,0.0,Ingrid Thompson,M,45,2,1,1.0,nan,,752.0,,Personal Médico,Budismo
+28,43231,Segunda Clase,1.0,Margarete Harris,nan,63,2,1,,D,6.0,,Lisboa,Personal de Máquinas,Islam
+29,25425,Segunda Clase,1.0,Heinz Martin,nan,4,0,0,,D,4.0,,Estocolmo,Personal de Cubierta,Judaísmo
+30,35463,Segunda Clase,0.0,Greta Miller,F,36,3,1,1.0,nan,,243.0,,Personal de Servicio,Ateísmo
+31,52696,Segunda Clase,1.0,Ingrid Anderson,nan,66,2,0,0.0,K,10.0,,Madrid,Personal de Máquinas,Otras
+32,47298,Segunda Clase,0.0,Helga Johnson,F,22,1,2,,nan,,56.0,,Oficial Superior,Judaísmo
+33,43210,Segunda Clase,1.0,Hannelore Wilson,M,0,1,1,0.0,G,3.0,,Madrid,Oficial de Cubierta,Islam
+34,35189,Segunda Clase,0.0,Dieter Smith,nan,32,2,0,1.0,nan,,521.0,,Personal Médico,Cristianismo
+35,39110,Primera Clase,0.0,Erich Garcia,M,19,3,1,0.0,nan,,799.0,,Capitán,Judaísmo
+36,47059,Cuarta Clase,0.0,Hannelore Martinez,nan,42,2,2,1.0,nan,,302.0,,Pasajeros Civiles,Judaísmo
+37,31698,Segunda Clase,0.0,Helga Taylor,M,26,3,2,,nan,,362.0,,Personal de Máquinas,Otras
+38,31078,Segunda Clase,0.0,Dieter Miller,F,44,4,2,0.0,nan,,58.0,,Oficial de Cubierta,Ateísmo
+39,49898,Segunda Clase,0.0,Greta Wilson,F,75,2,1,0.0,nan,,484.0,,Oficial Superior,Hinduismo
+40,31338,Segunda Clase,1.0,Elisabeth Martinez,F,79,2,1,0.0,K,6.0,,Londres,Personal Médico,Cristianismo
+41,48526,Segunda Clase,1.0,Jürgen Martin,M,1,1,2,,P,3.0,,Estocolmo,Personal de Cubierta,Cristianismo
+42,47541,Segunda Clase,0.0,Renate Anderson,F,58,1,1,0.0,nan,,827.0,,Personal de Servicio,Judaísmo
+43,64565,Segunda Clase,0.0,Erich Martin,nan,62,4,1,0.0,nan,,27.0,,Oficial Superior,Cristianismo
+44,42335,Segunda Clase,0.0,Margarete Harris,F,58,3,2,,nan,,792.0,,Oficial Subalterno,Otras
+45,27847,Cuarta Clase,0.0,Wolfgang Thomas,nan,48,3,2,0.0,nan,,863.0,,Pasajeros Civiles,Islam
+46,55108,Cuarta Clase,0.0,Wolfgang Brown,nan,70,4,0,0.0,nan,,902.0,,Pasajeros Civiles,Budismo
+47,60142,Segunda Clase,1.0,Renate Martin,F,1,3,1,0.0,P,7.0,,Berna,Personal de Cubierta,Judaísmo
+48,33180,Segunda Clase,0.0,Wolfgang Garcia,nan,12,4,2,1.0,nan,,452.0,,Personal Médico,Islam
+49,49807,Segunda Clase,1.0,Klaus Thompson,nan,66,0,2,1.0,G,7.0,,Berna,Oficial Superior,Hinduismo
+50,30164,Segunda Clase,1.0,Klaus Williams,nan,25,1,0,0.0,P,8.0,,Estocolmo,Oficial Superior,Hinduismo
+51,61178,Segunda Clase,1.0,Klaus Smith,nan,35,0,2,,P,10.0,,Berna,Oficial de Cubierta,Ateísmo
+52,44213,Cuarta Clase,0.0,Helga Brown,M,21,2,0,1.0,nan,,998.0,,Pasajeros Civiles,Cristianismo
+53,66198,Segunda Clase,0.0,Jürgen Williams,nan,56,0,2,,nan,,282.0,,Oficial Subalterno,Hinduismo
+54,65535,Segunda Clase,0.0,Dieter Smith,M,75,2,1,0.0,nan,,505.0,,Personal de Servicio,Hinduismo
+55,48700,Segunda Clase,1.0,Karl Thompson,M,72,3,1,0.0,K,7.0,,Estocolmo,Personal Médico,Otras
+56,62837,Segunda Clase,0.0,Marlene Thomas,M,51,1,0,1.0,nan,,838.0,,Personal de Máquinas,Ateísmo
+57,37601,Cuarta Clase,0.0,Klaus Robinson,F,2,2,0,0.0,nan,,955.0,,Pasajeros Civiles,Ateísmo
+58,29558,Segunda Clase,0.0,Erika Martin,M,56,3,0,0.0,nan,,647.0,,Personal de Servicio,Budismo
+59,28003,Segunda Clase,0.0,Margarete Smith,nan,47,4,1,1.0,nan,,662.0,,Oficial Subalterno,Budismo
+60,68336,Segunda Clase,0.0,Hans Garcia,M,42,4,0,0.0,nan,,694.0,,Personal de Servicio,Budismo
+61,39935,Segunda Clase,0.0,Renate White,M,25,2,1,1.0,nan,,478.0,,Oficial Superior,Judaísmo
+62,43965,Segunda Clase,1.0,Hans Smith,F,18,2,2,1.0,G,5.0,,Dublín,Personal Médico,Budismo
+63,30229,Segunda Clase,1.0,Gertrud Moore,M,27,3,2,0.0,D,7.0,,Madrid,Personal de Servicio,Ateísmo
+64,40256,Segunda Clase,1.0,Renate Taylor,M,37,0,1,1.0,D,4.0,,Lisboa,Personal de Cubierta,Judaísmo
+65,31619,Cuarta Clase,0.0,Hans Thompson,F,19,4,0,,nan,,737.0,,Pasajeros Civiles,Cristianismo
+66,49911,Segunda Clase,0.0,Helga Davis,M,11,4,0,,nan,,143.0,,Personal de Máquinas,Cristianismo
+67,43217,Segunda Clase,0.0,Heinz Jones,F,46,2,2,0.0,nan,,436.0,,Oficial de Cubierta,Hinduismo
+68,54714,Segunda Clase,1.0,Gertrud Brown,F,16,2,2,,G,7.0,,Madrid,Personal Médico,Islam
+69,66660,Segunda Clase,1.0,Jürgen Miller,nan,40,3,0,1.0,G,3.0,,Londres,Personal Médico,Budismo
+70,48909,Segunda Clase,0.0,Erika Thompson,M,19,4,1,0.0,nan,,557.0,,Oficial de Cubierta,Judaísmo
+71,35659,Segunda Clase,1.0,Erich Thomas,M,19,0,1,0.0,P,4.0,,Bern,Personal de Máquinas,Islam
+72,49260,Segunda Clase,1.0,Erich Jackson,nan,30,2,1,1.0,D,1.0,,Dublín,Oficial Superior,Hinduismo
+73,48283,Segunda Clase,1.0,Friedrich Thomas,M,41,3,2,0.0,P,5.0,,Bern,Personal de Máquinas,Hinduismo
+74,38730,Cuarta Clase,0.0,Elisabeth Harris,F,14,2,0,,nan,,882.0,,Pasajeros Civiles,Judaísmo
+75,68920,Segunda Clase,0.0,Hannelore Wilson,nan,66,1,0,,nan,,169.0,,Personal de Máquinas,Judaísmo
+76,42496,Cuarta Clase,1.0,Jürgen Taylor,F,32,0,1,,D,10.0,,Estocolmo,Pasajeros Civiles,Otras
+77,67469,Segunda Clase,1.0,Friedrich Johnson,nan,1,3,1,,K,6.0,,Lisboa,Personal de Servicio,Budismo
+78,29679,Segunda Clase,0.0,Friedrich Jackson,F,32,1,1,0.0,nan,,576.0,,Personal de Cubierta,Cristianismo
+79,64920,Segunda Clase,1.0,Elisabeth Jackson,M,23,1,2,1.0,G,5.0,,Dublín,Oficial de Cubierta,Cristianismo
+80,66613,Segunda Clase,0.0,Renate Martin,nan,53,0,2,1.0,nan,,611.0,,Oficial Superior,Otras
+81,36215,Segunda Clase,0.0,Klaus Smith,M,29,4,2,1.0,nan,,443.0,,Personal Médico,Ateísmo
+82,60005,Segunda Clase,0.0,Wolfgang Williams,nan,75,3,0,0.0,nan,,586.0,,Oficial Superior,Otras
+83,41043,Segunda Clase,1.0,Margarete White,F,30,4,2,1.0,P,4.0,,Madrid,Oficial de Cubierta,Budismo
+84,35708,Cuarta Clase,1.0,Greta Martinez,M,8,3,1,1.0,D,10.0,,Berna,Pasajeros Civiles,Otras
+85,55294,Cuarta Clase,1.0,Heinz Thompson,F,23,4,2,1.0,K,10.0,,Bern,Pasajeros Civiles,Judaísmo
+86,49867,Segunda Clase,1.0,Klaus Wilson,F,55,3,0,,K,3.0,,Bern,Personal de Máquinas,Budismo
+87,42691,Segunda Clase,1.0,Karl Martinez,F,33,2,0,1.0,D,4.0,,Londres,Oficial de Cubierta,Judaísmo
+88,66943,Segunda Clase,0.0,Margarete Moore,nan,48,3,2,1.0,nan,,448.0,,Oficial Subalterno,Islam
+89,61500,Segunda Clase,1.0,Klaus Williams,M,46,3,2,,P,10.0,,Berna,Oficial de Cubierta,Ateísmo
+90,39392,Segunda Clase,1.0,Erich Garcia,nan,69,1,1,,G,2.0,,Dublín,Oficial Superior,Islam
+91,46252,Cuarta Clase,1.0,Hannelore Johnson,nan,36,1,0,1.0,G,5.0,,Berna,Pasajeros Civiles,Hinduismo
+92,28665,Segunda Clase,1.0,Wolfgang Anderson,nan,6,3,0,,G,6.0,,Bern,Oficial de Cubierta,Otras
+93,40010,Segunda Clase,0.0,Hans Miller,M,0,1,1,1.0,nan,,60.0,,Oficial de Cubierta,Judaísmo
+94,27103,Segunda Clase,1.0,Hannelore Brown,nan,69,0,1,1.0,G,10.0,,Berna,Oficial de Cubierta,Islam
+95,45673,Segunda Clase,0.0,Elisabeth Williams,M,35,4,0,0.0,nan,,423.0,,Personal de Máquinas,Ateísmo
+96,51290,Segunda Clase,1.0,Gustav Davis,nan,29,0,0,0.0,G,10.0,,Bern,Oficial Subalterno,Hinduismo
+97,42546,Cuarta Clase,1.0,Hannelore Wilson,nan,23,2,2,,K,8.0,,Madrid,Pasajeros Civiles,Judaísmo
+98,29337,Segunda Clase,0.0,Hannelore Jackson,nan,57,1,2,0.0,nan,,22.0,,Personal de Cubierta,Judaísmo
+99,38826,Segunda Clase,1.0,Renate Anderson,M,52,3,2,0.0,G,6.0,,Dublín,Oficial Subalterno,Ateísmo
+100,62170,Segunda Clase,0.0,Elisabeth Brown,M,9,2,0,0.0,nan,,1.0,,Oficial Subalterno,Islam
+101,45622,Cuarta Clase,0.0,Friedrich Thompson,F,79,0,1,0.0,nan,,623.0,,Pasajeros Civiles,Islam
+102,38934,Segunda Clase,0.0,Ingrid Johnson,F,59,3,2,0.0,nan,,12.0,,Personal de Cubierta,Otras
+103,67954,Segunda Clase,1.0,Heinz White,M,25,4,2,,P,6.0,,Londres,Oficial Subalterno,Budismo
+104,57717,Segunda Clase,0.0,Jürgen Williams,F,53,0,0,1.0,nan,,633.0,,Oficial Superior,Ateísmo
+105,50928,Cuarta Clase,1.0,Greta Robinson,nan,11,2,2,,D,10.0,,Lisboa,Pasajeros Civiles,Ateísmo
+106,67129,Segunda Clase,0.0,Erika Robinson,nan,8,3,1,,nan,,8.0,,Oficial Subalterno,Budismo
+107,55071,Cuarta Clase,0.0,Elisabeth Anderson,nan,66,4,1,1.0,nan,,301.0,,Pasajeros Civiles,Budismo
+108,34363,Segunda Clase,0.0,Hans Moore,M,8,0,0,,nan,,425.0,,Personal de Máquinas,Cristianismo
+109,42359,Segunda Clase,1.0,Marlene Martin,F,34,4,1,0.0,K,5.0,,Dublín,Oficial de Cubierta,Judaísmo
+110,34150,Segunda Clase,1.0,Jürgen Thomas,F,65,0,2,0.0,K,7.0,,Berna,Personal de Máquinas,Hinduismo
+111,41162,Cuarta Clase,1.0,Renate Jackson,F,27,4,0,0.0,D,3.0,,Londres,Pasajeros Civiles,Budismo
+112,61789,Segunda Clase,1.0,Helga Davis,F,48,2,0,0.0,P,4.0,,Berna,Oficial Subalterno,Budismo
+113,60322,Segunda Clase,1.0,Hannelore Jackson,F,41,2,0,0.0,D,5.0,,Dublín,Personal de Cubierta,Budismo
+114,42219,Cuarta Clase,0.0,Friedrich Robinson,F,35,3,0,,nan,,229.0,,Pasajeros Civiles,Ateísmo
+115,63311,Segunda Clase,1.0,Gustav Wilson,nan,69,3,1,0.0,G,1.0,,Lisboa,Oficial Subalterno,Ateísmo
+116,53077,Segunda Clase,1.0,Friedrich Williams,M,14,2,0,,K,5.0,,Bern,Personal de Servicio,Otras
+117,63242,Cuarta Clase,0.0,Erich Brown,M,9,2,0,,nan,,302.0,,Pasajeros Civiles,Cristianismo
+118,51175,Segunda Clase,0.0,Elisabeth Brown,nan,5,4,1,1.0,nan,,401.0,,Oficial Superior,Islam
+119,48723,Segunda Clase,0.0,Elisabeth Anderson,M,55,1,0,,nan,,514.0,,Oficial Superior,Budismo
+120,39373,Segunda Clase,0.0,Ingrid Jones,nan,63,2,2,1.0,nan,,548.0,,Personal Médico,Judaísmo
+121,34065,Segunda Clase,0.0,Friedrich Smith,nan,41,0,2,0.0,nan,,849.0,,Personal Médico,Ateísmo
+122,58392,Segunda Clase,0.0,Gustav Harris,M,44,0,0,0.0,nan,,395.0,,Personal de Máquinas,Otras
+123,57343,Cuarta Clase,0.0,Ingrid Moore,nan,61,4,0,,nan,,48.0,,Pasajeros Civiles,Judaísmo
+124,30957,Segunda Clase,0.0,Heinz Brown,nan,56,1,0,,nan,,772.0,,Oficial Superior,Otras
+125,28087,Segunda Clase,0.0,Friedrich Davis,nan,24,3,1,0.0,nan,,387.0,,Personal Médico,Budismo
+126,32185,Cuarta Clase,1.0,Helga Harris,M,49,3,1,1.0,D,1.0,,Berna,Pasajeros Civiles,Judaísmo
+127,35016,Segunda Clase,0.0,Renate Garcia,F,55,1,1,,nan,,835.0,,Oficial de Cubierta,Otras
+128,66120,Cuarta Clase,0.0,Gertrud White,M,15,3,0,0.0,nan,,368.0,,Pasajeros Civiles,Otras
+129,35484,Cuarta Clase,1.0,Heinz Smith,M,44,3,1,,K,9.0,,Berna,Pasajeros Civiles,Hinduismo
+130,52666,Segunda Clase,0.0,Friedrich Thomas,nan,71,2,0,1.0,nan,,682.0,,Personal de Cubierta,Otras
+131,64086,Segunda Clase,1.0,Renate Williams,nan,22,0,1,1.0,K,8.0,,Dublín,Personal Médico,Budismo
+132,29163,Cuarta Clase,1.0,Erika Robinson,F,67,3,2,,K,7.0,,Bern,Pasajeros Civiles,Islam
+133,50216,Cuarta Clase,0.0,Greta Jackson,nan,22,0,0,0.0,nan,,393.0,,Pasajeros Civiles,Hinduismo
+134,50009,Segunda Clase,1.0,Hans Taylor,M,5,2,2,1.0,P,9.0,,Bern,Personal Médico,Budismo
+135,64052,Segunda Clase,0.0,Helga Jackson,F,25,4,1,0.0,nan,,802.0,,Personal de Servicio,Budismo
+136,55674,Segunda Clase,0.0,Friedrich Garcia,nan,14,1,0,1.0,nan,,449.0,,Personal de Servicio,Hinduismo
+137,59676,Segunda Clase,1.0,Jürgen Martinez,M,53,4,0,0.0,G,1.0,,Berna,Oficial Superior,Hinduismo
+138,41476,Segunda Clase,1.0,Gertrud Davis,F,38,3,2,,G,6.0,,Bern,Personal Médico,Islam
+139,61256,Segunda Clase,0.0,Elisabeth Davis,F,13,1,2,0.0,nan,,916.0,,Personal Médico,Judaísmo
+140,25752,Segunda Clase,0.0,Dieter Moore,F,44,2,1,0.0,nan,,285.0,,Oficial Superior,Otras
+141,32507,Segunda Clase,1.0,Gustav Moore,F,30,4,0,1.0,D,5.0,,Londres,Oficial Superior,Judaísmo
+142,60190,Segunda Clase,0.0,Margarete Brown,M,5,1,1,0.0,nan,,834.0,,Personal de Máquinas,Hinduismo
+143,42486,Segunda Clase,0.0,Friedrich Davis,M,59,0,1,0.0,nan,,577.0,,Oficial Subalterno,Otras
+144,67006,Segunda Clase,1.0,Helga Moore,nan,23,4,0,1.0,G,5.0,,Madrid,Oficial Superior,Otras
+145,47293,Segunda Clase,1.0,Helga Taylor,F,50,0,2,0.0,K,8.0,,Dublín,Oficial Subalterno,Otras
+146,32310,Segunda Clase,0.0,Margarete Williams,nan,33,1,1,,nan,,656.0,,Personal de Cubierta,Budismo
+147,44234,Cuarta Clase,1.0,Ingrid Moore,M,62,3,1,1.0,K,4.0,,Madrid,Pasajeros Civiles,Budismo
+148,53492,Segunda Clase,0.0,Jürgen Martin,nan,66,2,0,0.0,nan,,460.0,,Personal de Máquinas,Otras
+149,35365,Segunda Clase,0.0,Erika Robinson,F,72,0,1,0.0,nan,,277.0,,Personal de Servicio,Otras
+150,54735,Cuarta Clase,1.0,Karl Harris,F,43,3,2,,K,2.0,,Lisboa,Pasajeros Civiles,Hinduismo
+151,25212,Segunda Clase,1.0,Heinz Brown,M,10,2,2,,P,2.0,,Londres,Personal de Cubierta,Otras
+152,42261,Segunda Clase,0.0,Gustav Smith,nan,75,3,1,,nan,,125.0,,Personal Médico,Otras
+153,57806,Cuarta Clase,1.0,Elisabeth Anderson,F,68,1,1,1.0,K,9.0,,Londres,Pasajeros Civiles,Hinduismo
+154,36708,Segunda Clase,0.0,Erika Jackson,F,42,3,0,0.0,nan,,14.0,,Personal de Servicio,Judaísmo
+155,58271,Segunda Clase,1.0,Greta Harris,F,64,0,1,,P,9.0,,Madrid,Oficial Superior,Otras
+156,31973,Segunda Clase,0.0,Greta White,nan,46,1,0,0.0,nan,,539.0,,Oficial Superior,Islam
+157,65979,Cuarta Clase,0.0,Erika Brown,F,39,4,1,0.0,nan,,835.0,,Pasajeros Civiles,Ateísmo
+158,44558,Segunda Clase,1.0,Gustav Anderson,nan,58,1,1,1.0,K,2.0,,Estocolmo,Oficial de Cubierta,Budismo
+159,66874,Segunda Clase,1.0,Erika Miller,F,62,1,2,,G,5.0,,Madrid,Personal de Servicio,Cristianismo
+160,58270,Segunda Clase,0.0,Margarete Anderson,F,7,4,0,0.0,nan,,464.0,,Personal Médico,Ateísmo
+161,64909,Segunda Clase,0.0,Wolfgang Jackson,nan,12,0,2,,nan,,814.0,,Oficial de Cubierta,Ateísmo
+162,38035,Segunda Clase,1.0,Greta Taylor,M,19,1,0,,D,8.0,,Lisboa,Personal de Servicio,Islam
+163,49504,Segunda Clase,1.0,Margarete Martinez,M,19,1,2,0.0,D,3.0,,Dublín,Personal de Máquinas,Cristianismo
+164,35587,Segunda Clase,0.0,Jürgen Anderson,M,38,1,2,0.0,nan,,215.0,,Personal Médico,Otras
+165,60348,Segunda Clase,0.0,Elisabeth Moore,M,70,4,0,1.0,nan,,363.0,,Personal de Servicio,Judaísmo
+166,59757,Segunda Clase,1.0,Elisabeth Thomas,F,51,3,2,0.0,D,9.0,,Londres,Personal de Servicio,Ateísmo
+167,25037,Segunda Clase,1.0,Heinz Martinez,M,76,3,1,,D,4.0,,Madrid,Oficial Superior,Hinduismo
+168,64252,Segunda Clase,0.0,Karl Martinez,nan,9,0,0,,nan,,275.0,,Personal de Máquinas,Hinduismo
+169,46243,Segunda Clase,0.0,Renate Davis,nan,35,4,0,1.0,nan,,994.0,,Personal de Servicio,Otras
+170,57021,Segunda Clase,1.0,Renate Smith,nan,9,3,1,1.0,D,1.0,,Lisboa,Personal de Máquinas,Judaísmo
+171,26276,Segunda Clase,0.0,Marlene Miller,F,1,1,2,1.0,nan,,917.0,,Personal de Cubierta,Judaísmo
+172,32331,Segunda Clase,1.0,Marlene Taylor,M,32,0,0,,K,9.0,,Estocolmo,Personal de Máquinas,Hinduismo
+173,48788,Segunda Clase,0.0,Friedrich White,M,69,1,2,1.0,nan,,918.0,,Oficial Subalterno,Budismo
+174,45153,Segunda Clase,1.0,Margarete Brown,nan,38,2,1,0.0,K,1.0,,Lisboa,Personal Médico,Judaísmo
+175,40692,Segunda Clase,0.0,Gustav Wilson,F,63,4,1,0.0,nan,,353.0,,Oficial Superior,Hinduismo
+176,28796,Segunda Clase,0.0,Erich Brown,M,17,4,1,1.0,nan,,63.0,,Oficial Superior,Hinduismo
+177,40785,Segunda Clase,0.0,Helga Jackson,M,26,2,2,,nan,,599.0,,Oficial Superior,Judaísmo
+178,62182,Segunda Clase,1.0,Friedrich Harris,M,77,4,1,,K,6.0,,Berna,Oficial Superior,Otras
+179,30161,Segunda Clase,1.0,Erika Martin,F,77,0,0,1.0,P,5.0,,Dublín,Personal de Servicio,Hinduismo
+180,30613,Segunda Clase,0.0,Hannelore Jackson,nan,12,2,1,1.0,nan,,44.0,,Oficial Superior,Ateísmo
+181,56849,Segunda Clase,0.0,Renate Thompson,nan,70,3,1,,nan,,544.0,,Personal de Máquinas,Islam
+182,29535,Segunda Clase,0.0,Helga Garcia,M,64,2,1,1.0,nan,,939.0,,Oficial Subalterno,Budismo
+183,59911,Cuarta Clase,0.0,Klaus Thomas,F,73,1,2,1.0,nan,,951.0,,Pasajeros Civiles,Hinduismo
+184,33241,Cuarta Clase,0.0,Renate Robinson,nan,48,0,0,1.0,nan,,498.0,,Pasajeros Civiles,Islam
+185,33414,Cuarta Clase,0.0,Friedrich Jones,F,44,1,0,,nan,,540.0,,Pasajeros Civiles,Cristianismo
+186,68237,Cuarta Clase,0.0,Jürgen Thomas,M,37,1,2,0.0,nan,,925.0,,Pasajeros Civiles,Judaísmo
+187,56148,Segunda Clase,1.0,Wolfgang Robinson,F,71,3,2,,P,9.0,,Londres,Personal de Máquinas,Judaísmo
+188,61031,Segunda Clase,1.0,Klaus Martinez,nan,70,4,1,,K,7.0,,Bern,Oficial Superior,Budismo
+189,35821,Segunda Clase,0.0,Elisabeth Anderson,nan,1,1,1,1.0,nan,,967.0,,Personal de Servicio,Otras
+190,42370,Segunda Clase,1.0,Helga Jones,M,32,0,0,0.0,P,6.0,,Londres,Personal de Máquinas,Ateísmo
+191,59581,Segunda Clase,0.0,Hans Jones,M,14,2,1,0.0,nan,,77.0,,Personal de Servicio,Otras
+192,64753,Cuarta Clase,0.0,Erich Wilson,M,43,3,2,,nan,,446.0,,Pasajeros Civiles,Budismo
+193,52730,Segunda Clase,1.0,Gertrud Thompson,M,34,3,1,1.0,P,3.0,,Berna,Personal de Cubierta,Ateísmo
+194,38880,Segunda Clase,0.0,Renate Martinez,nan,61,4,1,1.0,nan,,118.0,,Personal de Cubierta,Ateísmo
+195,60343,Segunda Clase,1.0,Hannelore Wilson,F,6,0,2,1.0,K,9.0,,Berna,Personal de Máquinas,Budismo
+196,38182,Segunda Clase,0.0,Marlene Thomas,M,69,2,0,1.0,nan,,914.0,,Oficial Superior,Budismo
+197,45428,Cuarta Clase,0.0,Elisabeth Harris,nan,23,2,1,,nan,,554.0,,Pasajeros Civiles,Ateísmo
+198,51148,Segunda Clase,0.0,Hannelore Thompson,M,22,4,1,,nan,,93.0,,Oficial de Cubierta,Judaísmo
+199,49472,Segunda Clase,0.0,Dieter Thomas,F,24,0,2,0.0,nan,,395.0,,Oficial Subalterno,Cristianismo
+200,53711,Segunda Clase,0.0,Hans Martin,F,33,2,1,1.0,nan,,565.0,,Personal Médico,Hinduismo
+201,58919,Segunda Clase,0.0,Heinz Taylor,M,79,1,0,0.0,nan,,35.0,,Oficial de Cubierta,Ateísmo
+202,54588,Segunda Clase,0.0,Helga Williams,M,0,4,1,,nan,,436.0,,Oficial Superior,Judaísmo
+203,32930,Segunda Clase,1.0,Heinz Brown,nan,68,2,0,1.0,D,9.0,,Madrid,Personal de Máquinas,Hinduismo
+204,41246,Cuarta Clase,1.0,Ingrid Taylor,M,9,3,0,0.0,G,7.0,,Madrid,Pasajeros Civiles,Budismo
+205,39725,Segunda Clase,0.0,Greta Harris,M,42,2,0,0.0,nan,,812.0,,Personal de Máquinas,Judaísmo
+206,29196,Segunda Clase,1.0,Karl Thompson,nan,75,2,2,0.0,K,2.0,,Madrid,Oficial Superior,Ateísmo
+207,47156,Segunda Clase,1.0,Margarete Thomas,M,51,2,2,1.0,P,2.0,,Estocolmo,Personal de Cubierta,Budismo
+208,26378,Segunda Clase,1.0,Margarete Jones,M,2,3,2,,D,6.0,,Lisboa,Oficial de Cubierta,Hinduismo
+209,63555,Segunda Clase,1.0,Marlene Harris,M,29,1,2,1.0,P,4.0,,Dublín,Personal de Servicio,Budismo
+210,61301,Cuarta Clase,0.0,Greta Williams,nan,65,2,0,,nan,,990.0,,Pasajeros Civiles,Otras
+211,40080,Cuarta Clase,1.0,Gustav Johnson,nan,53,4,1,1.0,G,8.0,,Madrid,Pasajeros Civiles,Cristianismo
+212,63564,Cuarta Clase,1.0,Heinz Smith,nan,71,0,1,1.0,G,6.0,,Estocolmo,Pasajeros Civiles,Budismo
+213,39432,Segunda Clase,1.0,Greta Jones,F,7,2,0,1.0,G,3.0,,Londres,Personal de Cubierta,Budismo
+214,25471,Cuarta Clase,1.0,Wolfgang Wilson,M,16,1,0,,D,7.0,,Estocolmo,Pasajeros Civiles,Cristianismo
+215,29652,Segunda Clase,0.0,Gertrud Davis,nan,76,2,0,0.0,nan,,858.0,,Oficial Subalterno,Hinduismo
+216,66359,Segunda Clase,1.0,Renate Davis,F,78,4,2,0.0,D,5.0,,Londres,Personal de Cubierta,Budismo
+217,28858,Segunda Clase,1.0,Greta Garcia,nan,27,4,2,0.0,K,4.0,,Lisboa,Personal de Cubierta,Judaísmo
+218,40003,Segunda Clase,1.0,Helga Harris,M,27,2,2,1.0,K,10.0,,Dublín,Personal de Máquinas,Islam
+219,29417,Segunda Clase,1.0,Jürgen Jackson,M,30,2,1,0.0,D,1.0,,Berna,Personal de Máquinas,Judaísmo
+220,27058,Cuarta Clase,0.0,Wolfgang Davis,F,3,0,0,,nan,,844.0,,Pasajeros Civiles,Ateísmo
+221,46654,Segunda Clase,1.0,Helga Jackson,nan,77,3,1,0.0,D,5.0,,Dublín,Oficial Subalterno,Hinduismo
+222,29643,Segunda Clase,0.0,Hans Robinson,nan,22,4,0,,nan,,562.0,,Oficial Subalterno,Judaísmo
+223,58695,Segunda Clase,0.0,Karl Harris,nan,58,3,0,1.0,nan,,36.0,,Personal de Servicio,Hinduismo
+224,40597,Segunda Clase,0.0,Hannelore White,nan,31,0,0,0.0,nan,,86.0,,Oficial Superior,Judaísmo
+225,43250,Segunda Clase,0.0,Elisabeth Smith,nan,9,1,0,1.0,nan,,379.0,,Oficial Subalterno,Budismo
+226,68842,Cuarta Clase,0.0,Karl Miller,M,69,2,0,,nan,,79.0,,Pasajeros Civiles,Otras
+227,56812,Segunda Clase,0.0,Erich Williams,F,43,1,0,,nan,,141.0,,Oficial Superior,Cristianismo
+228,39040,Cuarta Clase,1.0,Hannelore Jones,M,36,1,1,0.0,P,6.0,,Estocolmo,Pasajeros Civiles,Islam
+229,60339,Segunda Clase,1.0,Renate Davis,nan,26,4,1,,D,10.0,,Estocolmo,Oficial de Cubierta,Islam
+230,33671,Segunda Clase,1.0,Ingrid Anderson,M,36,4,0,1.0,G,9.0,,Bern,Personal de Servicio,Islam
+231,62423,Segunda Clase,0.0,Karl Harris,F,72,2,0,,nan,,42.0,,Personal de Servicio,Cristianismo
+232,62762,Segunda Clase,1.0,Heinz Moore,nan,18,4,2,1.0,K,4.0,,Lisboa,Personal Médico,Hinduismo
+233,55976,Segunda Clase,0.0,Margarete Thompson,M,1,1,0,,nan,,875.0,,Personal de Máquinas,Ateísmo
+234,40925,Segunda Clase,1.0,Greta Robinson,M,49,3,1,0.0,K,6.0,,Bern,Oficial Subalterno,Budismo
+235,55996,Segunda Clase,0.0,Elisabeth Robinson,M,67,4,2,0.0,nan,,200.0,,Personal de Máquinas,Hinduismo
+236,51677,Segunda Clase,0.0,Elisabeth Martinez,nan,30,4,1,1.0,nan,,602.0,,Personal de Cubierta,Budismo
+237,37478,Segunda Clase,0.0,Heinz Thomas,F,74,2,0,0.0,nan,,240.0,,Personal de Máquinas,Cristianismo
+238,31181,Segunda Clase,0.0,Ingrid Harris,nan,57,2,1,1.0,nan,,490.0,,Oficial Superior,Judaísmo
+239,31352,Cuarta Clase,1.0,Erika Davis,F,71,0,0,,P,10.0,,Estocolmo,Pasajeros Civiles,Cristianismo
+240,68187,Segunda Clase,1.0,Gustav Robinson,M,71,4,2,1.0,G,4.0,,Berna,Oficial Subalterno,Islam
+241,53249,Segunda Clase,0.0,Hannelore Williams,M,7,3,0,,nan,,111.0,,Oficial Subalterno,Islam
+242,48219,Cuarta Clase,1.0,Dieter Anderson,nan,9,0,1,1.0,G,1.0,,Estocolmo,Pasajeros Civiles,Budismo
+243,52759,Segunda Clase,0.0,Heinz Wilson,F,40,3,0,1.0,nan,,125.0,,Oficial Superior,Otras
+244,51941,Segunda Clase,0.0,Gustav Jones,F,12,3,0,0.0,nan,,766.0,,Personal de Cubierta,Islam
+245,55606,Segunda Clase,0.0,Wolfgang Thomas,F,62,2,0,0.0,nan,,151.0,,Personal Médico,Budismo
+246,28550,Segunda Clase,1.0,Dieter Thompson,nan,28,2,0,0.0,K,5.0,,Madrid,Personal de Servicio,Hinduismo
+247,67824,Segunda Clase,1.0,Elisabeth White,M,75,0,1,,P,9.0,,Dublín,Personal Médico,Otras
+248,67348,Segunda Clase,0.0,Erika Brown,nan,4,0,2,,nan,,368.0,,Personal Médico,Judaísmo
+249,31449,Segunda Clase,0.0,Hannelore Jackson,F,52,0,1,0.0,nan,,74.0,,Personal de Servicio,Otras
+250,28972,Segunda Clase,0.0,Helga Davis,nan,35,1,0,,nan,,427.0,,Personal de Cubierta,Otras
+251,51386,Segunda Clase,1.0,Margarete Garcia,nan,21,0,0,,G,8.0,,Dublín,Oficial de Cubierta,Budismo
+252,47236,Cuarta Clase,0.0,Wolfgang Garcia,nan,67,0,2,1.0,nan,,57.0,,Pasajeros Civiles,Islam
+253,32161,Segunda Clase,0.0,Wolfgang Martin,M,43,3,1,0.0,nan,,656.0,,Oficial Superior,Cristianismo
+254,41295,Segunda Clase,0.0,Gustav Brown,M,42,2,0,0.0,nan,,436.0,,Personal de Máquinas,Hinduismo
+255,37556,Segunda Clase,0.0,Wolfgang Anderson,nan,8,4,2,,nan,,472.0,,Personal de Servicio,Budismo
+256,37465,Segunda Clase,0.0,Marlene Robinson,F,33,0,0,1.0,nan,,962.0,,Oficial Superior,Hinduismo
+257,60146,Segunda Clase,1.0,Klaus Thomas,M,73,4,0,0.0,P,10.0,,Berna,Personal de Cubierta,Ateísmo
+258,54400,Segunda Clase,0.0,Hans Martin,M,1,4,1,,nan,,886.0,,Personal Médico,Budismo
+259,34186,Cuarta Clase,0.0,Dieter Miller,nan,61,2,2,1.0,nan,,8.0,,Pasajeros Civiles,Ateísmo
+260,52648,Segunda Clase,1.0,Elisabeth Garcia,F,53,2,0,1.0,G,10.0,,Madrid,Personal de Cubierta,Budismo
+261,37025,Cuarta Clase,0.0,Gertrud Martin,M,58,4,0,1.0,nan,,502.0,,Pasajeros Civiles,Judaísmo
+262,43254,Segunda Clase,0.0,Helga Martin,F,77,1,0,1.0,nan,,398.0,,Oficial de Cubierta,Budismo
+263,55318,Segunda Clase,1.0,Helga Harris,nan,41,0,2,,K,7.0,,Berna,Personal de Servicio,Hinduismo
+264,41371,Cuarta Clase,1.0,Margarete Davis,M,46,4,0,0.0,K,8.0,,Bern,Pasajeros Civiles,Islam
+265,29940,Cuarta Clase,1.0,Friedrich Martinez,nan,58,1,2,1.0,G,5.0,,Madrid,Pasajeros Civiles,Cristianismo
+266,54041,Segunda Clase,0.0,Hans Wilson,M,21,1,0,0.0,nan,,439.0,,Oficial de Cubierta,Budismo
+267,61066,Segunda Clase,0.0,Gustav Johnson,F,36,0,1,0.0,nan,,902.0,,Personal de Cubierta,Ateísmo
+268,31416,Segunda Clase,0.0,Erich Wilson,M,71,0,0,1.0,nan,,221.0,,Oficial de Cubierta,Ateísmo
+269,28315,Segunda Clase,0.0,Renate Taylor,nan,2,4,2,0.0,nan,,952.0,,Oficial Subalterno,Hinduismo
+270,67738,Segunda Clase,0.0,Wolfgang Harris,M,7,1,0,,nan,,134.0,,Personal de Cubierta,Otras
+271,60427,Segunda Clase,0.0,Hannelore Martin,nan,13,3,1,0.0,nan,,917.0,,Personal de Cubierta,Cristianismo
+272,25967,Segunda Clase,0.0,Renate Thompson,M,9,3,0,1.0,nan,,683.0,,Personal de Máquinas,Cristianismo
+273,31112,Segunda Clase,1.0,Heinz Martinez,nan,68,1,1,,D,8.0,,Berna,Oficial Superior,Cristianismo
+274,40491,Cuarta Clase,0.0,Heinz Moore,F,47,0,2,1.0,nan,,371.0,,Pasajeros Civiles,Islam
+275,35899,Segunda Clase,0.0,Renate Thomas,M,65,2,0,,nan,,730.0,,Personal Médico,Otras
+276,51634,Segunda Clase,0.0,Renate Johnson,nan,5,1,2,0.0,nan,,394.0,,Personal de Servicio,Islam
+277,56826,Segunda Clase,0.0,Marlene Garcia,nan,0,3,2,,nan,,11.0,,Oficial Subalterno,Hinduismo
+278,56546,Segunda Clase,1.0,Karl White,M,61,3,2,0.0,K,4.0,,Estocolmo,Oficial Subalterno,Budismo
+279,39008,Segunda Clase,1.0,Heinz Wilson,nan,13,1,1,0.0,D,9.0,,Londres,Personal de Servicio,Budismo
+280,51282,Cuarta Clase,1.0,Gustav Johnson,M,60,0,1,1.0,G,6.0,,Londres,Pasajeros Civiles,Cristianismo
+281,28842,Segunda Clase,0.0,Marlene Moore,M,15,1,2,1.0,nan,,77.0,,Oficial de Cubierta,Otras
+282,35789,Cuarta Clase,0.0,Ingrid Williams,M,53,0,1,0.0,nan,,835.0,,Pasajeros Civiles,Ateísmo
+283,49836,Cuarta Clase,1.0,Marlene Jones,F,45,0,1,0.0,G,6.0,,Lisboa,Pasajeros Civiles,Cristianismo
+284,25141,Segunda Clase,0.0,Jürgen Miller,F,8,4,1,1.0,nan,,841.0,,Personal de Máquinas,Ateísmo
+285,50586,Segunda Clase,0.0,Hannelore Thomas,F,31,3,0,0.0,nan,,658.0,,Oficial Superior,Judaísmo
+286,42380,Segunda Clase,0.0,Erika White,F,41,0,0,0.0,nan,,256.0,,Personal de Servicio,Judaísmo
+287,54819,Cuarta Clase,1.0,Wolfgang Robinson,M,21,0,2,1.0,G,8.0,,Madrid,Pasajeros Civiles,Budismo
+288,43694,Segunda Clase,0.0,Dieter Miller,M,42,1,0,1.0,nan,,202.0,,Personal de Servicio,Judaísmo
+289,52722,Cuarta Clase,0.0,Karl Johnson,M,12,0,2,0.0,nan,,621.0,,Pasajeros Civiles,Judaísmo
+290,61422,Segunda Clase,0.0,Hannelore Thomas,M,8,2,2,,nan,,385.0,,Personal Médico,Judaísmo
+291,68376,Segunda Clase,0.0,Renate Moore,M,63,1,2,,nan,,46.0,,Oficial Superior,Ateísmo
+292,56894,Segunda Clase,1.0,Erika Garcia,nan,21,4,0,1.0,P,5.0,,Dublín,Personal de Máquinas,Judaísmo
+293,35144,Segunda Clase,1.0,Wolfgang Anderson,F,44,1,1,0.0,K,5.0,,Dublín,Personal de Servicio,Judaísmo
+294,37445,Segunda Clase,1.0,Gustav Taylor,nan,63,3,2,,K,3.0,,Estocolmo,Personal de Servicio,Islam
+295,44445,Segunda Clase,1.0,Hannelore Moore,F,42,2,1,1.0,G,5.0,,Lisboa,Personal de Servicio,Islam
+296,39267,Segunda Clase,1.0,Gertrud Jones,M,23,2,1,1.0,D,1.0,,Londres,Personal de Cubierta,Ateísmo
+297,28832,Segunda Clase,0.0,Dieter White,F,41,2,0,,nan,,28.0,,Oficial Superior,Ateísmo
+298,62957,Segunda Clase,1.0,Klaus Moore,M,2,3,1,,G,8.0,,Madrid,Personal de Servicio,Otras
+299,60533,Cuarta Clase,0.0,Dieter Brown,nan,18,3,0,1.0,nan,,868.0,,Pasajeros Civiles,Judaísmo
+300,28994,Segunda Clase,0.0,Jürgen Brown,M,73,4,2,0.0,nan,,149.0,,Personal de Máquinas,Otras
+301,45552,Segunda Clase,0.0,Greta Wilson,F,63,1,0,,nan,,821.0,,Oficial Subalterno,Hinduismo
+302,28746,Segunda Clase,1.0,Elisabeth Martin,M,44,1,1,,D,1.0,,Londres,Personal Médico,Hinduismo
+303,28286,Segunda Clase,0.0,Dieter Martinez,nan,66,0,2,1.0,nan,,751.0,,Personal de Máquinas,Ateísmo
+304,63284,Segunda Clase,0.0,Erich White,F,5,4,0,0.0,nan,,486.0,,Oficial Superior,Budismo
+305,56246,Segunda Clase,0.0,Elisabeth Harris,M,68,0,0,0.0,nan,,742.0,,Personal de Servicio,Otras
+306,57954,Segunda Clase,0.0,Friedrich Williams,nan,28,0,2,,nan,,820.0,,Oficial Superior,Islam
+307,59807,Segunda Clase,0.0,Elisabeth Thompson,F,5,3,0,1.0,nan,,847.0,,Oficial de Cubierta,Budismo
+308,35317,Segunda Clase,0.0,Erich Thomas,F,4,3,1,1.0,nan,,168.0,,Personal de Servicio,Cristianismo
+309,28727,Segunda Clase,0.0,Marlene Martin,M,33,4,1,1.0,nan,,333.0,,Personal de Servicio,Otras
+310,58281,Cuarta Clase,0.0,Greta Martinez,M,57,4,0,0.0,nan,,195.0,,Pasajeros Civiles,Hinduismo
+311,30250,Segunda Clase,1.0,Hans Williams,F,33,1,0,0.0,K,2.0,,Berna,Oficial Superior,Judaísmo
+312,37178,Segunda Clase,1.0,Marlene Thomas,F,18,1,0,0.0,D,6.0,,Bern,Personal de Servicio,Hinduismo
+313,29490,Segunda Clase,1.0,Friedrich Garcia,F,27,3,2,,K,5.0,,Lisboa,Personal de Cubierta,Cristianismo
+314,63996,Segunda Clase,0.0,Elisabeth Miller,nan,73,1,0,1.0,nan,,402.0,,Personal de Máquinas,Cristianismo
+315,29453,Segunda Clase,0.0,Helga Miller,nan,61,2,1,0.0,nan,,430.0,,Oficial de Cubierta,Budismo
+316,40414,Segunda Clase,0.0,Margarete Moore,nan,49,2,1,,nan,,369.0,,Personal de Máquinas,Budismo
+317,51461,Segunda Clase,0.0,Greta Taylor,M,73,4,2,,nan,,839.0,,Oficial Subalterno,Ateísmo
+318,32856,Segunda Clase,0.0,Greta Garcia,F,65,0,1,,nan,,506.0,,Oficial Superior,Budismo
+319,62334,Cuarta Clase,0.0,Hannelore Brown,F,8,4,2,,nan,,294.0,,Pasajeros Civiles,Judaísmo
+320,41135,Segunda Clase,1.0,Hannelore Martin,F,37,1,2,1.0,P,9.0,,Estocolmo,Oficial Superior,Hinduismo
+321,62940,Cuarta Clase,0.0,Greta Johnson,F,59,0,1,0.0,nan,,817.0,,Pasajeros Civiles,Otras
+322,63962,Cuarta Clase,0.0,Klaus Jones,F,4,1,0,0.0,nan,,922.0,,Pasajeros Civiles,Budismo
+323,27604,Segunda Clase,1.0,Marlene Smith,F,52,2,2,,G,5.0,,Londres,Oficial de Cubierta,Ateísmo
+324,65591,Segunda Clase,1.0,Heinz Davis,F,10,3,2,0.0,D,8.0,,Berna,Personal de Máquinas,Cristianismo
+325,30372,Segunda Clase,0.0,Marlene Harris,F,24,4,1,0.0,nan,,541.0,,Personal de Máquinas,Cristianismo
+326,52474,Segunda Clase,0.0,Hans White,nan,14,0,2,1.0,nan,,88.0,,Oficial Subalterno,Ateísmo
+327,68081,Segunda Clase,0.0,Karl Brown,M,31,1,1,1.0,nan,,92.0,,Oficial de Cubierta,Judaísmo
+328,63251,Segunda Clase,0.0,Gustav Davis,M,56,1,2,1.0,nan,,802.0,,Oficial Superior,Budismo
+329,62042,Segunda Clase,1.0,Erich Williams,nan,57,1,1,,K,5.0,,Berna,Oficial Subalterno,Islam
+330,59261,Segunda Clase,0.0,Ingrid Moore,M,47,1,1,,nan,,70.0,,Personal de Cubierta,Otras
+331,45733,Segunda Clase,1.0,Friedrich Thomas,nan,14,1,1,0.0,D,10.0,,Berna,Oficial de Cubierta,Otras
+332,42089,Segunda Clase,0.0,Wolfgang Johnson,nan,50,4,2,1.0,nan,,634.0,,Oficial Subalterno,Judaísmo
+333,38386,Segunda Clase,0.0,Elisabeth Taylor,F,73,0,1,0.0,nan,,41.0,,Oficial Subalterno,Islam
+334,68891,Segunda Clase,1.0,Jürgen White,M,70,1,0,,K,9.0,,Madrid,Oficial Superior,Islam
+335,45590,Segunda Clase,0.0,Friedrich Jones,nan,42,3,0,,nan,,786.0,,Oficial Subalterno,Ateísmo
+336,40642,Segunda Clase,0.0,Hans Miller,F,31,3,0,0.0,nan,,706.0,,Personal Médico,Islam
+337,42407,Segunda Clase,1.0,Margarete Williams,F,44,3,2,1.0,D,1.0,,Lisboa,Personal Médico,Hinduismo
+338,50938,Segunda Clase,0.0,Dieter Martinez,F,20,1,2,1.0,nan,,410.0,,Personal Médico,Islam
+339,33577,Segunda Clase,0.0,Jürgen Thompson,M,34,3,0,0.0,nan,,532.0,,Personal de Máquinas,Otras
+340,67303,Segunda Clase,0.0,Marlene Smith,nan,54,0,0,1.0,nan,,849.0,,Personal de Máquinas,Budismo
+341,44660,Segunda Clase,1.0,Hans Anderson,M,40,3,2,1.0,D,6.0,,Berna,Oficial Subalterno,Hinduismo
+342,54964,Segunda Clase,1.0,Heinz White,nan,43,3,1,1.0,P,7.0,,Lisboa,Personal Médico,Judaísmo
+343,45720,Segunda Clase,0.0,Dieter Martin,M,17,0,0,0.0,nan,,537.0,,Oficial Superior,Judaísmo
+344,29754,Segunda Clase,0.0,Friedrich Wilson,M,19,3,0,,nan,,62.0,,Personal Médico,Ateísmo
+345,25610,Segunda Clase,0.0,Elisabeth Williams,F,17,1,1,1.0,nan,,544.0,,Personal Médico,Otras
+346,55034,Segunda Clase,0.0,Heinz Jones,F,9,0,2,,nan,,804.0,,Personal de Cubierta,Ateísmo
+347,65708,Segunda Clase,0.0,Greta Thomas,nan,30,0,1,1.0,nan,,6.0,,Personal de Cubierta,Otras
+348,61896,Cuarta Clase,0.0,Gustav Brown,M,40,1,0,0.0,nan,,658.0,,Pasajeros Civiles,Otras
+349,31552,Segunda Clase,1.0,Elisabeth Brown,nan,16,4,2,0.0,D,8.0,,Madrid,Personal de Máquinas,Cristianismo
+350,29801,Cuarta Clase,0.0,Dieter Williams,nan,42,4,0,,nan,,698.0,,Pasajeros Civiles,Ateísmo
+351,60234,Segunda Clase,1.0,Gertrud Martinez,F,27,4,2,0.0,G,2.0,,Estocolmo,Oficial Superior,Ateísmo
+352,38969,Segunda Clase,0.0,Hans Robinson,M,64,4,0,,nan,,121.0,,Personal de Cubierta,Hinduismo
+353,58153,Segunda Clase,0.0,Wolfgang Harris,nan,51,0,2,1.0,nan,,801.0,,Personal Médico,Ateísmo
+354,33680,Segunda Clase,1.0,Ingrid Miller,F,19,1,1,,D,4.0,,Bern,Personal Médico,Cristianismo
+355,47872,Cuarta Clase,1.0,Dieter White,F,41,2,2,,P,6.0,,Lisboa,Pasajeros Civiles,Ateísmo
+356,29508,Cuarta Clase,1.0,Erika Harris,M,23,2,1,1.0,D,4.0,,Madrid,Pasajeros Civiles,Judaísmo
+357,41009,Segunda Clase,0.0,Karl Williams,nan,29,2,1,0.0,nan,,702.0,,Personal de Máquinas,Hinduismo
+358,49217,Segunda Clase,0.0,Heinz Brown,nan,21,2,2,1.0,nan,,352.0,,Personal de Cubierta,Otras
+359,43676,Segunda Clase,0.0,Heinz Martinez,F,64,2,1,0.0,nan,,888.0,,Oficial Superior,Cristianismo
+360,35338,Segunda Clase,1.0,Elisabeth Thomas,M,52,4,1,0.0,G,5.0,,Estocolmo,Oficial Superior,Judaísmo
+361,53716,Cuarta Clase,0.0,Helga Anderson,F,35,3,1,1.0,nan,,566.0,,Pasajeros Civiles,Otras
+362,60600,Segunda Clase,0.0,Dieter Wilson,nan,78,4,2,1.0,nan,,472.0,,Personal de Servicio,Cristianismo
+363,44825,Segunda Clase,0.0,Erich Williams,nan,43,2,0,,nan,,844.0,,Personal Médico,Cristianismo
+364,65086,Cuarta Clase,1.0,Jürgen Garcia,M,79,1,0,0.0,G,9.0,,Lisboa,Pasajeros Civiles,Ateísmo
+365,67858,Cuarta Clase,1.0,Erika Robinson,F,50,4,0,,D,9.0,,Estocolmo,Pasajeros Civiles,Judaísmo
+366,59664,Segunda Clase,0.0,Erika Taylor,M,36,1,1,0.0,nan,,911.0,,Personal Médico,Judaísmo
+367,25512,Segunda Clase,0.0,Hans Taylor,M,46,3,2,,nan,,473.0,,Oficial de Cubierta,Ateísmo
+368,68769,Segunda Clase,0.0,Karl Thompson,M,66,3,1,1.0,nan,,825.0,,Personal de Máquinas,Otras
+369,61346,Segunda Clase,0.0,Erika Thompson,nan,73,1,2,0.0,nan,,546.0,,Personal Médico,Islam
+370,44620,Cuarta Clase,1.0,Karl Jackson,nan,18,0,0,,K,10.0,,Bern,Pasajeros Civiles,Ateísmo
+371,68475,Segunda Clase,1.0,Gustav Johnson,F,72,0,0,1.0,K,10.0,,Londres,Oficial Subalterno,Otras
+372,31788,Cuarta Clase,0.0,Jürgen Martin,nan,74,2,0,0.0,nan,,830.0,,Pasajeros Civiles,Islam
+373,33800,Segunda Clase,0.0,Elisabeth Jones,M,55,3,2,,nan,,494.0,,Personal Médico,Cristianismo
+374,42332,Segunda Clase,1.0,Jürgen Martin,F,76,2,2,1.0,P,1.0,,Dublín,Oficial Superior,Islam
+375,32564,Segunda Clase,1.0,Erika Williams,F,31,4,1,0.0,P,7.0,,Bern,Personal de Máquinas,Budismo
+376,32014,Segunda Clase,0.0,Gertrud Smith,nan,37,1,2,0.0,nan,,735.0,,Oficial Superior,Budismo
+377,35187,Cuarta Clase,1.0,Ingrid Anderson,F,17,3,2,1.0,K,6.0,,Madrid,Pasajeros Civiles,Hinduismo
+378,42848,Segunda Clase,1.0,Dieter Jackson,F,12,4,2,1.0,G,6.0,,Dublín,Oficial Subalterno,Islam
+379,43465,Cuarta Clase,1.0,Hannelore White,F,39,4,0,,K,2.0,,Dublín,Pasajeros Civiles,Judaísmo
+380,64638,Segunda Clase,1.0,Ingrid Garcia,M,38,3,0,1.0,P,7.0,,Berna,Oficial de Cubierta,Budismo
+381,38803,Segunda Clase,1.0,Wolfgang Martin,M,55,1,0,1.0,K,5.0,,Lisboa,Personal Médico,Otras
+382,47471,Segunda Clase,0.0,Friedrich Smith,M,6,4,0,0.0,nan,,514.0,,Personal Médico,Ateísmo
+383,38342,Cuarta Clase,1.0,Hannelore Williams,nan,37,4,1,1.0,G,3.0,,Berna,Pasajeros Civiles,Ateísmo
+384,66565,Cuarta Clase,1.0,Hans Moore,nan,61,3,2,,G,9.0,,Estocolmo,Pasajeros Civiles,Islam
+385,42300,Segunda Clase,0.0,Karl Johnson,nan,22,3,2,1.0,nan,,449.0,,Oficial Subalterno,Otras
+386,58122,Segunda Clase,0.0,Klaus Jackson,M,45,2,2,1.0,nan,,244.0,,Personal de Máquinas,Islam
+387,57016,Segunda Clase,0.0,Gertrud Taylor,M,33,3,0,,nan,,447.0,,Personal de Máquinas,Islam
+388,41457,Segunda Clase,1.0,Gertrud White,F,75,0,0,1.0,G,7.0,,Madrid,Personal de Cubierta,Islam
+389,28329,Segunda Clase,0.0,Helga Jackson,M,70,1,0,1.0,nan,,649.0,,Personal de Servicio,Budismo
+390,31048,Segunda Clase,1.0,Friedrich Garcia,nan,17,0,0,1.0,G,8.0,,Madrid,Personal de Servicio,Budismo
+391,66568,Segunda Clase,0.0,Renate Robinson,nan,17,1,2,1.0,nan,,308.0,,Personal de Máquinas,Otras
+392,43132,Cuarta Clase,0.0,Dieter Moore,F,56,2,1,1.0,nan,,717.0,,Pasajeros Civiles,Islam
+393,27889,Segunda Clase,0.0,Friedrich Taylor,nan,59,4,1,0.0,nan,,578.0,,Personal de Máquinas,Islam
+394,25232,Segunda Clase,1.0,Friedrich Thompson,nan,67,3,0,0.0,D,8.0,,Estocolmo,Oficial Superior,Judaísmo
+395,46859,Segunda Clase,0.0,Karl Brown,M,69,4,1,0.0,nan,,560.0,,Personal de Máquinas,Islam
+396,33573,Segunda Clase,0.0,Renate Anderson,M,46,4,2,0.0,nan,,446.0,,Oficial Superior,Islam
+397,66753,Cuarta Clase,0.0,Elisabeth Martinez,nan,64,1,0,1.0,nan,,384.0,,Pasajeros Civiles,Cristianismo
+398,42167,Segunda Clase,0.0,Friedrich Taylor,M,52,1,2,1.0,nan,,672.0,,Personal de Servicio,Judaísmo
+399,35589,Segunda Clase,0.0,Helga Wilson,M,76,3,0,1.0,nan,,278.0,,Personal de Cubierta,Islam
+400,53956,Segunda Clase,0.0,Klaus Wilson,nan,65,1,2,0.0,nan,,274.0,,Personal de Cubierta,Cristianismo
+401,61154,Segunda Clase,1.0,Friedrich White,nan,19,3,0,0.0,K,4.0,,Estocolmo,Oficial Subalterno,Hinduismo
+402,53028,Segunda Clase,1.0,Heinz Harris,M,37,4,1,,G,2.0,,Berna,Personal de Máquinas,Budismo
+403,61759,Segunda Clase,1.0,Erika Robinson,F,70,1,1,,P,8.0,,Bern,Oficial Superior,Otras
+404,25633,Segunda Clase,0.0,Klaus Taylor,nan,53,3,0,0.0,nan,,237.0,,Oficial Subalterno,Cristianismo
+405,29931,Segunda Clase,0.0,Wolfgang Jones,M,13,3,0,1.0,nan,,952.0,,Personal de Máquinas,Islam
+406,34768,Segunda Clase,0.0,Hans Brown,M,38,2,2,1.0,nan,,918.0,,Personal de Cubierta,Cristianismo
+407,60755,Segunda Clase,0.0,Hans Davis,M,3,2,2,0.0,nan,,182.0,,Personal de Servicio,Islam
+408,27361,Segunda Clase,0.0,Margarete Thomas,M,71,0,2,1.0,nan,,441.0,,Oficial Subalterno,Judaísmo
+409,49196,Segunda Clase,1.0,Gertrud Thompson,M,20,1,0,1.0,K,7.0,,Madrid,Oficial Superior,Cristianismo
+410,63175,Segunda Clase,0.0,Erich Davis,F,27,1,1,1.0,nan,,465.0,,Personal de Cubierta,Cristianismo
+411,61210,Cuarta Clase,0.0,Ingrid Brown,F,51,2,1,1.0,nan,,221.0,,Pasajeros Civiles,Cristianismo
+412,34705,Segunda Clase,1.0,Erich Jones,nan,64,4,1,0.0,G,5.0,,Londres,Personal de Servicio,Budismo
+413,53166,Segunda Clase,1.0,Hans Anderson,F,24,0,0,1.0,G,8.0,,Berna,Personal de Máquinas,Hinduismo
+414,33352,Segunda Clase,1.0,Helga Moore,M,52,3,1,,D,10.0,,Berna,Oficial Subalterno,Cristianismo
+415,27741,Cuarta Clase,1.0,Gertrud Williams,F,78,4,0,1.0,D,1.0,,Bern,Pasajeros Civiles,Cristianismo
+416,45202,Segunda Clase,1.0,Erich Martinez,F,2,2,0,1.0,G,5.0,,Bern,Oficial Superior,Judaísmo
+417,48897,Segunda Clase,1.0,Friedrich Martin,F,10,3,1,1.0,G,10.0,,Londres,Personal de Servicio,Budismo
+418,27614,Cuarta Clase,0.0,Marlene Thompson,nan,17,1,2,0.0,nan,,390.0,,Pasajeros Civiles,Judaísmo
+419,48449,Segunda Clase,0.0,Ingrid Johnson,M,34,3,1,1.0,nan,,153.0,,Personal de Máquinas,Judaísmo
+420,38767,Cuarta Clase,0.0,Margarete Martinez,F,62,3,1,,nan,,599.0,,Pasajeros Civiles,Hinduismo
+421,41353,Segunda Clase,1.0,Wolfgang Thomas,F,0,4,0,1.0,G,1.0,,Bern,Personal de Máquinas,Cristianismo
+422,68708,Segunda Clase,1.0,Wolfgang Moore,nan,43,4,2,0.0,P,9.0,,Lisboa,Personal de Cubierta,Judaísmo
+423,31736,Segunda Clase,0.0,Heinz Martinez,M,46,4,0,,nan,,934.0,,Oficial Subalterno,Islam
+424,48178,Segunda Clase,1.0,Heinz Wilson,nan,57,4,2,0.0,G,8.0,,Berna,Oficial de Cubierta,Judaísmo
+425,61692,Segunda Clase,1.0,Gertrud Smith,F,46,0,2,1.0,P,3.0,,Lisboa,Personal de Máquinas,Judaísmo
+426,51632,Segunda Clase,0.0,Klaus Smith,nan,70,3,2,0.0,nan,,643.0,,Personal Médico,Otras
+427,65675,Segunda Clase,0.0,Jürgen Johnson,M,74,1,0,0.0,nan,,650.0,,Oficial de Cubierta,Budismo
+428,35128,Segunda Clase,0.0,Margarete Thomas,F,42,3,2,0.0,nan,,563.0,,Oficial de Cubierta,Cristianismo
+429,40514,Segunda Clase,1.0,Elisabeth Brown,M,35,0,1,0.0,D,5.0,,Dublín,Oficial Subalterno,Judaísmo
+430,35649,Segunda Clase,0.0,Wolfgang Johnson,F,77,1,1,0.0,nan,,733.0,,Oficial Subalterno,Judaísmo
+431,36603,Segunda Clase,0.0,Renate White,nan,63,0,0,,nan,,837.0,,Oficial Superior,Budismo
+432,52020,Segunda Clase,0.0,Jürgen Anderson,M,69,0,2,1.0,nan,,545.0,,Personal de Cubierta,Hinduismo
+433,26624,Segunda Clase,0.0,Jürgen White,F,52,4,1,1.0,nan,,616.0,,Oficial Superior,Islam
+434,36754,Cuarta Clase,1.0,Greta Moore,F,5,0,1,1.0,K,4.0,,Dublín,Pasajeros Civiles,Hinduismo
+435,46770,Cuarta Clase,1.0,Friedrich Martinez,F,65,3,0,,D,3.0,,Berna,Pasajeros Civiles,Judaísmo
+436,51982,Cuarta Clase,1.0,Ingrid Jones,nan,63,2,0,1.0,D,3.0,,Estocolmo,Pasajeros Civiles,Islam
+437,68903,Cuarta Clase,1.0,Gertrud Johnson,F,12,2,0,1.0,G,8.0,,Bern,Pasajeros Civiles,Ateísmo
+438,41263,Segunda Clase,0.0,Wolfgang Wilson,F,25,4,0,1.0,nan,,591.0,,Personal de Máquinas,Budismo
+439,42485,Segunda Clase,0.0,Gertrud Johnson,M,63,3,0,0.0,nan,,181.0,,Oficial Subalterno,Hinduismo
+440,35433,Segunda Clase,1.0,Elisabeth Williams,F,59,0,2,1.0,K,9.0,,Lisboa,Personal de Servicio,Islam
+441,32084,Segunda Clase,1.0,Marlene Taylor,nan,69,2,2,1.0,P,3.0,,Dublín,Oficial Subalterno,Otras
+442,50070,Segunda Clase,0.0,Gustav Anderson,M,18,4,2,0.0,nan,,703.0,,Oficial Subalterno,Cristianismo
+443,27537,Segunda Clase,1.0,Friedrich Garcia,M,3,2,2,,P,9.0,,Berna,Oficial Subalterno,Otras
+444,55847,Segunda Clase,0.0,Marlene Smith,M,11,2,2,1.0,nan,,27.0,,Oficial Subalterno,Hinduismo
+445,39577,Segunda Clase,0.0,Ingrid Miller,nan,0,1,0,0.0,nan,,237.0,,Personal Médico,Ateísmo
+446,38079,Cuarta Clase,0.0,Gustav Martinez,F,72,2,0,,nan,,77.0,,Pasajeros Civiles,Budismo
+447,55166,Segunda Clase,0.0,Gustav Robinson,nan,3,0,1,0.0,nan,,534.0,,Personal de Servicio,Budismo
+448,47915,Segunda Clase,0.0,Jürgen Harris,nan,54,3,0,0.0,nan,,478.0,,Personal de Máquinas,Otras
+449,45000,Segunda Clase,0.0,Ingrid Martinez,nan,59,2,0,0.0,nan,,317.0,,Oficial de Cubierta,Judaísmo
+450,39915,Segunda Clase,1.0,Margarete Miller,M,52,4,1,,P,7.0,,Estocolmo,Personal Médico,Hinduismo
+451,39609,Segunda Clase,0.0,Renate Wilson,nan,49,0,1,1.0,nan,,728.0,,Personal de Cubierta,Islam
+452,26550,Segunda Clase,1.0,Dieter Smith,M,42,3,1,,K,7.0,,Berna,Personal Médico,Judaísmo
+453,68255,Segunda Clase,0.0,Helga Smith,M,45,0,2,1.0,nan,,469.0,,Oficial de Cubierta,Ateísmo
+454,37656,Cuarta Clase,1.0,Jürgen Garcia,nan,70,3,2,0.0,K,8.0,,Estocolmo,Pasajeros Civiles,Islam
+455,51113,Segunda Clase,0.0,Ingrid Smith,nan,61,2,1,0.0,nan,,441.0,,Oficial de Cubierta,Otras
+456,46512,Segunda Clase,1.0,Greta Smith,F,29,1,1,0.0,G,2.0,,Berna,Personal de Cubierta,Budismo
+457,43258,Segunda Clase,1.0,Elisabeth Taylor,nan,21,4,1,,K,5.0,,Bern,Personal Médico,Hinduismo
+458,29549,Segunda Clase,0.0,Heinz Miller,M,17,3,0,0.0,nan,,177.0,,Oficial de Cubierta,Budismo
+459,43292,Segunda Clase,0.0,Gertrud Wilson,F,62,1,0,0.0,nan,,484.0,,Personal de Máquinas,Otras
+460,48012,Segunda Clase,1.0,Helga Martin,M,56,2,0,0.0,P,8.0,,Bern,Personal Médico,Islam
+461,67040,Segunda Clase,0.0,Klaus Brown,F,62,4,2,1.0,nan,,956.0,,Personal Médico,Cristianismo
+462,58384,Segunda Clase,1.0,Erich Williams,M,19,3,0,0.0,K,6.0,,Estocolmo,Personal de Cubierta,Budismo
+463,51193,Segunda Clase,0.0,Klaus Wilson,F,37,1,0,1.0,nan,,720.0,,Personal de Servicio,Ateísmo
+464,60141,Cuarta Clase,0.0,Gertrud White,F,55,4,2,0.0,nan,,45.0,,Pasajeros Civiles,Judaísmo
+465,46702,Cuarta Clase,0.0,Ingrid Harris,F,44,4,1,,nan,,200.0,,Pasajeros Civiles,Cristianismo
+466,26808,Segunda Clase,0.0,Friedrich Martinez,F,34,0,1,0.0,nan,,534.0,,Personal de Servicio,Islam
+467,32559,Segunda Clase,1.0,Heinz Thompson,F,78,3,2,,D,4.0,,Londres,Oficial Subalterno,Islam
+468,42118,Segunda Clase,0.0,Dieter Jackson,F,32,0,2,,nan,,344.0,,Oficial de Cubierta,Ateísmo
+469,36702,Segunda Clase,0.0,Friedrich Martinez,nan,24,3,0,1.0,nan,,731.0,,Oficial Subalterno,Otras
+470,63049,Segunda Clase,0.0,Hannelore Johnson,nan,76,2,2,,nan,,515.0,,Personal de Cubierta,Ateísmo
+471,42397,Cuarta Clase,0.0,Helga Brown,M,7,2,2,,nan,,931.0,,Pasajeros Civiles,Islam
+472,27507,Segunda Clase,0.0,Jürgen Taylor,nan,2,0,0,,nan,,976.0,,Personal Médico,Budismo
+473,32104,Segunda Clase,1.0,Erich Anderson,M,50,2,1,1.0,P,8.0,,Berna,Personal de Máquinas,Otras
+474,64096,Cuarta Clase,0.0,Elisabeth Anderson,F,5,3,1,1.0,nan,,572.0,,Pasajeros Civiles,Judaísmo
+475,53479,Segunda Clase,1.0,Greta Harris,F,12,2,1,,G,6.0,,Bern,Oficial Superior,Cristianismo
+476,47654,Cuarta Clase,0.0,Erich Wilson,M,15,2,1,0.0,nan,,940.0,,Pasajeros Civiles,Cristianismo
+477,45557,Segunda Clase,0.0,Friedrich Miller,nan,8,4,1,0.0,nan,,225.0,,Oficial Superior,Judaísmo
+478,53599,Segunda Clase,0.0,Dieter Martinez,M,24,3,2,,nan,,730.0,,Personal de Cubierta,Budismo
+479,64728,Segunda Clase,1.0,Heinz Brown,M,47,0,2,,K,4.0,,Berna,Oficial Superior,Budismo
+480,58516,Segunda Clase,1.0,Heinz Davis,F,38,1,0,1.0,G,10.0,,Londres,Oficial Subalterno,Ateísmo
+481,32578,Segunda Clase,1.0,Marlene Harris,nan,36,0,2,1.0,K,1.0,,Londres,Personal de Cubierta,Cristianismo
+482,50244,Segunda Clase,1.0,Greta White,M,16,3,2,1.0,G,8.0,,Berna,Personal Médico,Ateísmo
+483,62787,Cuarta Clase,0.0,Heinz Garcia,nan,79,2,1,0.0,nan,,73.0,,Pasajeros Civiles,Judaísmo
+484,37457,Segunda Clase,1.0,Ingrid Miller,F,0,4,0,,G,7.0,,Bern,Oficial Subalterno,Islam
+485,41693,Segunda Clase,0.0,Marlene Taylor,M,2,4,2,1.0,nan,,720.0,,Personal de Servicio,Judaísmo
+486,27908,Segunda Clase,1.0,Marlene Moore,nan,1,0,1,1.0,K,10.0,,Madrid,Oficial Superior,Cristianismo
+487,53577,Segunda Clase,0.0,Heinz Williams,nan,56,1,2,,nan,,68.0,,Oficial de Cubierta,Ateísmo
+488,25110,Segunda Clase,1.0,Wolfgang Taylor,F,41,1,2,0.0,G,1.0,,Dublín,Personal Médico,Judaísmo
+489,59073,Segunda Clase,0.0,Erika Johnson,M,64,4,1,1.0,nan,,893.0,,Personal de Máquinas,Judaísmo
+490,60287,Cuarta Clase,0.0,Karl Anderson,F,70,2,0,0.0,nan,,901.0,,Pasajeros Civiles,Otras
+491,68950,Segunda Clase,0.0,Dieter Williams,nan,73,2,0,1.0,nan,,920.0,,Personal de Servicio,Islam
+492,37912,Cuarta Clase,0.0,Jürgen Thomas,M,8,0,1,,nan,,404.0,,Pasajeros Civiles,Judaísmo
+493,48869,Segunda Clase,0.0,Elisabeth Thompson,M,54,0,1,,nan,,963.0,,Personal de Servicio,Hinduismo
+494,53265,Cuarta Clase,0.0,Klaus Taylor,F,9,4,2,0.0,nan,,537.0,,Pasajeros Civiles,Islam
+495,29585,Segunda Clase,0.0,Erich Davis,F,40,1,1,0.0,nan,,264.0,,Personal de Máquinas,Judaísmo
+496,68531,Segunda Clase,0.0,Hans Jackson,M,4,0,2,,nan,,608.0,,Oficial de Cubierta,Cristianismo
+497,46639,Segunda Clase,1.0,Marlene Garcia,M,12,4,1,0.0,D,9.0,,Dublín,Personal de Servicio,Cristianismo
+498,65839,Segunda Clase,0.0,Renate Wilson,F,73,1,1,1.0,nan,,327.0,,Oficial Superior,Ateísmo
+499,45572,Segunda Clase,1.0,Heinz Harris,F,70,0,1,1.0,P,4.0,,Berna,Personal de Máquinas,Cristianismo
+500,33167,Segunda Clase,0.0,Heinz Brown,M,76,3,0,1.0,nan,,342.0,,Oficial de Cubierta,Judaísmo
+501,44681,Cuarta Clase,0.0,Heinz Smith,nan,45,2,2,,nan,,933.0,,Pasajeros Civiles,Hinduismo
+502,58234,Segunda Clase,1.0,Klaus Wilson,M,74,0,2,0.0,P,4.0,,Dublín,Personal de Máquinas,Cristianismo
+503,45269,Segunda Clase,0.0,Dieter Miller,F,46,0,0,0.0,nan,,334.0,,Oficial Superior,Cristianismo
+504,68705,Segunda Clase,1.0,Elisabeth Thomas,nan,51,4,1,0.0,G,4.0,,Londres,Personal de Máquinas,Ateísmo
+505,51764,Segunda Clase,0.0,Friedrich Martinez,nan,53,2,2,,nan,,473.0,,Oficial Subalterno,Islam
+506,46376,Segunda Clase,0.0,Hannelore Moore,nan,68,1,0,,nan,,281.0,,Oficial Subalterno,Otras
+507,51371,Cuarta Clase,1.0,Friedrich Smith,nan,44,4,1,1.0,K,7.0,,Lisboa,Pasajeros Civiles,Otras
+508,44376,Segunda Clase,0.0,Friedrich Miller,F,59,3,2,,nan,,979.0,,Personal de Cubierta,Hinduismo
+509,61333,Segunda Clase,1.0,Marlene Brown,M,25,4,2,,K,2.0,,Londres,Personal Médico,Hinduismo
+510,33341,Segunda Clase,1.0,Friedrich Anderson,M,6,3,0,0.0,P,6.0,,Bern,Oficial Subalterno,Hinduismo
+511,37572,Segunda Clase,0.0,Heinz Johnson,F,3,4,0,,nan,,460.0,,Personal Médico,Islam
+512,52554,Segunda Clase,0.0,Marlene Johnson,nan,68,0,0,,nan,,923.0,,Personal Médico,Hinduismo
+513,68576,Cuarta Clase,0.0,Wolfgang Martinez,F,12,2,0,1.0,nan,,250.0,,Pasajeros Civiles,Judaísmo
+514,49847,Segunda Clase,1.0,Helga Jackson,M,46,0,1,0.0,P,7.0,,Londres,Oficial Superior,Otras
+515,36405,Cuarta Clase,1.0,Margarete Smith,M,15,3,2,1.0,P,7.0,,Dublín,Pasajeros Civiles,Budismo
+516,65338,Segunda Clase,1.0,Elisabeth White,nan,29,2,0,,P,5.0,,Madrid,Personal de Cubierta,Ateísmo
+517,62296,Segunda Clase,0.0,Wolfgang Thomas,M,46,1,1,,nan,,375.0,,Oficial de Cubierta,Budismo
+518,44723,Segunda Clase,0.0,Karl Davis,M,10,2,2,,nan,,517.0,,Oficial Subalterno,Islam
+519,51612,Cuarta Clase,0.0,Erich Moore,nan,0,2,1,,nan,,852.0,,Pasajeros Civiles,Otras
+520,60909,Cuarta Clase,0.0,Marlene Brown,M,75,1,0,,nan,,155.0,,Pasajeros Civiles,Budismo
+521,25026,Segunda Clase,0.0,Klaus Robinson,nan,55,2,2,1.0,nan,,388.0,,Personal de Servicio,Cristianismo
+522,44914,Segunda Clase,1.0,Erika Robinson,M,65,2,0,0.0,P,2.0,,Dublín,Oficial Superior,Ateísmo
+523,43803,Segunda Clase,1.0,Jürgen Taylor,M,38,2,0,1.0,D,8.0,,Berna,Personal de Cubierta,Hinduismo
+524,38774,Segunda Clase,1.0,Margarete White,F,68,0,1,1.0,K,8.0,,Londres,Oficial de Cubierta,Otras
+525,53173,Segunda Clase,0.0,Renate Martin,M,71,4,1,1.0,nan,,229.0,,Personal de Cubierta,Otras
+526,63009,Segunda Clase,1.0,Klaus Williams,M,54,0,0,0.0,P,5.0,,Estocolmo,Oficial Superior,Otras
+527,64758,Cuarta Clase,0.0,Erich Jackson,M,47,3,1,,nan,,168.0,,Pasajeros Civiles,Cristianismo
+528,67906,Segunda Clase,0.0,Dieter White,M,50,4,1,1.0,nan,,322.0,,Oficial de Cubierta,Hinduismo
+529,46118,Segunda Clase,1.0,Karl Thompson,nan,66,3,2,,D,4.0,,Dublín,Personal de Servicio,Ateísmo
+530,55473,Segunda Clase,0.0,Jürgen Garcia,nan,50,3,2,1.0,nan,,802.0,,Personal Médico,Cristianismo
+531,53952,Segunda Clase,0.0,Hans Jackson,nan,12,0,2,1.0,nan,,724.0,,Oficial Superior,Budismo
+532,53977,Segunda Clase,1.0,Ingrid Martin,nan,60,1,0,0.0,K,6.0,,Estocolmo,Oficial Superior,Judaísmo
+533,39005,Segunda Clase,1.0,Renate Martin,F,58,1,0,,G,9.0,,Bern,Personal Médico,Judaísmo
+534,58500,Cuarta Clase,1.0,Ingrid Martinez,F,69,2,0,0.0,K,7.0,,Estocolmo,Pasajeros Civiles,Ateísmo
+535,56010,Cuarta Clase,0.0,Gertrud Anderson,nan,53,0,2,1.0,nan,,727.0,,Pasajeros Civiles,Hinduismo
+536,36120,Cuarta Clase,1.0,Elisabeth Moore,M,35,4,1,,P,9.0,,Dublín,Pasajeros Civiles,Hinduismo
+537,68178,Segunda Clase,1.0,Wolfgang Smith,nan,36,0,0,,K,2.0,,Madrid,Oficial de Cubierta,Islam
+538,30557,Segunda Clase,0.0,Greta Robinson,M,26,0,1,1.0,nan,,804.0,,Oficial Subalterno,Otras
+539,43598,Segunda Clase,0.0,Jürgen Smith,nan,40,1,1,,nan,,492.0,,Personal de Cubierta,Budismo
+540,58780,Segunda Clase,1.0,Erich Johnson,nan,72,1,0,,P,2.0,,Londres,Personal de Servicio,Ateísmo
+541,68506,Cuarta Clase,1.0,Margarete Thompson,F,30,1,1,0.0,K,9.0,,Lisboa,Pasajeros Civiles,Judaísmo
+542,66480,Segunda Clase,0.0,Ingrid Martinez,F,65,4,0,1.0,nan,,902.0,,Personal de Máquinas,Budismo
+543,65583,Segunda Clase,1.0,Jürgen Davis,F,11,4,1,,P,5.0,,Madrid,Oficial de Cubierta,Otras
+544,46966,Segunda Clase,0.0,Heinz Wilson,M,68,1,0,1.0,nan,,302.0,,Personal de Servicio,Budismo
+545,31120,Segunda Clase,0.0,Jürgen Moore,M,30,2,2,0.0,nan,,465.0,,Oficial Subalterno,Ateísmo
+546,40392,Segunda Clase,1.0,Renate Johnson,F,49,0,0,,P,5.0,,Madrid,Oficial Superior,Otras
+547,45343,Cuarta Clase,0.0,Jürgen Martinez,M,39,4,1,0.0,nan,,530.0,,Pasajeros Civiles,Otras
+548,39722,Segunda Clase,1.0,Elisabeth Thomas,M,42,0,0,,K,5.0,,Lisboa,Personal de Máquinas,Hinduismo
+549,38050,Segunda Clase,0.0,Wolfgang Davis,nan,76,0,1,0.0,nan,,644.0,,Oficial Superior,Cristianismo
+550,34656,Cuarta Clase,0.0,Jürgen Martinez,nan,26,4,2,1.0,nan,,882.0,,Pasajeros Civiles,Islam
+551,26600,Cuarta Clase,0.0,Greta Thomas,nan,16,0,1,1.0,nan,,723.0,,Pasajeros Civiles,Hinduismo
+552,28028,Cuarta Clase,1.0,Hannelore Smith,F,39,4,2,0.0,D,4.0,,Londres,Pasajeros Civiles,Islam
+553,41046,Cuarta Clase,0.0,Ingrid Martinez,M,1,2,1,,nan,,770.0,,Pasajeros Civiles,Ateísmo
+554,56138,Cuarta Clase,0.0,Hannelore Brown,F,31,0,1,,nan,,847.0,,Pasajeros Civiles,Budismo
+555,65060,Cuarta Clase,1.0,Hannelore Miller,nan,24,0,2,,G,4.0,,Bern,Pasajeros Civiles,Otras
+556,29772,Segunda Clase,0.0,Margarete Garcia,F,32,3,0,0.0,nan,,268.0,,Personal de Servicio,Budismo
+557,54846,Segunda Clase,0.0,Gustav Davis,nan,13,3,1,0.0,nan,,263.0,,Personal Médico,Islam
+558,52160,Cuarta Clase,0.0,Margarete Johnson,nan,2,1,0,1.0,nan,,266.0,,Pasajeros Civiles,Cristianismo
+559,66272,Segunda Clase,0.0,Friedrich Johnson,nan,31,2,0,1.0,nan,,544.0,,Personal de Servicio,Islam
+560,62727,Segunda Clase,0.0,Jürgen Robinson,nan,4,1,1,,nan,,929.0,,Personal de Máquinas,Islam
+561,37742,Segunda Clase,0.0,Jürgen Smith,F,35,3,1,1.0,nan,,925.0,,Personal de Cubierta,Hinduismo
+562,50164,Cuarta Clase,0.0,Gertrud Martin,F,65,0,2,,nan,,979.0,,Pasajeros Civiles,Islam
+563,57399,Segunda Clase,0.0,Hans Anderson,F,14,0,1,1.0,nan,,766.0,,Personal de Máquinas,Hinduismo
+564,51191,Segunda Clase,0.0,Erika Miller,nan,34,2,2,0.0,nan,,333.0,,Oficial Superior,Islam
+565,40989,Segunda Clase,1.0,Dieter Anderson,F,67,3,2,1.0,P,7.0,,Dublín,Personal de Máquinas,Cristianismo
+566,34671,Segunda Clase,0.0,Wolfgang Anderson,nan,6,1,2,1.0,nan,,904.0,,Oficial de Cubierta,Otras
+567,67995,Segunda Clase,1.0,Klaus Smith,nan,59,0,0,1.0,P,8.0,,Bern,Oficial Superior,Cristianismo
+568,25363,Segunda Clase,0.0,Dieter Martinez,F,61,2,1,0.0,nan,,74.0,,Personal de Máquinas,Otras
+569,31985,Segunda Clase,0.0,Dieter Jones,nan,74,0,1,,nan,,809.0,,Oficial Subalterno,Islam
+570,52862,Cuarta Clase,1.0,Gertrud Thomas,F,0,3,1,0.0,G,6.0,,Berna,Pasajeros Civiles,Budismo
+571,39341,Segunda Clase,0.0,Friedrich Thomas,M,21,1,0,,nan,,223.0,,Personal de Máquinas,Otras
+572,36526,Cuarta Clase,1.0,Elisabeth Martinez,nan,12,2,0,,P,3.0,,Berna,Pasajeros Civiles,Cristianismo
+573,58944,Segunda Clase,0.0,Heinz Anderson,F,22,3,1,0.0,nan,,132.0,,Personal de Máquinas,Hinduismo
+574,55444,Segunda Clase,1.0,Gustav Anderson,F,46,3,1,0.0,K,7.0,,Estocolmo,Oficial Subalterno,Hinduismo
+575,28291,Segunda Clase,1.0,Dieter Davis,F,73,2,1,0.0,K,1.0,,Madrid,Personal Médico,Cristianismo
+576,61530,Segunda Clase,1.0,Helga Martin,nan,27,3,0,1.0,P,10.0,,Londres,Personal Médico,Otras
+577,41331,Segunda Clase,0.0,Greta Davis,F,71,1,2,1.0,nan,,150.0,,Oficial Subalterno,Budismo
+578,32953,Segunda Clase,0.0,Renate Robinson,M,63,3,2,0.0,nan,,189.0,,Oficial Subalterno,Islam
+579,54914,Segunda Clase,1.0,Ingrid Wilson,F,59,3,1,1.0,D,8.0,,Bern,Oficial Superior,Ateísmo
+580,33738,Segunda Clase,1.0,Hannelore Davis,F,34,0,0,,K,9.0,,Lisboa,Personal Médico,Otras
+581,55450,Cuarta Clase,0.0,Elisabeth Taylor,M,65,3,1,1.0,nan,,692.0,,Pasajeros Civiles,Cristianismo
+582,68750,Segunda Clase,0.0,Gustav Brown,nan,26,0,2,1.0,nan,,85.0,,Personal de Cubierta,Budismo
+583,59808,Segunda Clase,1.0,Wolfgang Smith,F,34,1,0,,D,10.0,,Bern,Oficial de Cubierta,Ateísmo
+584,61629,Cuarta Clase,0.0,Hannelore Jackson,M,11,0,1,1.0,nan,,467.0,,Pasajeros Civiles,Islam
+585,64023,Segunda Clase,1.0,Hannelore Johnson,F,5,4,0,,K,4.0,,Estocolmo,Oficial de Cubierta,Islam
+586,45794,Cuarta Clase,1.0,Wolfgang Robinson,M,33,1,0,,D,10.0,,Dublín,Pasajeros Civiles,Cristianismo
+587,54004,Segunda Clase,0.0,Greta Robinson,F,27,0,1,0.0,nan,,857.0,,Personal de Máquinas,Otras
+588,65150,Segunda Clase,0.0,Jürgen Martinez,F,2,0,2,,nan,,600.0,,Personal de Cubierta,Judaísmo
+589,58081,Cuarta Clase,1.0,Heinz Martin,nan,9,4,1,1.0,G,9.0,,Madrid,Pasajeros Civiles,Ateísmo
+590,52966,Segunda Clase,0.0,Dieter Anderson,F,74,4,2,1.0,nan,,710.0,,Personal de Servicio,Hinduismo
+591,60905,Cuarta Clase,1.0,Friedrich Wilson,M,12,0,2,,P,9.0,,Madrid,Pasajeros Civiles,Judaísmo
+592,54223,Segunda Clase,0.0,Ingrid Anderson,F,25,0,0,,nan,,59.0,,Personal Médico,Otras
+593,35430,Segunda Clase,1.0,Wolfgang Williams,F,60,0,2,1.0,G,4.0,,Londres,Personal de Cubierta,Islam
+594,56108,Cuarta Clase,0.0,Greta Harris,M,43,0,2,1.0,nan,,76.0,,Pasajeros Civiles,Ateísmo
+595,54495,Segunda Clase,1.0,Hans Moore,nan,25,2,1,1.0,D,7.0,,Bern,Oficial de Cubierta,Islam
+596,41986,Segunda Clase,0.0,Karl Wilson,M,5,3,2,1.0,nan,,431.0,,Personal de Cubierta,Ateísmo
+597,41203,Segunda Clase,1.0,Friedrich Thomas,F,47,0,1,,D,7.0,,Estocolmo,Personal de Máquinas,Islam
+598,66789,Cuarta Clase,1.0,Erich Jones,nan,22,1,1,,K,8.0,,Berna,Pasajeros Civiles,Islam
+599,43173,Segunda Clase,0.0,Hans Johnson,nan,47,2,2,0.0,nan,,119.0,,Personal de Máquinas,Cristianismo
+600,59163,Segunda Clase,1.0,Elisabeth Harris,M,7,2,0,,D,4.0,,Lisboa,Personal de Cubierta,Hinduismo
+601,56758,Segunda Clase,1.0,Helga Davis,M,78,1,0,1.0,P,8.0,,Dublín,Oficial Superior,Budismo
+602,66074,Segunda Clase,0.0,Helga Martin,M,11,4,1,0.0,nan,,321.0,,Personal de Máquinas,Budismo
+603,40679,Segunda Clase,0.0,Elisabeth Thomas,nan,60,4,0,0.0,nan,,342.0,,Personal de Servicio,Islam
+604,42996,Segunda Clase,0.0,Renate Jackson,nan,11,4,2,0.0,nan,,21.0,,Personal de Servicio,Judaísmo
+605,53827,Segunda Clase,0.0,Heinz Martin,nan,67,0,2,0.0,nan,,555.0,,Personal Médico,Hinduismo
+606,30077,Segunda Clase,1.0,Hannelore Wilson,F,70,0,1,,G,8.0,,Bern,Personal de Servicio,Hinduismo
+607,43725,Segunda Clase,1.0,Wolfgang Harris,nan,35,1,2,,G,10.0,,Bern,Personal de Máquinas,Cristianismo
+608,40367,Segunda Clase,0.0,Friedrich Johnson,nan,19,2,2,0.0,nan,,872.0,,Oficial Subalterno,Ateísmo
+609,42807,Segunda Clase,0.0,Gustav Smith,F,38,0,1,0.0,nan,,316.0,,Personal Médico,Budismo
+610,47010,Segunda Clase,1.0,Greta Moore,F,47,4,2,1.0,P,10.0,,Lisboa,Personal Médico,Hinduismo
+611,45952,Segunda Clase,0.0,Heinz Williams,M,36,3,0,,nan,,461.0,,Personal de Máquinas,Ateísmo
+612,60399,Cuarta Clase,1.0,Greta Davis,M,0,2,2,0.0,G,1.0,,Berna,Pasajeros Civiles,Islam
+613,30280,Segunda Clase,0.0,Elisabeth Davis,nan,1,3,2,,nan,,967.0,,Personal de Cubierta,Hinduismo
+614,34068,Segunda Clase,0.0,Friedrich Garcia,M,31,1,0,1.0,nan,,309.0,,Oficial Superior,Otras
+615,34884,Segunda Clase,1.0,Friedrich Anderson,F,0,2,0,0.0,P,2.0,,Bern,Personal de Servicio,Islam
+616,40155,Segunda Clase,0.0,Erika Robinson,M,30,3,1,0.0,nan,,96.0,,Oficial Superior,Ateísmo
+617,50102,Segunda Clase,0.0,Margarete Smith,F,53,3,2,0.0,nan,,201.0,,Personal de Servicio,Hinduismo
+618,35014,Segunda Clase,0.0,Helga Davis,F,9,2,1,1.0,nan,,902.0,,Oficial Subalterno,Ateísmo
+619,39021,Cuarta Clase,0.0,Erika White,F,51,3,1,,nan,,601.0,,Pasajeros Civiles,Judaísmo
+620,29209,Segunda Clase,1.0,Wolfgang Johnson,M,42,1,2,,G,1.0,,Lisboa,Personal de Cubierta,Budismo
+621,52188,Segunda Clase,0.0,Heinz Anderson,F,49,0,0,0.0,nan,,772.0,,Personal de Máquinas,Ateísmo
+622,51712,Segunda Clase,1.0,Karl Miller,nan,71,0,1,1.0,P,2.0,,Madrid,Oficial Superior,Ateísmo
+623,46684,Segunda Clase,1.0,Helga Garcia,M,49,0,1,1.0,D,10.0,,Madrid,Oficial Superior,Ateísmo
+624,60560,Segunda Clase,0.0,Renate Moore,M,45,0,2,1.0,nan,,160.0,,Personal de Máquinas,Otras
+625,55534,Segunda Clase,0.0,Gustav Taylor,F,48,0,0,0.0,nan,,879.0,,Personal de Cubierta,Budismo
+626,52248,Segunda Clase,1.0,Jürgen Jones,M,22,1,1,,K,9.0,,Lisboa,Personal de Cubierta,Otras
+627,29080,Segunda Clase,1.0,Klaus Jackson,nan,63,4,1,0.0,P,6.0,,Dublín,Personal Médico,Ateísmo
+628,38555,Segunda Clase,1.0,Hannelore Garcia,F,55,3,1,0.0,D,4.0,,Madrid,Personal de Servicio,Judaísmo
+629,52534,Segunda Clase,1.0,Margarete Brown,nan,71,1,1,0.0,K,6.0,,Lisboa,Oficial Subalterno,Islam
+630,50524,Segunda Clase,1.0,Klaus Thomas,M,27,0,0,,P,4.0,,Lisboa,Personal Médico,Islam
+631,63278,Segunda Clase,1.0,Hans White,M,2,3,0,0.0,K,1.0,,Madrid,Personal de Máquinas,Budismo
+632,26280,Segunda Clase,1.0,Friedrich Taylor,M,36,2,0,1.0,G,4.0,,Lisboa,Personal Médico,Budismo
+633,62728,Cuarta Clase,1.0,Erika Martin,M,45,3,1,,P,8.0,,Londres,Pasajeros Civiles,Hinduismo
+634,49928,Segunda Clase,0.0,Karl Jones,M,74,0,0,,nan,,764.0,,Personal de Máquinas,Ateísmo
+635,56259,Segunda Clase,0.0,Hans Miller,M,16,0,0,,nan,,485.0,,Personal de Servicio,Budismo
+636,25386,Segunda Clase,0.0,Wolfgang Taylor,M,63,2,2,,nan,,241.0,,Personal de Cubierta,Judaísmo
+637,48052,Cuarta Clase,1.0,Friedrich Martin,nan,42,0,2,,P,7.0,,Bern,Pasajeros Civiles,Cristianismo
+638,44569,Segunda Clase,0.0,Heinz Taylor,nan,74,1,1,0.0,nan,,682.0,,Oficial Superior,Islam
+639,50558,Segunda Clase,0.0,Elisabeth Martin,nan,39,1,0,0.0,nan,,757.0,,Personal de Servicio,Islam
+640,52460,Segunda Clase,1.0,Margarete Moore,F,58,1,1,,D,10.0,,Lisboa,Personal de Máquinas,Ateísmo
+641,60272,Cuarta Clase,1.0,Friedrich Garcia,F,68,4,0,1.0,P,7.0,,Lisboa,Pasajeros Civiles,Budismo
+642,60791,Segunda Clase,0.0,Elisabeth Davis,M,49,1,2,0.0,nan,,472.0,,Oficial Subalterno,Budismo
+643,64534,Cuarta Clase,1.0,Ingrid Jackson,nan,52,1,1,1.0,G,6.0,,Lisboa,Pasajeros Civiles,Cristianismo
+644,39453,Segunda Clase,0.0,Ingrid Davis,M,13,4,2,1.0,nan,,518.0,,Oficial Subalterno,Judaísmo
+645,56996,Segunda Clase,1.0,Marlene Johnson,nan,6,1,0,0.0,P,2.0,,Londres,Personal Médico,Hinduismo
+646,39380,Cuarta Clase,0.0,Erich Harris,nan,77,4,0,,nan,,559.0,,Pasajeros Civiles,Ateísmo
+647,42887,Segunda Clase,1.0,Marlene Moore,M,42,3,1,1.0,P,1.0,,Lisboa,Oficial Subalterno,Otras
+648,53562,Segunda Clase,1.0,Jürgen Moore,M,79,3,2,0.0,K,1.0,,Londres,Oficial Superior,Islam
+649,56827,Segunda Clase,1.0,Hannelore Johnson,F,13,0,0,1.0,D,2.0,,Berna,Oficial de Cubierta,Islam
+650,26902,Segunda Clase,1.0,Dieter Jones,nan,44,2,1,,D,5.0,,Bern,Personal de Máquinas,Judaísmo
+651,50484,Segunda Clase,1.0,Friedrich Thomas,F,77,3,0,1.0,K,5.0,,Lisboa,Personal de Máquinas,Budismo
+652,47028,Segunda Clase,0.0,Renate White,nan,8,2,1,1.0,nan,,269.0,,Personal de Servicio,Hinduismo
+653,68835,Cuarta Clase,1.0,Hannelore Wilson,nan,50,3,1,0.0,D,7.0,,Londres,Pasajeros Civiles,Budismo
+654,51497,Segunda Clase,0.0,Renate Johnson,F,46,0,1,0.0,nan,,570.0,,Oficial Subalterno,Judaísmo
+655,35816,Segunda Clase,1.0,Elisabeth Thompson,nan,67,1,2,,P,3.0,,Estocolmo,Personal Médico,Islam
+656,55630,Segunda Clase,0.0,Helga Garcia,M,73,4,1,1.0,nan,,570.0,,Personal de Máquinas,Ateísmo
+657,33364,Segunda Clase,0.0,Margarete Martinez,nan,45,0,2,1.0,nan,,124.0,,Personal de Máquinas,Budismo
+658,65780,Segunda Clase,0.0,Jürgen Martin,M,25,1,1,,nan,,425.0,,Personal Médico,Islam
+659,60004,Segunda Clase,0.0,Gustav Williams,nan,49,3,1,,nan,,714.0,,Oficial Superior,Budismo
+660,26767,Segunda Clase,0.0,Elisabeth Johnson,F,20,2,0,,nan,,284.0,,Oficial Subalterno,Otras
+661,50822,Cuarta Clase,0.0,Gertrud Martinez,F,25,4,1,1.0,nan,,710.0,,Pasajeros Civiles,Otras
+662,63790,Segunda Clase,0.0,Gertrud Martinez,F,11,0,0,,nan,,515.0,,Personal de Máquinas,Hinduismo
+663,61987,Segunda Clase,1.0,Erika Brown,M,66,1,1,0.0,P,1.0,,Estocolmo,Personal de Servicio,Islam
+664,68450,Segunda Clase,0.0,Heinz Harris,F,77,3,1,,nan,,649.0,,Personal de Máquinas,Otras
+665,26776,Segunda Clase,1.0,Wolfgang Davis,M,26,3,2,,D,10.0,,Estocolmo,Personal de Cubierta,Ateísmo
+666,30501,Segunda Clase,1.0,Karl Miller,F,63,4,2,,K,7.0,,Madrid,Oficial de Cubierta,Budismo
+667,67123,Segunda Clase,0.0,Dieter Johnson,F,41,4,0,0.0,nan,,629.0,,Oficial Superior,Ateísmo
+668,53089,Cuarta Clase,1.0,Helga Williams,M,26,2,1,1.0,D,10.0,,Madrid,Pasajeros Civiles,Otras
+669,33893,Segunda Clase,0.0,Helga Miller,nan,25,4,0,1.0,nan,,169.0,,Oficial Subalterno,Judaísmo
+670,55257,Segunda Clase,1.0,Dieter Robinson,M,23,1,2,1.0,D,3.0,,Dublín,Personal Médico,Islam
+671,36909,Cuarta Clase,0.0,Erich Anderson,F,13,1,1,0.0,nan,,470.0,,Pasajeros Civiles,Cristianismo
+672,28295,Segunda Clase,1.0,Friedrich Williams,M,60,1,2,,K,10.0,,Berna,Personal de Servicio,Otras
+673,42049,Cuarta Clase,0.0,Elisabeth Garcia,M,61,3,1,1.0,nan,,658.0,,Pasajeros Civiles,Hinduismo
+674,49844,Segunda Clase,0.0,Elisabeth Garcia,nan,43,2,0,0.0,nan,,909.0,,Oficial Superior,Judaísmo
+675,46453,Segunda Clase,1.0,Greta Moore,F,48,2,2,1.0,G,10.0,,Estocolmo,Personal de Cubierta,Budismo
+676,38871,Segunda Clase,1.0,Gertrud Harris,M,13,2,0,,G,9.0,,Londres,Personal de Cubierta,Cristianismo
+677,54799,Segunda Clase,0.0,Hans Robinson,nan,30,3,0,,nan,,302.0,,Personal Médico,Hinduismo
+678,46420,Segunda Clase,0.0,Hannelore Thompson,M,9,0,1,1.0,nan,,170.0,,Oficial de Cubierta,Hinduismo
+679,47118,Segunda Clase,1.0,Helga Jones,nan,3,3,2,0.0,P,10.0,,Londres,Personal de Cubierta,Ateísmo
+680,49846,Segunda Clase,1.0,Helga Brown,nan,50,3,1,1.0,P,3.0,,Berna,Personal Médico,Judaísmo
+681,43235,Segunda Clase,1.0,Dieter Martinez,F,56,3,1,,P,6.0,,Estocolmo,Oficial de Cubierta,Budismo
+682,52627,Segunda Clase,0.0,Hannelore Martinez,nan,50,3,2,1.0,nan,,24.0,,Oficial Superior,Budismo
+683,41532,Segunda Clase,1.0,Heinz Jones,M,39,2,1,0.0,K,10.0,,Londres,Oficial Subalterno,Cristianismo
+684,30367,Segunda Clase,1.0,Hannelore Jones,nan,61,3,0,,P,3.0,,Dublín,Oficial Superior,Cristianismo
+685,55822,Segunda Clase,1.0,Gustav Garcia,F,21,2,0,0.0,P,7.0,,Bern,Personal Médico,Islam
+686,26270,Segunda Clase,0.0,Ingrid White,M,9,1,2,1.0,nan,,287.0,,Oficial Subalterno,Islam
+687,60351,Segunda Clase,0.0,Erich Jackson,nan,77,0,2,0.0,nan,,879.0,,Personal Médico,Ateísmo
+688,28413,Segunda Clase,0.0,Margarete Martinez,F,42,0,1,0.0,nan,,475.0,,Oficial Superior,Hinduismo
+689,47935,Segunda Clase,0.0,Erika Martin,F,8,1,1,1.0,nan,,666.0,,Personal de Máquinas,Islam
+690,39694,Segunda Clase,1.0,Klaus Davis,nan,63,0,0,0.0,G,3.0,,Berna,Personal de Máquinas,Budismo
+691,67607,Segunda Clase,0.0,Erich Jackson,nan,51,4,0,0.0,nan,,217.0,,Oficial Superior,Ateísmo
+692,29496,Cuarta Clase,0.0,Dieter Robinson,F,33,4,1,,nan,,961.0,,Pasajeros Civiles,Ateísmo
+693,67713,Cuarta Clase,0.0,Erika Jackson,nan,45,2,2,1.0,nan,,835.0,,Pasajeros Civiles,Cristianismo
+694,27638,Segunda Clase,1.0,Klaus Jackson,F,14,3,2,0.0,G,5.0,,Bern,Personal de Cubierta,Otras
+695,27033,Segunda Clase,1.0,Greta Wilson,F,63,0,0,,P,10.0,,Dublín,Personal de Cubierta,Judaísmo
+696,41205,Segunda Clase,0.0,Klaus Martin,nan,5,3,2,,nan,,607.0,,Oficial Subalterno,Ateísmo
+697,38065,Segunda Clase,0.0,Erich Thomas,nan,44,2,0,,nan,,134.0,,Oficial Subalterno,Islam
+698,26335,Segunda Clase,0.0,Hans Anderson,M,3,3,1,,nan,,834.0,,Personal de Máquinas,Ateísmo
+699,65719,Cuarta Clase,1.0,Gustav Taylor,nan,32,2,2,1.0,K,2.0,,Berna,Pasajeros Civiles,Otras
+700,34986,Segunda Clase,0.0,Erich Martin,nan,9,4,1,,nan,,925.0,,Oficial de Cubierta,Ateísmo
+701,40633,Segunda Clase,0.0,Heinz Wilson,M,19,3,1,0.0,nan,,567.0,,Oficial Superior,Budismo
+702,33272,Segunda Clase,0.0,Dieter Taylor,nan,48,1,0,1.0,nan,,917.0,,Oficial de Cubierta,Cristianismo
+703,56035,Segunda Clase,1.0,Marlene Anderson,M,50,1,1,1.0,G,1.0,,Londres,Oficial Subalterno,Ateísmo
+704,68873,Segunda Clase,0.0,Erich White,nan,25,1,1,,nan,,962.0,,Oficial de Cubierta,Ateísmo
+705,32496,Segunda Clase,0.0,Erika Williams,nan,2,4,0,,nan,,157.0,,Personal Médico,Islam
+706,61960,Cuarta Clase,0.0,Karl Harris,F,12,3,2,,nan,,240.0,,Pasajeros Civiles,Ateísmo
+707,39284,Segunda Clase,0.0,Karl White,M,60,1,2,,nan,,29.0,,Personal de Máquinas,Hinduismo
+708,55476,Cuarta Clase,0.0,Margarete Thompson,F,79,4,1,,nan,,676.0,,Pasajeros Civiles,Otras
+709,41793,Segunda Clase,0.0,Ingrid Johnson,nan,35,1,2,0.0,nan,,653.0,,Personal de Máquinas,Ateísmo
+710,49175,Segunda Clase,1.0,Gertrud Davis,F,13,4,1,,G,3.0,,Bern,Personal Médico,Judaísmo
+711,35996,Cuarta Clase,1.0,Friedrich Taylor,M,40,1,0,1.0,G,6.0,,Dublín,Pasajeros Civiles,Otras
+712,64707,Segunda Clase,0.0,Gertrud Jackson,F,70,0,2,,nan,,642.0,,Oficial Subalterno,Cristianismo
+713,64796,Segunda Clase,0.0,Dieter Thompson,M,59,2,0,1.0,nan,,172.0,,Oficial Superior,Budismo
+714,32506,Segunda Clase,1.0,Hannelore Smith,M,40,2,1,1.0,P,6.0,,Lisboa,Oficial Superior,Cristianismo
+715,35732,Segunda Clase,0.0,Wolfgang Miller,M,61,4,0,1.0,nan,,140.0,,Personal de Cubierta,Hinduismo
+716,45384,Segunda Clase,0.0,Karl Johnson,F,32,0,1,1.0,nan,,932.0,,Personal de Servicio,Judaísmo
+717,62924,Segunda Clase,1.0,Jürgen Johnson,F,17,0,2,0.0,K,5.0,,Londres,Personal Médico,Ateísmo
+718,26682,Cuarta Clase,1.0,Marlene Johnson,nan,71,2,0,,K,5.0,,Berna,Pasajeros Civiles,Islam
+719,45444,Segunda Clase,0.0,Ingrid Miller,F,30,4,1,0.0,nan,,953.0,,Personal de Servicio,Islam
+720,62735,Segunda Clase,0.0,Erich Thomas,F,46,0,2,0.0,nan,,509.0,,Personal de Servicio,Judaísmo
+721,49596,Segunda Clase,1.0,Marlene Thompson,F,30,2,1,0.0,P,3.0,,Bern,Oficial Superior,Budismo
+722,50995,Segunda Clase,0.0,Elisabeth Jones,M,14,2,0,1.0,nan,,85.0,,Oficial Subalterno,Ateísmo
+723,37997,Segunda Clase,1.0,Hans Wilson,F,49,2,0,1.0,K,4.0,,Dublín,Personal de Máquinas,Cristianismo
+724,29980,Segunda Clase,0.0,Ingrid Martin,M,29,3,0,1.0,nan,,129.0,,Oficial Superior,Otras
+725,63803,Segunda Clase,1.0,Erika Harris,nan,77,2,2,1.0,P,3.0,,Lisboa,Personal Médico,Cristianismo
+726,66106,Segunda Clase,1.0,Wolfgang Martin,F,57,1,1,1.0,P,1.0,,Londres,Personal Médico,Cristianismo
+727,40915,Cuarta Clase,0.0,Hannelore Garcia,M,21,0,1,0.0,nan,,793.0,,Pasajeros Civiles,Ateísmo
+728,31678,Segunda Clase,0.0,Ingrid Thomas,M,22,4,0,0.0,nan,,814.0,,Personal de Máquinas,Hinduismo
+729,44764,Segunda Clase,0.0,Wolfgang Moore,M,71,2,0,0.0,nan,,751.0,,Oficial Subalterno,Ateísmo
+730,64348,Cuarta Clase,1.0,Friedrich Taylor,nan,69,1,1,,K,7.0,,Berna,Pasajeros Civiles,Cristianismo
+731,32933,Segunda Clase,0.0,Hans Jackson,F,22,4,1,1.0,nan,,358.0,,Oficial Subalterno,Islam
+732,62088,Segunda Clase,1.0,Klaus Davis,nan,78,1,2,0.0,D,1.0,,Lisboa,Oficial Subalterno,Cristianismo
+733,27691,Segunda Clase,1.0,Hannelore Miller,nan,3,2,0,1.0,P,6.0,,Estocolmo,Personal de Servicio,Otras
+734,47754,Cuarta Clase,0.0,Jürgen Wilson,F,32,4,2,0.0,nan,,300.0,,Pasajeros Civiles,Islam
+735,59913,Cuarta Clase,0.0,Karl Moore,M,29,2,0,0.0,nan,,680.0,,Pasajeros Civiles,Islam
+736,53074,Segunda Clase,0.0,Helga Thompson,F,71,0,1,1.0,nan,,541.0,,Oficial Superior,Otras
+737,68353,Cuarta Clase,0.0,Hans Smith,F,53,4,0,,nan,,640.0,,Pasajeros Civiles,Cristianismo
+738,49285,Segunda Clase,0.0,Margarete Brown,M,13,1,1,,nan,,393.0,,Oficial Subalterno,Ateísmo
+739,29519,Segunda Clase,0.0,Wolfgang Robinson,M,74,3,2,0.0,nan,,282.0,,Personal de Cubierta,Otras
+740,58158,Segunda Clase,0.0,Hans Wilson,F,15,4,1,1.0,nan,,655.0,,Oficial Subalterno,Budismo
+741,67437,Segunda Clase,0.0,Erich Robinson,nan,69,1,1,1.0,nan,,5.0,,Oficial Subalterno,Hinduismo
+742,47362,Segunda Clase,1.0,Gustav Moore,M,70,4,1,1.0,P,1.0,,Berna,Personal de Máquinas,Judaísmo
+743,25829,Segunda Clase,0.0,Helga Jackson,M,64,3,2,1.0,nan,,471.0,,Oficial de Cubierta,Otras
+744,52528,Segunda Clase,0.0,Ingrid Harris,M,46,0,1,0.0,nan,,253.0,,Personal de Máquinas,Budismo
+745,57125,Cuarta Clase,0.0,Erich Miller,M,78,2,1,0.0,nan,,363.0,,Pasajeros Civiles,Budismo
+746,31916,Segunda Clase,1.0,Marlene Taylor,M,2,3,1,,K,9.0,,Londres,Personal de Cubierta,Judaísmo
+747,53411,Segunda Clase,1.0,Gertrud Robinson,F,51,3,0,1.0,D,5.0,,Dublín,Oficial Superior,Cristianismo
+748,48736,Segunda Clase,1.0,Elisabeth Martinez,F,67,3,1,0.0,P,3.0,,Dublín,Personal de Cubierta,Cristianismo
+749,66653,Segunda Clase,0.0,Heinz Smith,nan,60,0,1,1.0,nan,,82.0,,Oficial de Cubierta,Hinduismo
+750,55129,Cuarta Clase,0.0,Gertrud Thomas,F,40,3,2,1.0,nan,,13.0,,Pasajeros Civiles,Cristianismo
+751,35026,Segunda Clase,0.0,Renate Robinson,nan,20,1,1,0.0,nan,,121.0,,Personal de Cubierta,Otras
+752,53540,Segunda Clase,0.0,Erika Taylor,M,41,0,1,,nan,,726.0,,Oficial Subalterno,Otras
+753,36543,Segunda Clase,1.0,Gustav Jones,M,5,4,1,1.0,D,1.0,,Berna,Personal de Cubierta,Islam
+754,59193,Cuarta Clase,0.0,Margarete Williams,M,79,0,1,0.0,nan,,489.0,,Pasajeros Civiles,Ateísmo
+755,67628,Segunda Clase,0.0,Greta Moore,F,39,3,0,0.0,nan,,756.0,,Oficial Superior,Budismo
+756,42700,Cuarta Clase,0.0,Greta Moore,F,18,2,2,,nan,,399.0,,Pasajeros Civiles,Otras
+757,65364,Segunda Clase,0.0,Erich Taylor,nan,11,0,0,0.0,nan,,792.0,,Oficial Subalterno,Ateísmo
+758,60269,Segunda Clase,0.0,Karl Brown,nan,32,2,2,0.0,nan,,619.0,,Oficial Subalterno,Islam
+759,56686,Segunda Clase,0.0,Gertrud Wilson,M,73,1,0,,nan,,267.0,,Oficial Subalterno,Islam
+760,55465,Segunda Clase,0.0,Klaus Robinson,F,14,1,0,,nan,,242.0,,Personal de Máquinas,Hinduismo
+761,53545,Cuarta Clase,0.0,Elisabeth Anderson,M,67,3,1,1.0,nan,,301.0,,Pasajeros Civiles,Budismo
+762,63828,Cuarta Clase,0.0,Dieter Smith,F,77,2,2,0.0,nan,,454.0,,Pasajeros Civiles,Hinduismo
+763,42589,Segunda Clase,1.0,Margarete Taylor,nan,31,2,0,,D,8.0,,Estocolmo,Oficial Superior,Judaísmo
+764,46122,Cuarta Clase,1.0,Erich White,M,1,0,2,0.0,P,2.0,,Berna,Pasajeros Civiles,Judaísmo
+765,41088,Segunda Clase,0.0,Elisabeth Jackson,M,24,1,1,,nan,,459.0,,Personal de Cubierta,Hinduismo
+766,30679,Segunda Clase,0.0,Klaus Martinez,M,39,3,2,0.0,nan,,694.0,,Oficial de Cubierta,Islam
+767,43279,Segunda Clase,1.0,Hannelore Miller,nan,64,3,0,,K,5.0,,Bern,Personal de Servicio,Otras
+768,54543,Cuarta Clase,1.0,Greta Wilson,F,66,0,1,,K,6.0,,Dublín,Pasajeros Civiles,Otras
+769,40981,Segunda Clase,0.0,Renate Martin,nan,75,2,1,,nan,,484.0,,Personal Médico,Ateísmo
+770,55455,Cuarta Clase,1.0,Ingrid Thompson,M,9,0,0,1.0,D,7.0,,Londres,Pasajeros Civiles,Ateísmo
+771,62345,Segunda Clase,0.0,Gustav Davis,F,63,3,1,,nan,,411.0,,Personal de Cubierta,Budismo
+772,64998,Segunda Clase,0.0,Renate Davis,F,23,2,1,1.0,nan,,881.0,,Personal de Cubierta,Budismo
+773,68790,Segunda Clase,1.0,Gustav Jones,F,66,0,2,,G,6.0,,Madrid,Personal Médico,Hinduismo
+774,49837,Segunda Clase,0.0,Margarete Brown,nan,50,3,2,0.0,nan,,638.0,,Oficial de Cubierta,Islam
+775,47046,Segunda Clase,0.0,Erich Garcia,F,16,3,1,,nan,,110.0,,Personal de Servicio,Budismo
+776,26880,Segunda Clase,0.0,Wolfgang Anderson,nan,16,4,1,1.0,nan,,25.0,,Personal de Cubierta,Islam
+777,57394,Segunda Clase,0.0,Friedrich Wilson,nan,12,1,1,1.0,nan,,917.0,,Personal Médico,Cristianismo
+778,46300,Segunda Clase,0.0,Ingrid Wilson,M,42,2,0,1.0,nan,,513.0,,Oficial Superior,Hinduismo
+779,36917,Cuarta Clase,0.0,Gustav White,M,73,4,1,,nan,,235.0,,Pasajeros Civiles,Cristianismo
+780,56952,Segunda Clase,0.0,Greta Thomas,M,26,4,1,,nan,,376.0,,Oficial Subalterno,Judaísmo
+781,38901,Segunda Clase,0.0,Erich Martinez,nan,2,1,0,0.0,nan,,920.0,,Personal Médico,Islam
+782,48253,Segunda Clase,1.0,Gustav Harris,F,38,2,0,,K,6.0,,Londres,Personal de Servicio,Hinduismo
+783,41931,Segunda Clase,0.0,Heinz Martin,F,8,3,2,,nan,,488.0,,Personal Médico,Cristianismo
+784,47304,Segunda Clase,0.0,Klaus Martinez,M,61,2,1,0.0,nan,,612.0,,Personal Médico,Otras
+785,43327,Segunda Clase,1.0,Hannelore Robinson,F,51,4,1,1.0,D,6.0,,Lisboa,Oficial de Cubierta,Ateísmo
+786,64069,Segunda Clase,0.0,Friedrich Martin,F,32,4,2,1.0,nan,,337.0,,Personal de Máquinas,Budismo
+787,43105,Segunda Clase,0.0,Karl Thompson,M,53,1,0,0.0,nan,,320.0,,Oficial Subalterno,Islam
+788,61424,Segunda Clase,0.0,Heinz Jackson,M,33,4,2,0.0,nan,,657.0,,Personal de Máquinas,Judaísmo
+789,25665,Segunda Clase,0.0,Gertrud Taylor,F,12,2,1,,nan,,160.0,,Personal de Máquinas,Islam
+790,58857,Segunda Clase,0.0,Helga Johnson,F,15,3,2,,nan,,461.0,,Personal de Máquinas,Islam
+791,37521,Segunda Clase,0.0,Dieter Brown,nan,59,4,1,,nan,,313.0,,Personal de Servicio,Hinduismo
+792,30610,Segunda Clase,0.0,Karl Anderson,M,2,2,2,1.0,nan,,121.0,,Oficial Subalterno,Hinduismo
+793,40817,Segunda Clase,0.0,Helga Martinez,F,43,1,2,1.0,nan,,190.0,,Personal de Máquinas,Hinduismo
+794,51635,Cuarta Clase,0.0,Marlene Brown,F,2,2,0,1.0,nan,,973.0,,Pasajeros Civiles,Budismo
+795,57019,Cuarta Clase,0.0,Greta Davis,nan,17,1,1,0.0,nan,,49.0,,Pasajeros Civiles,Hinduismo
+796,61384,Segunda Clase,1.0,Friedrich Martin,nan,78,2,2,0.0,G,4.0,,Dublín,Oficial Superior,Hinduismo
+797,40749,Segunda Clase,1.0,Greta Davis,nan,52,0,1,,D,6.0,,Estocolmo,Personal de Máquinas,Hinduismo
+798,56201,Segunda Clase,1.0,Greta Johnson,nan,34,0,1,,D,9.0,,Madrid,Oficial de Cubierta,Hinduismo
+799,67329,Segunda Clase,0.0,Hans Harris,F,6,0,0,0.0,nan,,920.0,,Personal Médico,Cristianismo
+800,57166,Segunda Clase,0.0,Erich Miller,M,56,3,2,,nan,,402.0,,Oficial Superior,Budismo
+801,54371,Segunda Clase,0.0,Wolfgang Martinez,M,22,1,1,0.0,nan,,281.0,,Personal de Cubierta,Otras
+802,26130,Segunda Clase,0.0,Wolfgang Martin,M,52,1,1,0.0,nan,,971.0,,Personal Médico,Cristianismo
+803,31098,Segunda Clase,1.0,Friedrich Brown,F,36,3,0,1.0,K,1.0,,Berna,Oficial de Cubierta,Otras
+804,44283,Segunda Clase,1.0,Erika White,F,26,0,2,1.0,D,2.0,,Dublín,Oficial Subalterno,Judaísmo
+805,39522,Segunda Clase,0.0,Helga Jackson,nan,28,2,2,1.0,nan,,858.0,,Oficial Superior,Islam
+806,51502,Cuarta Clase,1.0,Helga Martin,F,66,0,2,0.0,P,2.0,,Bern,Pasajeros Civiles,Cristianismo
+807,40945,Segunda Clase,0.0,Elisabeth Smith,nan,23,3,1,0.0,nan,,546.0,,Personal de Cubierta,Ateísmo
+808,45067,Segunda Clase,0.0,Klaus Garcia,F,48,1,2,1.0,nan,,654.0,,Personal de Servicio,Otras
+809,68513,Segunda Clase,0.0,Karl Thomas,F,79,1,1,0.0,nan,,516.0,,Personal de Servicio,Islam
+810,63112,Segunda Clase,1.0,Hans Anderson,F,17,2,1,1.0,K,7.0,,Madrid,Oficial de Cubierta,Cristianismo
+811,49184,Segunda Clase,0.0,Gertrud Miller,M,13,2,1,,nan,,740.0,,Oficial Subalterno,Hinduismo
+812,56015,Segunda Clase,1.0,Hans Smith,F,30,1,1,,K,10.0,,Estocolmo,Personal de Máquinas,Cristianismo
+813,61272,Segunda Clase,0.0,Jürgen Wilson,F,22,2,1,0.0,nan,,689.0,,Personal de Máquinas,Budismo
+814,59794,Segunda Clase,0.0,Ingrid Taylor,nan,37,1,1,0.0,nan,,961.0,,Oficial de Cubierta,Otras
+815,47528,Segunda Clase,1.0,Dieter Jones,M,74,2,1,,K,8.0,,Estocolmo,Oficial Subalterno,Budismo
+816,52885,Segunda Clase,1.0,Elisabeth Thompson,M,15,4,2,1.0,D,3.0,,Madrid,Personal Médico,Islam
+817,61070,Cuarta Clase,0.0,Hannelore Taylor,M,30,3,2,1.0,nan,,361.0,,Pasajeros Civiles,Ateísmo
+818,46678,Segunda Clase,0.0,Wolfgang Williams,F,62,3,1,1.0,nan,,580.0,,Personal Médico,Islam
+819,48056,Segunda Clase,0.0,Klaus Taylor,M,63,1,0,1.0,nan,,237.0,,Personal Médico,Cristianismo
+820,54736,Segunda Clase,1.0,Gustav Harris,nan,33,1,0,,D,6.0,,Lisboa,Personal de Cubierta,Islam
+821,42754,Segunda Clase,1.0,Gertrud Robinson,nan,23,3,0,1.0,P,7.0,,Dublín,Personal Médico,Ateísmo
+822,45094,Cuarta Clase,1.0,Gertrud Anderson,M,15,2,2,,P,3.0,,Berna,Pasajeros Civiles,Islam
+823,41475,Segunda Clase,1.0,Helga Brown,nan,11,2,2,,G,4.0,,Estocolmo,Oficial Superior,Islam
+824,40108,Segunda Clase,1.0,Greta Martin,M,4,3,0,1.0,K,7.0,,Bern,Personal de Servicio,Judaísmo
+825,32907,Cuarta Clase,0.0,Ingrid Miller,M,77,3,1,,nan,,903.0,,Pasajeros Civiles,Ateísmo
+826,37621,Segunda Clase,0.0,Wolfgang Jackson,F,34,1,1,1.0,nan,,595.0,,Personal Médico,Budismo
+827,45679,Segunda Clase,0.0,Hans Wilson,nan,9,3,0,,nan,,39.0,,Oficial de Cubierta,Islam
+828,32835,Segunda Clase,1.0,Jürgen Brown,M,65,2,1,0.0,P,1.0,,Bern,Oficial de Cubierta,Cristianismo
+829,60118,Segunda Clase,0.0,Karl Smith,F,22,3,0,,nan,,13.0,,Personal de Máquinas,Budismo
+830,37133,Cuarta Clase,0.0,Hannelore Thompson,M,73,2,0,1.0,nan,,930.0,,Pasajeros Civiles,Cristianismo
+831,37552,Cuarta Clase,1.0,Wolfgang Jones,nan,4,1,1,1.0,D,7.0,,Berna,Pasajeros Civiles,Hinduismo
+832,39180,Segunda Clase,0.0,Ingrid Johnson,nan,70,1,1,1.0,nan,,960.0,,Personal de Cubierta,Otras
+833,56732,Segunda Clase,0.0,Elisabeth Moore,nan,72,0,0,,nan,,417.0,,Personal Médico,Otras
+834,43120,Segunda Clase,0.0,Renate Robinson,F,55,3,1,0.0,nan,,440.0,,Personal Médico,Islam
+835,63639,Segunda Clase,1.0,Klaus Robinson,nan,62,1,0,,G,2.0,,Londres,Personal de Cubierta,Hinduismo
+836,59382,Cuarta Clase,1.0,Klaus Jones,nan,0,4,0,1.0,P,4.0,,Bern,Pasajeros Civiles,Cristianismo
+837,64111,Cuarta Clase,0.0,Hans Johnson,nan,14,3,2,0.0,nan,,148.0,,Pasajeros Civiles,Budismo
+838,43546,Segunda Clase,1.0,Heinz White,F,2,3,2,0.0,D,10.0,,Lisboa,Oficial Superior,Islam
+839,31588,Segunda Clase,0.0,Marlene Jackson,F,39,0,0,,nan,,725.0,,Personal de Servicio,Cristianismo
+840,37721,Segunda Clase,0.0,Heinz Garcia,M,74,0,2,0.0,nan,,100.0,,Oficial Subalterno,Islam
+841,44414,Segunda Clase,1.0,Erich Martin,M,19,2,1,0.0,P,1.0,,Berna,Personal de Cubierta,Budismo
+842,39908,Segunda Clase,1.0,Dieter Miller,nan,26,2,1,1.0,K,7.0,,Bern,Personal de Máquinas,Budismo
+843,48650,Segunda Clase,0.0,Hans Taylor,M,38,3,0,1.0,nan,,247.0,,Personal de Servicio,Otras
+844,36759,Segunda Clase,0.0,Helga Jones,M,15,3,2,0.0,nan,,177.0,,Personal de Máquinas,Islam
+845,44809,Cuarta Clase,0.0,Gertrud Moore,M,68,1,0,,nan,,461.0,,Pasajeros Civiles,Hinduismo
+846,25927,Segunda Clase,1.0,Erika Robinson,M,38,1,1,,G,3.0,,Lisboa,Personal de Servicio,Judaísmo
+847,33295,Cuarta Clase,0.0,Dieter White,M,32,4,2,1.0,nan,,454.0,,Pasajeros Civiles,Otras
+848,42977,Cuarta Clase,0.0,Heinz Thompson,nan,59,1,0,1.0,nan,,448.0,,Pasajeros Civiles,Ateísmo
+849,27982,Segunda Clase,0.0,Erika Jones,nan,58,4,2,1.0,nan,,399.0,,Oficial de Cubierta,Cristianismo
+850,28573,Segunda Clase,0.0,Gustav Jones,nan,64,1,2,1.0,nan,,704.0,,Personal de Máquinas,Islam
+851,61264,Cuarta Clase,0.0,Heinz Martin,M,28,1,2,0.0,nan,,792.0,,Pasajeros Civiles,Judaísmo
+852,44145,Segunda Clase,1.0,Karl Robinson,nan,37,4,0,0.0,G,1.0,,Bern,Personal de Cubierta,Islam
+853,33275,Segunda Clase,1.0,Karl Moore,M,62,3,0,,D,5.0,,Dublín,Oficial Superior,Cristianismo
+854,66803,Segunda Clase,0.0,Gertrud Miller,nan,27,3,0,0.0,nan,,265.0,,Personal de Servicio,Judaísmo
+855,57170,Cuarta Clase,0.0,Ingrid White,nan,79,4,2,,nan,,849.0,,Pasajeros Civiles,Ateísmo
+856,31723,Segunda Clase,0.0,Gustav Davis,F,52,2,0,1.0,nan,,208.0,,Personal Médico,Judaísmo
+857,25803,Cuarta Clase,0.0,Klaus Garcia,nan,59,0,2,1.0,nan,,41.0,,Pasajeros Civiles,Islam
+858,62621,Segunda Clase,0.0,Margarete Miller,nan,43,2,0,0.0,nan,,606.0,,Personal de Cubierta,Otras
+859,43634,Segunda Clase,1.0,Margarete Anderson,nan,19,2,0,,G,3.0,,Berna,Oficial Superior,Islam
+860,55762,Segunda Clase,0.0,Jürgen Smith,F,64,3,0,0.0,nan,,121.0,,Oficial Subalterno,Budismo
+861,56373,Segunda Clase,1.0,Hans Williams,nan,12,0,0,0.0,G,10.0,,Bern,Oficial Superior,Budismo
+862,53866,Segunda Clase,1.0,Heinz Martinez,M,5,1,2,0.0,D,9.0,,Bern,Personal de Servicio,Islam
+863,47328,Segunda Clase,1.0,Margarete Brown,nan,76,1,0,0.0,K,4.0,,Lisboa,Personal de Máquinas,Ateísmo
+864,37082,Segunda Clase,1.0,Friedrich Thompson,F,79,3,1,1.0,K,5.0,,Dublín,Personal de Máquinas,Cristianismo
+865,28367,Cuarta Clase,0.0,Friedrich Jones,M,2,4,2,1.0,nan,,127.0,,Pasajeros Civiles,Judaísmo
+866,41546,Segunda Clase,1.0,Erich Wilson,M,24,1,0,,K,6.0,,Dublín,Personal de Máquinas,Judaísmo
+867,56308,Segunda Clase,0.0,Marlene Taylor,M,77,2,0,0.0,nan,,86.0,,Oficial Subalterno,Budismo
+868,32476,Segunda Clase,1.0,Erich Harris,F,57,1,1,1.0,G,7.0,,Lisboa,Oficial de Cubierta,Budismo
+869,29282,Cuarta Clase,1.0,Klaus Jones,nan,31,3,0,,G,1.0,,Dublín,Pasajeros Civiles,Judaísmo
+870,51260,Segunda Clase,1.0,Wolfgang Johnson,M,24,3,0,,D,10.0,,Madrid,Personal de Servicio,Judaísmo
+871,57227,Cuarta Clase,0.0,Gustav Thomas,F,12,2,0,,nan,,1.0,,Pasajeros Civiles,Cristianismo
+872,29855,Cuarta Clase,0.0,Greta White,M,27,1,2,0.0,nan,,319.0,,Pasajeros Civiles,Islam
+873,62815,Cuarta Clase,0.0,Heinz Jones,nan,73,2,2,1.0,nan,,205.0,,Pasajeros Civiles,Islam
+874,66251,Cuarta Clase,1.0,Klaus Smith,F,73,2,0,0.0,P,3.0,,Londres,Pasajeros Civiles,Hinduismo
+875,28513,Segunda Clase,1.0,Dieter Davis,F,72,2,1,0.0,D,7.0,,Bern,Oficial Subalterno,Ateísmo
+876,34943,Segunda Clase,0.0,Greta Thomas,nan,7,0,2,1.0,nan,,233.0,,Personal de Máquinas,Cristianismo
+877,34777,Segunda Clase,1.0,Marlene Robinson,nan,3,0,1,0.0,P,3.0,,Bern,Personal Médico,Judaísmo
+878,61886,Cuarta Clase,0.0,Erich Williams,F,68,2,2,,nan,,588.0,,Pasajeros Civiles,Hinduismo
+879,44912,Segunda Clase,0.0,Ingrid Anderson,nan,79,1,0,0.0,nan,,284.0,,Personal Médico,Hinduismo
+880,30582,Segunda Clase,1.0,Wolfgang Jones,nan,46,1,2,0.0,P,8.0,,Londres,Oficial Subalterno,Otras
+881,41265,Cuarta Clase,0.0,Elisabeth Jackson,nan,4,0,0,0.0,nan,,771.0,,Pasajeros Civiles,Ateísmo
+882,32762,Segunda Clase,1.0,Marlene Moore,M,76,3,1,1.0,G,1.0,,Dublín,Oficial Subalterno,Islam
+883,61573,Segunda Clase,0.0,Elisabeth Martin,M,43,1,2,0.0,nan,,166.0,,Personal de Máquinas,Judaísmo
+884,52274,Segunda Clase,1.0,Helga Davis,M,48,2,1,,P,4.0,,Bern,Personal de Máquinas,Islam
+885,64735,Segunda Clase,0.0,Heinz Brown,F,4,2,0,0.0,nan,,196.0,,Oficial Subalterno,Otras
+886,64067,Segunda Clase,0.0,Klaus Davis,M,8,4,0,0.0,nan,,203.0,,Personal de Servicio,Hinduismo
+887,65528,Segunda Clase,0.0,Heinz White,F,61,0,1,1.0,nan,,746.0,,Personal de Cubierta,Judaísmo
+888,39790,Segunda Clase,0.0,Hannelore Martin,nan,11,1,2,,nan,,544.0,,Personal de Máquinas,Islam
+889,59247,Cuarta Clase,0.0,Hannelore Harris,M,50,2,0,1.0,nan,,242.0,,Pasajeros Civiles,Hinduismo
+890,54524,Cuarta Clase,1.0,Wolfgang Robinson,M,23,2,1,1.0,G,6.0,,Dublín,Pasajeros Civiles,Hinduismo
+891,54014,Cuarta Clase,0.0,Elisabeth Thomas,M,40,0,1,,nan,,921.0,,Pasajeros Civiles,Hinduismo
+892,44487,Segunda Clase,1.0,Erika Smith,F,63,1,1,,K,3.0,,Lisboa,Personal Médico,Judaísmo
+893,63569,Segunda Clase,1.0,Dieter Martin,F,58,1,1,,D,10.0,,Berna,Personal de Cubierta,Hinduismo
+894,53103,Segunda Clase,0.0,Margarete Jones,F,16,4,1,,nan,,464.0,,Personal Médico,Judaísmo
+895,45013,Cuarta Clase,1.0,Helga Harris,F,18,2,2,,G,4.0,,Lisboa,Pasajeros Civiles,Otras
+896,62265,Segunda Clase,0.0,Klaus Williams,F,50,1,2,,nan,,223.0,,Personal de Máquinas,Judaísmo
+897,65699,Segunda Clase,0.0,Erich Anderson,M,34,3,1,0.0,nan,,643.0,,Personal de Máquinas,Islam
+898,28947,Segunda Clase,0.0,Hans Thompson,nan,68,2,2,0.0,nan,,813.0,,Oficial Superior,Ateísmo
+899,64952,Segunda Clase,0.0,Hannelore Martinez,F,52,0,0,1.0,nan,,175.0,,Personal de Servicio,Ateísmo
+900,31503,Segunda Clase,0.0,Jürgen Anderson,F,7,4,1,,nan,,596.0,,Personal de Cubierta,Judaísmo
+901,38617,Cuarta Clase,0.0,Gertrud Thompson,nan,47,3,1,,nan,,502.0,,Pasajeros Civiles,Judaísmo
+902,65993,Segunda Clase,1.0,Erika Jones,F,24,4,0,,G,4.0,,Berna,Personal Médico,Judaísmo
+903,38829,Segunda Clase,0.0,Helga Wilson,M,6,4,1,0.0,nan,,846.0,,Personal de Cubierta,Cristianismo
+904,42343,Segunda Clase,1.0,Margarete Thomas,M,36,4,2,,D,3.0,,Madrid,Oficial de Cubierta,Budismo
+905,68281,Cuarta Clase,1.0,Elisabeth Brown,F,46,3,2,1.0,D,10.0,,Lisboa,Pasajeros Civiles,Hinduismo
+906,30320,Segunda Clase,0.0,Renate Robinson,nan,28,3,1,,nan,,27.0,,Personal Médico,Ateísmo
+907,35292,Segunda Clase,1.0,Klaus Smith,nan,39,4,0,0.0,P,7.0,,Londres,Oficial Subalterno,Otras
+908,40719,Cuarta Clase,0.0,Wolfgang Thompson,nan,5,2,0,0.0,nan,,100.0,,Pasajeros Civiles,Cristianismo
+909,36391,Segunda Clase,0.0,Margarete Martin,nan,61,1,1,1.0,nan,,33.0,,Personal de Servicio,Budismo
+910,61175,Segunda Clase,1.0,Wolfgang Williams,M,37,4,0,,K,6.0,,Estocolmo,Oficial Subalterno,Hinduismo
+911,29919,Segunda Clase,0.0,Margarete Anderson,F,61,2,0,1.0,nan,,684.0,,Oficial de Cubierta,Ateísmo
+912,35258,Cuarta Clase,1.0,Jürgen Anderson,M,35,2,0,1.0,D,6.0,,Madrid,Pasajeros Civiles,Ateísmo
+913,25175,Segunda Clase,0.0,Erich Johnson,M,70,2,0,1.0,nan,,218.0,,Oficial Superior,Islam
+914,51772,Segunda Clase,1.0,Gertrud Wilson,nan,44,3,2,,K,5.0,,Bern,Oficial de Cubierta,Cristianismo
+915,63916,Cuarta Clase,1.0,Renate Jackson,nan,71,0,1,1.0,G,3.0,,Londres,Pasajeros Civiles,Islam
+916,55796,Segunda Clase,1.0,Elisabeth Wilson,M,39,2,2,1.0,K,1.0,,Lisboa,Personal Médico,Judaísmo
+917,44087,Segunda Clase,0.0,Friedrich Harris,F,18,0,1,0.0,nan,,263.0,,Personal de Máquinas,Budismo
+918,27139,Segunda Clase,0.0,Marlene Martinez,F,56,2,0,1.0,nan,,986.0,,Personal de Servicio,Islam
+919,40170,Segunda Clase,1.0,Marlene Williams,F,37,1,2,,K,3.0,,Berna,Oficial Subalterno,Islam
+920,43881,Segunda Clase,1.0,Margarete Harris,F,25,0,1,1.0,K,8.0,,Dublín,Personal de Servicio,Judaísmo
+921,43528,Segunda Clase,1.0,Greta Jones,nan,67,4,1,0.0,D,9.0,,Londres,Oficial de Cubierta,Otras
+922,54755,Segunda Clase,1.0,Margarete Smith,nan,47,1,0,1.0,K,9.0,,Dublín,Personal de Servicio,Judaísmo
+923,29664,Cuarta Clase,0.0,Heinz Jackson,F,58,2,1,0.0,nan,,366.0,,Pasajeros Civiles,Ateísmo
+924,40297,Segunda Clase,1.0,Helga Johnson,M,73,1,0,1.0,K,10.0,,Lisboa,Personal Médico,Judaísmo
+925,42337,Cuarta Clase,0.0,Renate Garcia,M,49,2,2,1.0,nan,,110.0,,Pasajeros Civiles,Ateísmo
+926,65963,Segunda Clase,0.0,Hans Williams,nan,1,2,1,1.0,nan,,839.0,,Oficial Subalterno,Ateísmo
+927,63652,Cuarta Clase,1.0,Erika Robinson,F,32,3,1,1.0,D,7.0,,Lisboa,Pasajeros Civiles,Hinduismo
+928,68331,Segunda Clase,0.0,Gustav Thompson,F,36,2,2,0.0,nan,,708.0,,Oficial de Cubierta,Otras
+929,37964,Cuarta Clase,0.0,Renate Miller,F,64,0,2,,nan,,602.0,,Pasajeros Civiles,Otras
+930,52861,Segunda Clase,0.0,Marlene Anderson,nan,31,3,1,,nan,,344.0,,Personal de Máquinas,Otras
+931,32521,Segunda Clase,0.0,Ingrid Johnson,F,56,3,1,,nan,,354.0,,Personal Médico,Budismo
+932,60688,Cuarta Clase,1.0,Jürgen Harris,F,35,3,0,,K,10.0,,Londres,Pasajeros Civiles,Ateísmo
+933,39733,Segunda Clase,0.0,Greta Garcia,F,75,3,1,0.0,nan,,947.0,,Personal de Servicio,Otras
+934,67443,Segunda Clase,0.0,Erika Robinson,F,71,4,1,1.0,nan,,985.0,,Personal de Máquinas,Ateísmo
+935,34764,Segunda Clase,1.0,Margarete Thomas,nan,74,0,0,0.0,P,3.0,,Madrid,Oficial Subalterno,Ateísmo
+936,42408,Segunda Clase,0.0,Marlene Jones,M,54,2,0,0.0,nan,,16.0,,Personal Médico,Otras
+937,34321,Cuarta Clase,0.0,Heinz Wilson,M,46,0,0,1.0,nan,,801.0,,Pasajeros Civiles,Ateísmo
+938,28908,Segunda Clase,0.0,Hans Anderson,F,15,4,2,1.0,nan,,103.0,,Personal de Máquinas,Ateísmo
+939,35873,Cuarta Clase,1.0,Ingrid Taylor,M,31,0,1,0.0,G,8.0,,Lisboa,Pasajeros Civiles,Ateísmo
+940,45159,Segunda Clase,1.0,Renate Thompson,nan,17,1,0,1.0,G,10.0,,Dublín,Personal de Máquinas,Budismo
+941,62303,Segunda Clase,0.0,Ingrid Jones,F,42,2,0,1.0,nan,,260.0,,Personal de Cubierta,Ateísmo
+942,43914,Segunda Clase,0.0,Klaus Davis,nan,40,3,2,,nan,,338.0,,Personal Médico,Ateísmo
+943,53780,Segunda Clase,1.0,Margarete Brown,F,9,1,0,0.0,P,5.0,,Londres,Oficial de Cubierta,Budismo
+944,33149,Segunda Clase,0.0,Helga Jones,nan,22,2,1,,nan,,681.0,,Oficial de Cubierta,Otras
+945,55716,Segunda Clase,0.0,Erich Robinson,F,28,1,2,1.0,nan,,596.0,,Personal de Cubierta,Judaísmo
+946,44928,Cuarta Clase,0.0,Karl Miller,nan,2,3,2,0.0,nan,,861.0,,Pasajeros Civiles,Cristianismo
+947,51378,Segunda Clase,1.0,Heinz Jackson,nan,71,1,1,,P,1.0,,Estocolmo,Personal de Cubierta,Otras
+948,42841,Segunda Clase,0.0,Karl Harris,F,62,4,1,0.0,nan,,800.0,,Oficial de Cubierta,Otras
+949,57798,Segunda Clase,1.0,Karl Anderson,M,63,3,0,1.0,K,8.0,,Lisboa,Personal de Cubierta,Otras
+950,60388,Segunda Clase,1.0,Heinz White,nan,5,1,2,1.0,P,2.0,,Dublín,Personal de Cubierta,Budismo
+951,57361,Segunda Clase,0.0,Klaus Martinez,M,55,2,1,1.0,nan,,723.0,,Oficial de Cubierta,Budismo
+952,53688,Segunda Clase,0.0,Heinz Harris,F,43,1,1,0.0,nan,,994.0,,Personal Médico,Otras
+953,30271,Segunda Clase,0.0,Marlene Martinez,M,51,3,2,1.0,nan,,686.0,,Personal de Máquinas,Ateísmo
+954,64192,Segunda Clase,0.0,Gertrud Brown,M,76,1,1,1.0,nan,,392.0,,Personal Médico,Cristianismo
+955,27612,Segunda Clase,0.0,Margarete Smith,nan,59,3,1,1.0,nan,,942.0,,Personal de Máquinas,Budismo
+956,53313,Cuarta Clase,0.0,Gertrud Johnson,F,68,1,0,,nan,,111.0,,Pasajeros Civiles,Ateísmo
+957,46123,Segunda Clase,1.0,Renate White,M,56,1,1,1.0,P,5.0,,Dublín,Personal de Cubierta,Budismo
+958,64564,Segunda Clase,0.0,Hannelore Martin,M,69,2,2,,nan,,507.0,,Personal de Cubierta,Otras
+959,41408,Segunda Clase,0.0,Gertrud Davis,F,5,0,2,0.0,nan,,701.0,,Oficial Superior,Budismo
+960,26695,Cuarta Clase,1.0,Hannelore Davis,nan,13,0,1,0.0,P,6.0,,Lisboa,Pasajeros Civiles,Hinduismo
+961,30985,Segunda Clase,0.0,Dieter Jones,F,34,1,2,1.0,nan,,897.0,,Personal de Servicio,Budismo
+962,40002,Segunda Clase,0.0,Elisabeth Robinson,M,41,4,2,1.0,nan,,79.0,,Personal de Servicio,Ateísmo
+963,62696,Segunda Clase,1.0,Erika Anderson,nan,41,0,2,0.0,D,10.0,,Londres,Personal de Máquinas,Hinduismo
+964,63477,Segunda Clase,1.0,Gertrud Jackson,nan,37,0,2,0.0,G,4.0,,Madrid,Oficial Subalterno,Ateísmo
+965,26359,Segunda Clase,1.0,Helga Robinson,M,44,3,0,1.0,D,9.0,,Berna,Personal de Cubierta,Islam
+966,42662,Cuarta Clase,1.0,Jürgen Moore,nan,6,1,1,1.0,D,10.0,,Berna,Pasajeros Civiles,Judaísmo
+967,62764,Segunda Clase,1.0,Elisabeth Anderson,nan,18,0,2,,P,8.0,,Madrid,Personal de Cubierta,Judaísmo
+968,27636,Segunda Clase,0.0,Gustav Harris,F,57,0,0,1.0,nan,,289.0,,Oficial Superior,Judaísmo
+969,36481,Segunda Clase,1.0,Dieter Brown,F,0,1,0,1.0,P,1.0,,Bern,Personal de Máquinas,Hinduismo
+970,55834,Segunda Clase,1.0,Helga Robinson,nan,15,3,2,,K,1.0,,Londres,Personal Médico,Hinduismo
+971,59010,Segunda Clase,0.0,Gertrud Taylor,M,12,0,0,0.0,nan,,857.0,,Personal de Cubierta,Budismo
+972,67697,Segunda Clase,0.0,Renate Anderson,nan,22,4,0,0.0,nan,,612.0,,Personal Médico,Hinduismo
+973,53981,Segunda Clase,0.0,Renate Miller,M,26,2,1,1.0,nan,,447.0,,Oficial de Cubierta,Budismo
+974,43229,Segunda Clase,1.0,Karl Miller,F,29,0,0,1.0,G,3.0,,Dublín,Oficial de Cubierta,Cristianismo
+975,36894,Cuarta Clase,1.0,Erika Taylor,F,10,2,2,0.0,G,3.0,,Bern,Pasajeros Civiles,Budismo
+976,63360,Segunda Clase,1.0,Ingrid Brown,M,59,4,2,,P,5.0,,Bern,Personal de Cubierta,Islam
+977,53566,Cuarta Clase,1.0,Wolfgang Thompson,nan,78,2,1,,K,1.0,,Berna,Pasajeros Civiles,Ateísmo
+978,66601,Segunda Clase,0.0,Renate Anderson,nan,64,3,0,,nan,,588.0,,Personal de Cubierta,Judaísmo
+979,57225,Segunda Clase,0.0,Heinz Thomas,nan,73,2,2,1.0,nan,,603.0,,Oficial Subalterno,Ateísmo
+980,30979,Segunda Clase,1.0,Renate Martin,nan,45,4,0,0.0,P,9.0,,Londres,Oficial Superior,Hinduismo
+981,55802,Segunda Clase,0.0,Hannelore Martinez,F,36,2,1,1.0,nan,,821.0,,Oficial de Cubierta,Hinduismo
+982,47803,Segunda Clase,0.0,Helga Garcia,nan,70,3,1,1.0,nan,,712.0,,Oficial de Cubierta,Cristianismo
+983,51761,Cuarta Clase,0.0,Gustav White,M,8,4,1,0.0,nan,,152.0,,Pasajeros Civiles,Judaísmo
+984,46843,Cuarta Clase,0.0,Hans Thompson,M,75,4,1,1.0,nan,,776.0,,Pasajeros Civiles,Islam
+985,46040,Segunda Clase,0.0,Heinz Smith,F,33,0,0,1.0,nan,,192.0,,Oficial de Cubierta,Budismo
+986,68917,Segunda Clase,1.0,Elisabeth Brown,F,26,2,1,,D,7.0,,Berna,Oficial de Cubierta,Islam
+987,31855,Cuarta Clase,1.0,Klaus Johnson,F,8,3,2,0.0,K,9.0,,Estocolmo,Pasajeros Civiles,Ateísmo
+988,35539,Segunda Clase,0.0,Karl Moore,M,48,2,1,,nan,,251.0,,Oficial Superior,Islam
+989,46614,Segunda Clase,1.0,Wolfgang Taylor,nan,36,0,1,,P,2.0,,Dublín,Personal de Servicio,Hinduismo
+990,51977,Segunda Clase,0.0,Erich Brown,M,59,2,0,1.0,nan,,770.0,,Personal de Máquinas,Judaísmo
+991,57471,Segunda Clase,0.0,Klaus Taylor,nan,40,3,2,,nan,,477.0,,Personal Médico,Islam
+992,43888,Segunda Clase,1.0,Karl Garcia,nan,34,3,0,,G,5.0,,Estocolmo,Oficial Superior,Judaísmo
+993,68423,Segunda Clase,0.0,Klaus Thomas,F,7,2,0,,nan,,265.0,,Oficial Subalterno,Judaísmo
+994,51244,Cuarta Clase,0.0,Marlene Jones,F,35,2,0,,nan,,34.0,,Pasajeros Civiles,Islam
+995,61051,Cuarta Clase,1.0,Erika Garcia,nan,65,4,2,,K,2.0,,Madrid,Pasajeros Civiles,Judaísmo
+996,27404,Segunda Clase,0.0,Jürgen Garcia,M,50,1,1,0.0,nan,,11.0,,Oficial Subalterno,Otras
+997,54807,Segunda Clase,0.0,Elisabeth Wilson,nan,27,2,0,,nan,,25.0,,Personal de Servicio,Ateísmo
+998,30771,Segunda Clase,1.0,Gertrud Taylor,M,47,4,0,0.0,D,3.0,,Lisboa,Personal Médico,Hinduismo
+999,45612,Segunda Clase,1.0,Klaus Jackson,M,72,3,1,1.0,K,6.0,,Estocolmo,Personal Médico,Budismo
+1000,41541,Segunda Clase,0.0,Elisabeth White,M,40,0,2,1.0,nan,,637.0,,Oficial de Cubierta,Otras
+1001,46186,Segunda Clase,0.0,Greta Garcia,nan,19,1,2,,nan,,349.0,,Personal de Cubierta,Judaísmo
+1002,32597,Segunda Clase,0.0,Klaus Smith,M,63,2,0,1.0,nan,,331.0,,Personal de Máquinas,Otras
+1003,51488,Segunda Clase,1.0,Erich Miller,M,7,3,0,1.0,D,4.0,,Lisboa,Personal de Cubierta,Budismo
+1004,58724,Cuarta Clase,0.0,Erika Harris,M,49,1,1,,nan,,330.0,,Pasajeros Civiles,Cristianismo
+1005,25075,Segunda Clase,0.0,Jürgen Thomas,F,44,0,2,,nan,,732.0,,Oficial Superior,Hinduismo
+1006,68100,Segunda Clase,0.0,Hannelore Garcia,M,59,0,0,,nan,,465.0,,Oficial de Cubierta,Cristianismo
+1007,60559,Cuarta Clase,0.0,Erika Miller,M,9,0,1,0.0,nan,,714.0,,Pasajeros Civiles,Judaísmo
+1008,55276,Cuarta Clase,0.0,Karl Taylor,M,17,0,2,1.0,nan,,530.0,,Pasajeros Civiles,Ateísmo
+1009,52082,Segunda Clase,1.0,Marlene Davis,F,11,0,0,1.0,D,8.0,,Londres,Oficial Subalterno,Cristianismo
+1010,28552,Segunda Clase,0.0,Friedrich Davis,nan,11,0,0,1.0,nan,,183.0,,Personal de Servicio,Otras
+1011,37293,Segunda Clase,1.0,Wolfgang Thompson,nan,20,3,0,0.0,D,7.0,,Bern,Oficial Subalterno,Budismo
+1012,58976,Cuarta Clase,1.0,Heinz Jackson,nan,48,1,1,0.0,P,7.0,,Dublín,Pasajeros Civiles,Ateísmo
+1013,48709,Segunda Clase,0.0,Klaus White,M,63,2,1,,nan,,274.0,,Personal de Servicio,Cristianismo
+1014,65804,Segunda Clase,0.0,Erich Garcia,F,9,0,0,,nan,,950.0,,Personal Médico,Cristianismo
+1015,57669,Segunda Clase,0.0,Erich Brown,F,11,4,2,1.0,nan,,815.0,,Oficial Subalterno,Judaísmo
+1016,65986,Segunda Clase,0.0,Wolfgang Martinez,F,79,0,1,,nan,,678.0,,Personal de Cubierta,Budismo
+1017,53969,Cuarta Clase,0.0,Erich Smith,nan,17,4,2,0.0,nan,,674.0,,Pasajeros Civiles,Cristianismo
+1018,28382,Cuarta Clase,1.0,Greta Harris,nan,41,3,0,1.0,G,8.0,,Londres,Pasajeros Civiles,Islam
+1019,38340,Segunda Clase,1.0,Dieter Johnson,F,41,3,0,,D,4.0,,Madrid,Personal de Cubierta,Islam
+1020,42501,Segunda Clase,1.0,Dieter Anderson,nan,26,4,0,0.0,G,8.0,,Estocolmo,Oficial Superior,Otras
+1021,60993,Segunda Clase,1.0,Erika Johnson,nan,79,1,1,1.0,P,7.0,,Dublín,Personal de Máquinas,Islam
+1022,33586,Segunda Clase,1.0,Erika Taylor,F,27,2,1,0.0,D,1.0,,Madrid,Personal de Cubierta,Ateísmo
+1023,43876,Segunda Clase,0.0,Margarete Martinez,nan,60,3,1,1.0,nan,,559.0,,Personal Médico,Ateísmo
+1024,53712,Cuarta Clase,0.0,Renate Thomas,F,0,2,2,,nan,,561.0,,Pasajeros Civiles,Islam
+1025,56766,Cuarta Clase,0.0,Friedrich Anderson,M,44,4,1,,nan,,122.0,,Pasajeros Civiles,Ateísmo
+1026,32957,Segunda Clase,1.0,Gertrud Wilson,M,69,1,0,,K,6.0,,Bern,Personal Médico,Cristianismo
+1027,26891,Segunda Clase,0.0,Wolfgang Thompson,M,15,0,0,1.0,nan,,739.0,,Oficial Subalterno,Otras
+1028,66289,Cuarta Clase,0.0,Friedrich Thompson,F,77,2,2,1.0,nan,,772.0,,Pasajeros Civiles,Hinduismo
+1029,64903,Segunda Clase,1.0,Wolfgang White,nan,30,1,0,0.0,G,5.0,,Bern,Personal Médico,Budismo
+1030,40682,Segunda Clase,0.0,Renate Garcia,F,55,4,2,1.0,nan,,969.0,,Personal de Cubierta,Hinduismo
+1031,35379,Segunda Clase,0.0,Elisabeth Williams,M,68,0,2,1.0,nan,,345.0,,Oficial de Cubierta,Budismo
+1032,45365,Segunda Clase,0.0,Ingrid Wilson,F,58,0,2,,nan,,550.0,,Oficial Superior,Judaísmo
+1033,61099,Segunda Clase,0.0,Karl Anderson,F,38,4,1,1.0,nan,,948.0,,Personal de Máquinas,Budismo
+1034,25896,Segunda Clase,1.0,Greta Thomas,nan,27,2,0,,D,4.0,,Bern,Oficial Subalterno,Cristianismo
+1035,61192,Segunda Clase,0.0,Gustav Miller,M,14,1,0,0.0,nan,,895.0,,Personal Médico,Islam
+1036,51738,Segunda Clase,0.0,Erika Thompson,nan,24,0,2,0.0,nan,,101.0,,Personal de Cubierta,Judaísmo
+1037,31108,Segunda Clase,0.0,Margarete Garcia,F,59,4,0,1.0,nan,,23.0,,Oficial Subalterno,Otras
+1038,32435,Cuarta Clase,1.0,Hans Jones,nan,40,4,1,,P,7.0,,Bern,Pasajeros Civiles,Judaísmo
+1039,55241,Segunda Clase,1.0,Ingrid Harris,nan,78,4,0,1.0,K,1.0,,Berna,Personal de Máquinas,Islam
+1040,32698,Segunda Clase,1.0,Jürgen Robinson,M,56,2,0,1.0,K,9.0,,Berna,Personal de Cubierta,Ateísmo
+1041,67448,Segunda Clase,0.0,Erika Wilson,M,42,1,1,,nan,,516.0,,Oficial de Cubierta,Judaísmo
+1042,35090,Segunda Clase,0.0,Klaus Anderson,M,29,2,1,,nan,,644.0,,Oficial Subalterno,Hinduismo
+1043,57661,Segunda Clase,1.0,Elisabeth Jones,nan,60,3,0,,K,4.0,,Londres,Personal de Servicio,Islam
+1044,44127,Segunda Clase,1.0,Elisabeth Moore,F,34,3,2,,P,10.0,,Bern,Personal de Servicio,Budismo
+1045,58349,Cuarta Clase,1.0,Renate Taylor,F,65,0,1,0.0,K,3.0,,Bern,Pasajeros Civiles,Ateísmo
+1046,42919,Segunda Clase,0.0,Hans Thompson,nan,46,4,2,,nan,,481.0,,Personal de Máquinas,Islam
+1047,52229,Segunda Clase,0.0,Ingrid Thompson,F,15,0,0,1.0,nan,,567.0,,Oficial Superior,Hinduismo
+1048,56621,Segunda Clase,0.0,Gertrud Harris,F,8,1,0,,nan,,35.0,,Personal de Servicio,Ateísmo
+1049,55947,Segunda Clase,0.0,Margarete Johnson,F,31,4,2,0.0,nan,,481.0,,Oficial Superior,Islam
+1050,40973,Segunda Clase,1.0,Gustav Miller,F,30,1,0,,G,7.0,,Estocolmo,Oficial Subalterno,Budismo
+1051,54935,Segunda Clase,1.0,Greta Thompson,M,4,2,1,1.0,P,1.0,,Dublín,Oficial Subalterno,Judaísmo
+1052,61127,Segunda Clase,0.0,Friedrich Jones,F,18,3,2,0.0,nan,,558.0,,Personal Médico,Islam
+1053,34479,Segunda Clase,0.0,Wolfgang Garcia,nan,42,3,2,0.0,nan,,242.0,,Personal de Máquinas,Otras
+1054,50138,Segunda Clase,1.0,Renate Smith,nan,52,4,0,0.0,P,4.0,,Estocolmo,Oficial de Cubierta,Cristianismo
+1055,37491,Cuarta Clase,0.0,Friedrich Miller,F,14,4,1,0.0,nan,,312.0,,Pasajeros Civiles,Judaísmo
+1056,64280,Segunda Clase,0.0,Karl White,nan,65,2,2,0.0,nan,,261.0,,Personal de Cubierta,Cristianismo
+1057,58308,Segunda Clase,1.0,Heinz Miller,M,21,0,0,1.0,K,10.0,,Bern,Personal de Servicio,Cristianismo
+1058,33946,Segunda Clase,0.0,Renate White,M,49,4,0,1.0,nan,,553.0,,Oficial de Cubierta,Hinduismo
+1059,29575,Segunda Clase,0.0,Friedrich Brown,nan,74,1,1,,nan,,307.0,,Personal Médico,Cristianismo
+1060,43104,Segunda Clase,0.0,Hans Harris,F,49,1,1,1.0,nan,,418.0,,Personal de Cubierta,Budismo
+1061,52193,Segunda Clase,1.0,Greta Johnson,F,74,0,1,1.0,K,3.0,,Londres,Personal de Máquinas,Budismo
+1062,47274,Segunda Clase,0.0,Friedrich Williams,nan,67,1,2,,nan,,12.0,,Personal de Cubierta,Judaísmo
+1063,58275,Cuarta Clase,1.0,Klaus Davis,F,67,4,2,0.0,G,10.0,,Madrid,Pasajeros Civiles,Otras
+1064,42509,Segunda Clase,0.0,Erich Garcia,M,33,3,1,1.0,nan,,150.0,,Personal de Cubierta,Ateísmo
+1065,25168,Segunda Clase,1.0,Friedrich Martinez,M,79,3,0,,P,8.0,,Berna,Personal de Máquinas,Otras
+1066,43536,Segunda Clase,1.0,Jürgen Moore,nan,64,1,2,,K,7.0,,Lisboa,Oficial de Cubierta,Budismo
+1067,44566,Cuarta Clase,1.0,Helga Jackson,F,1,3,0,,P,8.0,,Berna,Pasajeros Civiles,Islam
+1068,63465,Segunda Clase,1.0,Marlene Jackson,F,35,3,0,0.0,D,1.0,,Berna,Oficial Superior,Cristianismo
+1069,63005,Segunda Clase,1.0,Helga Anderson,F,56,3,0,0.0,G,9.0,,Madrid,Personal Médico,Ateísmo
+1070,68249,Segunda Clase,1.0,Hans Jackson,M,71,3,0,,D,5.0,,Madrid,Personal de Cubierta,Judaísmo
+1071,57089,Segunda Clase,0.0,Heinz Garcia,nan,69,3,2,,nan,,31.0,,Oficial Subalterno,Otras
+1072,34738,Segunda Clase,1.0,Hans Robinson,M,1,1,2,0.0,K,1.0,,Berna,Personal de Servicio,Otras
+1073,54264,Cuarta Clase,1.0,Friedrich Martinez,nan,70,0,1,0.0,K,10.0,,Lisboa,Pasajeros Civiles,Hinduismo
+1074,60296,Segunda Clase,0.0,Klaus Williams,nan,52,0,2,1.0,nan,,165.0,,Personal de Cubierta,Islam
+1075,56741,Segunda Clase,0.0,Ingrid Thompson,F,26,3,0,0.0,nan,,519.0,,Oficial Superior,Budismo
+1076,47618,Segunda Clase,0.0,Heinz Taylor,F,49,1,1,0.0,nan,,310.0,,Personal de Cubierta,Cristianismo
+1077,46786,Segunda Clase,1.0,Gustav Robinson,F,49,4,1,,P,8.0,,Londres,Personal de Máquinas,Ateísmo
+1078,61170,Segunda Clase,1.0,Friedrich Taylor,nan,62,3,0,1.0,K,3.0,,Bern,Oficial de Cubierta,Otras
+1079,60614,Segunda Clase,0.0,Marlene Jackson,M,59,0,1,0.0,nan,,985.0,,Oficial de Cubierta,Ateísmo
+1080,49720,Segunda Clase,0.0,Elisabeth Smith,F,77,3,0,1.0,nan,,611.0,,Oficial Subalterno,Islam
+1081,54841,Segunda Clase,1.0,Margarete Davis,M,27,3,2,1.0,K,9.0,,Bern,Personal Médico,Cristianismo
+1082,46088,Segunda Clase,1.0,Renate Wilson,nan,13,3,0,0.0,G,3.0,,Bern,Oficial Subalterno,Ateísmo
+1083,37363,Segunda Clase,1.0,Dieter Jackson,M,75,4,1,1.0,D,4.0,,Madrid,Personal Médico,Cristianismo
+1084,40650,Segunda Clase,1.0,Renate Taylor,nan,7,2,0,1.0,G,6.0,,Berna,Personal de Máquinas,Judaísmo
+1085,62473,Segunda Clase,0.0,Dieter Taylor,F,76,4,1,,nan,,228.0,,Personal de Servicio,Islam
+1086,50098,Cuarta Clase,1.0,Ingrid Smith,F,32,3,0,,D,4.0,,Dublín,Pasajeros Civiles,Islam
+1087,40306,Segunda Clase,0.0,Renate Garcia,nan,53,2,1,,nan,,624.0,,Personal Médico,Judaísmo
+1088,51920,Cuarta Clase,0.0,Dieter Jones,F,35,0,2,,nan,,249.0,,Pasajeros Civiles,Hinduismo
+1089,27860,Segunda Clase,0.0,Klaus Smith,nan,55,4,2,,nan,,520.0,,Oficial de Cubierta,Judaísmo
+1090,45852,Segunda Clase,1.0,Hannelore Robinson,F,30,2,1,1.0,D,5.0,,Londres,Oficial de Cubierta,Cristianismo
+1091,49984,Segunda Clase,0.0,Elisabeth Garcia,M,38,1,1,,nan,,182.0,,Oficial Superior,Otras
+1092,50302,Cuarta Clase,1.0,Renate Williams,F,37,0,0,1.0,D,9.0,,Madrid,Pasajeros Civiles,Judaísmo
+1093,68495,Segunda Clase,1.0,Gustav Miller,nan,70,0,2,,K,4.0,,Dublín,Personal Médico,Otras
+1094,67730,Cuarta Clase,0.0,Ingrid Miller,nan,34,3,0,0.0,nan,,976.0,,Pasajeros Civiles,Islam
+1095,34968,Segunda Clase,0.0,Helga Thompson,F,66,4,2,1.0,nan,,746.0,,Personal de Máquinas,Judaísmo
+1096,57461,Segunda Clase,0.0,Dieter Davis,F,41,0,1,0.0,nan,,482.0,,Oficial Superior,Otras
+1097,27426,Segunda Clase,0.0,Wolfgang Wilson,M,60,1,1,1.0,nan,,54.0,,Oficial Superior,Judaísmo
+1098,33273,Cuarta Clase,1.0,Erika Moore,nan,77,1,2,,G,10.0,,Estocolmo,Pasajeros Civiles,Judaísmo
+1099,57918,Cuarta Clase,1.0,Karl Jones,M,54,0,2,1.0,D,6.0,,Dublín,Pasajeros Civiles,Ateísmo
+1100,63678,Cuarta Clase,0.0,Wolfgang Martinez,F,26,1,1,0.0,nan,,813.0,,Pasajeros Civiles,Hinduismo
+1101,46757,Segunda Clase,0.0,Klaus Garcia,F,72,3,2,,nan,,940.0,,Oficial de Cubierta,Cristianismo
+1102,31577,Cuarta Clase,0.0,Marlene Garcia,M,54,2,0,,nan,,905.0,,Pasajeros Civiles,Hinduismo
+1103,53855,Segunda Clase,1.0,Friedrich Taylor,F,28,4,2,0.0,P,10.0,,Berna,Oficial Subalterno,Cristianismo
+1104,31534,Segunda Clase,1.0,Friedrich Moore,nan,24,1,1,0.0,K,4.0,,Bern,Oficial Subalterno,Hinduismo
+1105,59468,Segunda Clase,0.0,Heinz Miller,F,46,0,0,0.0,nan,,846.0,,Personal de Máquinas,Cristianismo
+1106,54945,Cuarta Clase,1.0,Hannelore Martin,nan,39,3,1,0.0,G,3.0,,Dublín,Pasajeros Civiles,Cristianismo
+1107,26005,Segunda Clase,0.0,Greta Thomas,M,16,4,0,1.0,nan,,331.0,,Personal Médico,Judaísmo
+1108,34447,Segunda Clase,1.0,Dieter Wilson,nan,51,4,0,0.0,P,4.0,,Madrid,Oficial Superior,Judaísmo
+1109,51868,Segunda Clase,0.0,Heinz Taylor,nan,2,0,0,1.0,nan,,486.0,,Oficial de Cubierta,Islam
+1110,67911,Segunda Clase,0.0,Erika Williams,M,24,2,1,0.0,nan,,26.0,,Personal Médico,Cristianismo
+1111,35116,Segunda Clase,0.0,Karl Anderson,F,2,2,2,,nan,,218.0,,Oficial Superior,Cristianismo
+1112,29903,Cuarta Clase,1.0,Margarete Harris,nan,68,0,1,,P,9.0,,Lisboa,Pasajeros Civiles,Ateísmo
+1113,55768,Segunda Clase,0.0,Greta Robinson,M,59,3,0,1.0,nan,,492.0,,Personal Médico,Hinduismo
+1114,42368,Cuarta Clase,0.0,Gustav Martinez,nan,40,2,1,0.0,nan,,347.0,,Pasajeros Civiles,Ateísmo
+1115,47187,Segunda Clase,0.0,Dieter Martinez,nan,10,4,1,1.0,nan,,27.0,,Personal Médico,Hinduismo
+1116,65845,Segunda Clase,0.0,Hannelore Thomas,F,68,4,2,0.0,nan,,988.0,,Oficial Subalterno,Cristianismo
+1117,51049,Cuarta Clase,1.0,Greta White,nan,64,4,1,0.0,P,9.0,,Londres,Pasajeros Civiles,Cristianismo
+1118,67587,Segunda Clase,0.0,Wolfgang Smith,nan,62,1,1,,nan,,26.0,,Personal de Servicio,Budismo
+1119,30263,Segunda Clase,0.0,Greta Wilson,F,29,4,1,1.0,nan,,73.0,,Personal Médico,Cristianismo
+1120,46532,Cuarta Clase,1.0,Jürgen White,nan,67,3,0,1.0,G,10.0,,Lisboa,Pasajeros Civiles,Cristianismo
+1121,59971,Cuarta Clase,0.0,Erich Thomas,M,69,4,0,,nan,,814.0,,Pasajeros Civiles,Hinduismo
+1122,49904,Segunda Clase,0.0,Dieter Anderson,F,46,0,2,,nan,,519.0,,Personal Médico,Judaísmo
+1123,45752,Segunda Clase,1.0,Margarete Harris,nan,24,3,0,0.0,G,9.0,,Madrid,Personal de Cubierta,Otras
+1124,66077,Cuarta Clase,1.0,Marlene Thomas,nan,13,0,0,1.0,G,9.0,,Londres,Pasajeros Civiles,Ateísmo
+1125,56978,Segunda Clase,0.0,Gustav Martin,F,42,1,0,0.0,nan,,232.0,,Personal de Servicio,Cristianismo
+1126,60456,Segunda Clase,0.0,Renate Jones,F,12,1,1,,nan,,928.0,,Personal de Cubierta,Ateísmo
+1127,27352,Cuarta Clase,1.0,Wolfgang Robinson,M,33,4,1,1.0,P,1.0,,Bern,Pasajeros Civiles,Ateísmo
+1128,65465,Segunda Clase,1.0,Friedrich Moore,M,24,1,0,1.0,K,5.0,,Dublín,Oficial de Cubierta,Otras
+1129,29484,Segunda Clase,0.0,Dieter Garcia,nan,32,2,2,1.0,nan,,573.0,,Oficial Superior,Judaísmo
+1130,40385,Cuarta Clase,0.0,Karl Moore,nan,16,0,1,,nan,,673.0,,Pasajeros Civiles,Otras
+1131,66363,Segunda Clase,1.0,Friedrich Williams,F,47,0,1,0.0,K,5.0,,Madrid,Personal de Servicio,Judaísmo
+1132,43833,Segunda Clase,0.0,Hans Thompson,M,71,0,2,0.0,nan,,830.0,,Personal de Máquinas,Otras
+1133,30923,Segunda Clase,0.0,Hans Martinez,F,0,1,0,1.0,nan,,418.0,,Oficial Superior,Hinduismo
+1134,53440,Cuarta Clase,0.0,Hannelore Jackson,F,4,2,0,1.0,nan,,450.0,,Pasajeros Civiles,Ateísmo
+1135,31451,Cuarta Clase,0.0,Hannelore Miller,M,77,3,2,,nan,,82.0,,Pasajeros Civiles,Islam
+1136,66533,Segunda Clase,1.0,Klaus Garcia,M,55,1,1,1.0,G,9.0,,Berna,Oficial Superior,Budismo
+1137,31586,Segunda Clase,1.0,Erich Garcia,F,52,3,2,0.0,G,8.0,,Berna,Personal Médico,Ateísmo
+1138,54076,Cuarta Clase,1.0,Renate Martin,M,14,4,1,,K,7.0,,Dublín,Pasajeros Civiles,Ateísmo
+1139,35902,Segunda Clase,0.0,Dieter Thomas,F,39,4,2,0.0,nan,,200.0,,Personal de Cubierta,Islam
+1140,44625,Segunda Clase,1.0,Elisabeth Wilson,M,2,2,2,,P,10.0,,Londres,Personal de Servicio,Otras
+1141,26897,Segunda Clase,0.0,Hannelore Taylor,F,17,2,1,,nan,,802.0,,Oficial Subalterno,Hinduismo
+1142,28014,Segunda Clase,0.0,Dieter Harris,M,29,0,0,,nan,,365.0,,Oficial Subalterno,Islam
+1143,46258,Segunda Clase,1.0,Gertrud Thompson,M,75,2,1,0.0,K,9.0,,Estocolmo,Personal de Servicio,Cristianismo
+1144,28677,Segunda Clase,0.0,Friedrich Jackson,M,51,1,2,0.0,nan,,602.0,,Personal de Máquinas,Islam
+1145,44226,Segunda Clase,1.0,Ingrid Thompson,nan,8,1,2,1.0,K,7.0,,Estocolmo,Personal de Servicio,Judaísmo
+1146,48492,Segunda Clase,0.0,Hans Wilson,F,25,2,0,0.0,nan,,94.0,,Personal Médico,Cristianismo
+1147,49565,Segunda Clase,0.0,Erika Davis,nan,41,3,1,0.0,nan,,40.0,,Personal de Servicio,Islam
+1148,53225,Segunda Clase,0.0,Gertrud Brown,F,73,1,0,,nan,,68.0,,Personal de Servicio,Budismo
+1149,34540,Segunda Clase,0.0,Marlene Davis,F,63,0,0,,nan,,334.0,,Oficial Superior,Islam
+1150,41003,Cuarta Clase,0.0,Wolfgang Martinez,nan,44,1,0,0.0,nan,,593.0,,Pasajeros Civiles,Judaísmo
+1151,59810,Segunda Clase,0.0,Hannelore Brown,M,63,4,1,1.0,nan,,906.0,,Oficial Subalterno,Otras
+1152,52004,Segunda Clase,0.0,Margarete Thomas,F,70,3,0,,nan,,369.0,,Personal de Máquinas,Islam
+1153,36800,Segunda Clase,1.0,Klaus Wilson,M,29,2,2,1.0,G,1.0,,Lisboa,Oficial Superior,Hinduismo
+1154,36140,Segunda Clase,0.0,Margarete Wilson,M,34,3,2,1.0,nan,,790.0,,Oficial Subalterno,Cristianismo
+1155,36473,Cuarta Clase,1.0,Friedrich Moore,F,10,3,1,1.0,K,1.0,,Bern,Pasajeros Civiles,Islam
+1156,30175,Segunda Clase,0.0,Ingrid Wilson,M,26,0,2,0.0,nan,,718.0,,Personal de Servicio,Otras
+1157,64943,Cuarta Clase,1.0,Klaus Miller,M,34,4,2,,P,2.0,,Lisboa,Pasajeros Civiles,Budismo
+1158,65613,Segunda Clase,0.0,Gertrud Thomas,F,38,3,2,1.0,nan,,450.0,,Oficial Subalterno,Budismo
+1159,40783,Segunda Clase,1.0,Elisabeth Martin,M,16,3,0,,G,6.0,,Bern,Oficial de Cubierta,Judaísmo
+1160,57615,Cuarta Clase,0.0,Marlene Johnson,nan,49,4,0,,nan,,998.0,,Pasajeros Civiles,Judaísmo
+1161,63217,Cuarta Clase,1.0,Klaus Anderson,nan,7,2,2,1.0,D,10.0,,Bern,Pasajeros Civiles,Islam
+1162,34379,Segunda Clase,0.0,Heinz Thompson,M,1,1,2,,nan,,224.0,,Personal de Cubierta,Otras
+1163,40216,Segunda Clase,0.0,Erich Moore,M,4,1,2,,nan,,525.0,,Personal Médico,Ateísmo
+1164,55221,Cuarta Clase,0.0,Hannelore Garcia,M,1,2,1,1.0,nan,,633.0,,Pasajeros Civiles,Budismo
+1165,66805,Segunda Clase,1.0,Hannelore Davis,F,0,0,0,1.0,K,2.0,,Madrid,Personal de Servicio,Hinduismo
+1166,41644,Cuarta Clase,0.0,Elisabeth Jackson,nan,35,1,1,,nan,,644.0,,Pasajeros Civiles,Judaísmo
+1167,55118,Segunda Clase,0.0,Ingrid Martinez,F,12,3,2,0.0,nan,,636.0,,Personal de Servicio,Otras
+1168,41733,Segunda Clase,1.0,Friedrich Thompson,F,76,0,0,0.0,P,8.0,,Bern,Oficial de Cubierta,Ateísmo
+1169,68702,Segunda Clase,1.0,Erich Jackson,F,59,3,2,0.0,K,3.0,,Madrid,Oficial de Cubierta,Budismo
+1170,25615,Segunda Clase,0.0,Jürgen Thompson,F,5,4,1,0.0,nan,,495.0,,Personal Médico,Judaísmo
+1171,55490,Segunda Clase,1.0,Elisabeth Thomas,M,14,4,2,1.0,K,2.0,,Bern,Personal de Máquinas,Otras
+1172,43850,Segunda Clase,0.0,Ingrid Martin,F,21,0,0,,nan,,887.0,,Oficial Subalterno,Cristianismo
+1173,60821,Segunda Clase,0.0,Margarete Robinson,nan,57,1,1,1.0,nan,,955.0,,Personal de Cubierta,Otras
+1174,35353,Segunda Clase,1.0,Hans Thompson,M,30,2,2,0.0,D,10.0,,Berna,Oficial de Cubierta,Cristianismo
+1175,29840,Segunda Clase,0.0,Dieter Harris,F,10,2,1,,nan,,536.0,,Oficial Superior,Ateísmo
+1176,53949,Cuarta Clase,0.0,Wolfgang Wilson,F,11,3,0,,nan,,990.0,,Pasajeros Civiles,Ateísmo
+1177,47646,Segunda Clase,0.0,Friedrich Thompson,F,37,3,1,,nan,,682.0,,Personal de Servicio,Ateísmo
+1178,63507,Cuarta Clase,0.0,Erich Miller,nan,21,3,2,1.0,nan,,54.0,,Pasajeros Civiles,Hinduismo
+1179,44605,Segunda Clase,1.0,Dieter Davis,nan,67,1,0,,G,1.0,,Madrid,Oficial de Cubierta,Islam
+1180,66873,Segunda Clase,0.0,Wolfgang Thomas,M,47,3,1,1.0,nan,,831.0,,Oficial de Cubierta,Ateísmo
+1181,52807,Segunda Clase,0.0,Erika Jones,M,29,1,0,,nan,,617.0,,Oficial Superior,Otras
+1182,41390,Segunda Clase,0.0,Jürgen White,M,74,0,1,1.0,nan,,950.0,,Oficial Superior,Otras
+1183,54939,Cuarta Clase,1.0,Greta Jones,M,59,1,1,1.0,G,9.0,,Dublín,Pasajeros Civiles,Judaísmo
+1184,44799,Segunda Clase,0.0,Margarete Martin,F,58,3,2,1.0,nan,,570.0,,Personal Médico,Budismo
+1185,38055,Cuarta Clase,1.0,Margarete Miller,F,74,3,1,1.0,P,4.0,,Bern,Pasajeros Civiles,Budismo
+1186,50211,Segunda Clase,0.0,Hannelore Davis,nan,75,1,1,1.0,nan,,277.0,,Oficial de Cubierta,Ateísmo
+1187,56667,Cuarta Clase,1.0,Helga Smith,nan,73,2,0,1.0,K,4.0,,Dublín,Pasajeros Civiles,Ateísmo
+1188,31989,Segunda Clase,1.0,Jürgen Johnson,F,27,0,1,,G,1.0,,Londres,Personal de Servicio,Budismo
+1189,40545,Segunda Clase,0.0,Dieter Martinez,nan,70,4,2,,nan,,992.0,,Personal Médico,Ateísmo
+1190,49993,Segunda Clase,1.0,Hannelore Davis,M,28,4,2,0.0,P,2.0,,Londres,Oficial de Cubierta,Ateísmo
+1191,62481,Cuarta Clase,0.0,Dieter Thompson,F,27,1,2,,nan,,984.0,,Pasajeros Civiles,Judaísmo
+1192,48524,Segunda Clase,1.0,Klaus Martinez,nan,25,1,1,1.0,D,4.0,,Bern,Oficial de Cubierta,Judaísmo
+1193,62670,Cuarta Clase,1.0,Dieter Johnson,M,73,4,1,,G,3.0,,Madrid,Pasajeros Civiles,Ateísmo
+1194,44390,Segunda Clase,0.0,Wolfgang Moore,nan,29,1,2,,nan,,545.0,,Oficial Subalterno,Ateísmo
+1195,44348,Cuarta Clase,1.0,Wolfgang Thompson,nan,25,0,0,,G,1.0,,Berna,Pasajeros Civiles,Budismo
+1196,26437,Segunda Clase,0.0,Elisabeth Robinson,F,49,1,1,1.0,nan,,978.0,,Personal de Cubierta,Otras
+1197,68137,Segunda Clase,0.0,Hannelore Smith,nan,42,4,1,,nan,,26.0,,Oficial de Cubierta,Hinduismo
+1198,50939,Segunda Clase,0.0,Gustav Williams,M,29,2,1,0.0,nan,,939.0,,Personal de Máquinas,Ateísmo
+1199,42988,Segunda Clase,1.0,Karl Harris,M,29,2,0,0.0,D,10.0,,Berna,Personal de Máquinas,Hinduismo
+1200,25530,Segunda Clase,1.0,Erika Martin,nan,40,1,1,,G,2.0,,Dublín,Oficial de Cubierta,Islam
+1201,28214,Segunda Clase,0.0,Margarete Davis,M,17,4,0,,nan,,234.0,,Personal de Cubierta,Budismo
+1202,64741,Segunda Clase,0.0,Jürgen White,F,35,2,2,0.0,nan,,568.0,,Oficial Subalterno,Hinduismo
+1203,57553,Cuarta Clase,0.0,Erika Brown,M,53,2,2,,nan,,920.0,,Pasajeros Civiles,Otras
+1204,43756,Segunda Clase,1.0,Hannelore Davis,M,74,2,2,0.0,K,10.0,,Dublín,Oficial de Cubierta,Cristianismo
+1205,40081,Segunda Clase,1.0,Erika Thompson,M,6,0,2,0.0,D,1.0,,Lisboa,Personal de Servicio,Hinduismo
+1206,64784,Segunda Clase,0.0,Erich Davis,M,15,1,2,1.0,nan,,963.0,,Personal de Cubierta,Budismo
+1207,48089,Segunda Clase,0.0,Greta Harris,nan,42,3,0,,nan,,341.0,,Personal de Cubierta,Budismo
+1208,39352,Cuarta Clase,1.0,Erika Martinez,F,33,2,0,,K,8.0,,Lisboa,Pasajeros Civiles,Cristianismo
+1209,66721,Cuarta Clase,0.0,Friedrich Wilson,F,36,4,2,0.0,nan,,446.0,,Pasajeros Civiles,Judaísmo
+1210,37460,Segunda Clase,0.0,Elisabeth Jackson,F,48,1,0,0.0,nan,,757.0,,Oficial Subalterno,Cristianismo
+1211,65690,Segunda Clase,0.0,Dieter Jones,nan,31,3,2,1.0,nan,,362.0,,Personal de Servicio,Hinduismo
+1212,41425,Cuarta Clase,0.0,Hans Miller,nan,34,1,0,,nan,,939.0,,Pasajeros Civiles,Judaísmo
+1213,68200,Segunda Clase,0.0,Gertrud Thompson,nan,26,4,2,0.0,nan,,894.0,,Personal Médico,Budismo
+1214,33963,Cuarta Clase,1.0,Helga Brown,F,13,0,2,,G,10.0,,Londres,Pasajeros Civiles,Judaísmo
+1215,66172,Segunda Clase,1.0,Erika Jones,nan,30,0,2,,P,8.0,,Estocolmo,Personal de Máquinas,Islam
+1216,31367,Segunda Clase,1.0,Wolfgang Martin,nan,79,2,1,,P,5.0,,Lisboa,Personal de Servicio,Islam
+1217,66121,Cuarta Clase,1.0,Erika Robinson,F,79,0,2,,D,10.0,,Madrid,Pasajeros Civiles,Hinduismo
+1218,67358,Segunda Clase,0.0,Klaus Garcia,M,79,2,0,,nan,,822.0,,Personal de Máquinas,Hinduismo
+1219,27583,Segunda Clase,0.0,Gertrud Jones,nan,79,2,0,1.0,nan,,961.0,,Personal de Servicio,Judaísmo
+1220,45246,Segunda Clase,1.0,Friedrich Martin,F,9,4,1,,P,7.0,,Lisboa,Personal de Servicio,Cristianismo
+1221,53889,Segunda Clase,1.0,Dieter Robinson,M,43,2,2,1.0,P,2.0,,Madrid,Oficial Subalterno,Otras
+1222,27186,Segunda Clase,1.0,Renate Smith,F,64,3,0,,D,5.0,,Bern,Personal de Cubierta,Ateísmo
+1223,62982,Segunda Clase,0.0,Helga Thompson,nan,37,3,2,0.0,nan,,849.0,,Personal de Servicio,Budismo
+1224,48911,Segunda Clase,0.0,Helga Thomas,M,17,4,2,,nan,,594.0,,Oficial Subalterno,Islam
+1225,33612,Cuarta Clase,0.0,Klaus Thompson,nan,50,2,1,0.0,nan,,486.0,,Pasajeros Civiles,Cristianismo
+1226,30906,Segunda Clase,0.0,Helga Wilson,M,59,3,1,1.0,nan,,902.0,,Personal Médico,Cristianismo
+1227,44340,Segunda Clase,0.0,Margarete Jackson,F,21,0,0,,nan,,275.0,,Oficial de Cubierta,Islam
+1228,46411,Segunda Clase,0.0,Ingrid Martinez,F,35,0,2,0.0,nan,,679.0,,Oficial de Cubierta,Judaísmo
+1229,52230,Segunda Clase,0.0,Hannelore Jones,F,79,4,2,0.0,nan,,790.0,,Personal de Cubierta,Islam
