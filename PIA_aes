@@ -1,0 +1,1231 @@
+,folio_tripulante,clase_pasajero,supervivencia,nombre,sexo,edad,parientes,familiares,grave,embarque,bote,cuerpo,residencias,tipo_tripulante
+0,66905,Segunda Clase,0.0,Dieter Harris,nan,12,2,2,0.0,nan,,793.0,,Oficial Subalterno
+1,32296,Segunda Clase,0.0,Klaus Garcia,F,77,4,2,0.0,nan,,751.0,,Oficial de Cubierta
+2,26639,Segunda Clase,1.0,Helga White,F,27,0,1,0.0,G,7.0,,Dublín,Oficial Subalterno
+3,43024,Cuarta Clase,0.0,Renate Thompson,M,39,2,1,1.0,nan,,495.0,,Pasajeros Civiles
+4,41049,Segunda Clase,0.0,Dieter Jackson,F,25,1,0,0.0,nan,,736.0,,Personal de Máquinas
+5,39628,Cuarta Clase,0.0,Jürgen Moore,F,2,0,0,0.0,nan,,898.0,,Pasajeros Civiles
+6,34144,Cuarta Clase,0.0,Karl Anderson,nan,62,0,0,0.0,nan,,602.0,,Pasajeros Civiles
+7,31717,Segunda Clase,0.0,Friedrich Harris,F,20,3,0,0.0,nan,,248.0,,Personal de Cubierta
+8,60741,Segunda Clase,1.0,Ingrid Williams,M,11,4,1,0.0,D,9.0,,Lisboa,Oficial Subalterno
+9,30697,Segunda Clase,1.0,Renate Miller,F,26,4,0,,G,6.0,,Bern,Personal de Cubierta
+10,63698,Segunda Clase,0.0,Klaus Moore,F,54,2,1,0.0,nan,,80.0,,Personal Médico
+11,52651,Segunda Clase,1.0,Elisabeth Robinson,nan,10,0,2,1.0,G,10.0,,Dublín,Personal de Cubierta
+12,27082,Segunda Clase,1.0,Erika Johnson,nan,72,1,1,1.0,G,3.0,,Londres,Personal de Máquinas
+13,26952,Segunda Clase,0.0,Friedrich Miller,M,31,4,1,,nan,,72.0,,Oficial Superior
+14,31140,Segunda Clase,0.0,Hannelore Garcia,M,32,2,1,,nan,,378.0,,Personal Médico
+15,39328,Segunda Clase,1.0,Karl Martin,M,39,1,2,0.0,P,10.0,,Lisboa,Oficial Superior
+16,40247,Segunda Clase,0.0,Karl Anderson,nan,41,2,1,,nan,,319.0,,Oficial Subalterno
+17,58118,Segunda Clase,0.0,Gustav Smith,nan,13,2,1,,nan,,625.0,,Oficial de Cubierta
+18,64453,Segunda Clase,1.0,Karl Miller,F,70,0,1,1.0,D,6.0,,Londres,Personal de Servicio
+19,26739,Cuarta Clase,0.0,Heinz Martin,F,36,2,0,1.0,nan,,943.0,,Pasajeros Civiles
+20,61781,Segunda Clase,0.0,Jürgen Robinson,M,25,2,2,,nan,,8.0,,Personal de Máquinas
+21,38031,Segunda Clase,1.0,Karl Jackson,nan,39,4,1,,P,4.0,,Estocolmo,Oficial Superior
+22,67590,Segunda Clase,0.0,Jürgen Garcia,F,36,3,1,0.0,nan,,523.0,,Personal de Servicio
+23,60713,Primera Clase,0.0,Greta Taylor,M,23,0,1,1.0,nan,,137.0,,Capitán
+24,52493,Segunda Clase,0.0,Elisabeth Harris,F,15,0,2,,nan,,360.0,,Personal de Cubierta
+25,39446,Cuarta Clase,1.0,Renate Thomas,nan,75,0,1,0.0,D,1.0,,Bern,Pasajeros Civiles
+26,54439,Segunda Clase,0.0,Gustav Moore,nan,5,3,2,1.0,nan,,981.0,,Oficial Superior
+27,63618,Segunda Clase,0.0,Ingrid Thompson,M,75,1,1,,nan,,884.0,,Personal Médico
+28,43231,Segunda Clase,0.0,Margarete Harris,M,35,4,1,1.0,nan,,720.0,,Personal de Máquinas
+29,25425,Segunda Clase,0.0,Heinz Martin,M,2,4,1,0.0,nan,,486.0,,Personal de Cubierta
+30,35463,Segunda Clase,1.0,Greta Miller,nan,42,1,0,0.0,D,1.0,,Berna,Personal de Servicio
+31,52696,Segunda Clase,1.0,Ingrid Anderson,nan,68,1,1,1.0,D,5.0,,Berna,Personal de Máquinas
+32,47298,Segunda Clase,1.0,Helga Johnson,M,71,3,2,1.0,P,3.0,,Dublín,Oficial Superior
+33,43210,Segunda Clase,0.0,Hannelore Wilson,M,11,0,0,0.0,nan,,831.0,,Oficial de Cubierta
+34,35189,Segunda Clase,0.0,Dieter Smith,nan,50,1,0,,nan,,98.0,,Personal Médico
+35,39110,Primera Clase,1.0,Erich Garcia,F,0,0,0,,P,10.0,,Bern,Capitán
+36,47059,Cuarta Clase,1.0,Hannelore Martinez,M,74,4,0,1.0,P,2.0,,Lisboa,Pasajeros Civiles
+37,31698,Segunda Clase,0.0,Helga Taylor,nan,2,2,1,,nan,,579.0,,Personal de Máquinas
+38,31078,Segunda Clase,0.0,Dieter Miller,nan,69,1,0,,nan,,962.0,,Oficial de Cubierta
+39,49898,Segunda Clase,0.0,Greta Wilson,nan,15,3,2,,nan,,488.0,,Oficial Superior
+40,31338,Segunda Clase,1.0,Elisabeth Martinez,F,35,0,1,1.0,G,9.0,,Estocolmo,Personal Médico
+41,48526,Segunda Clase,0.0,Jürgen Martin,M,65,3,1,0.0,nan,,536.0,,Personal de Cubierta
+42,47541,Segunda Clase,0.0,Renate Anderson,F,18,3,2,0.0,nan,,319.0,,Personal de Servicio
+43,64565,Segunda Clase,1.0,Erich Martin,nan,28,2,0,,D,4.0,,Madrid,Oficial Superior
+44,42335,Segunda Clase,0.0,Margarete Harris,nan,27,2,1,0.0,nan,,108.0,,Oficial Subalterno
+45,27847,Cuarta Clase,1.0,Wolfgang Thomas,F,70,3,1,,P,6.0,,Madrid,Pasajeros Civiles
+46,55108,Cuarta Clase,1.0,Wolfgang Brown,nan,69,4,1,1.0,G,1.0,,Londres,Pasajeros Civiles
+47,60142,Segunda Clase,1.0,Renate Martin,M,33,3,0,0.0,G,8.0,,Estocolmo,Personal de Cubierta
+48,33180,Segunda Clase,1.0,Wolfgang Garcia,nan,30,1,2,,P,3.0,,Berna,Personal Médico
+49,49807,Segunda Clase,1.0,Klaus Thompson,nan,55,2,0,0.0,D,2.0,,Berna,Oficial Superior
+50,30164,Segunda Clase,0.0,Klaus Williams,F,2,1,1,0.0,nan,,328.0,,Oficial Superior
+51,61178,Segunda Clase,1.0,Klaus Smith,F,48,2,1,,G,8.0,,Estocolmo,Oficial de Cubierta
+52,44213,Cuarta Clase,1.0,Helga Brown,F,77,0,2,1.0,D,2.0,,Berna,Pasajeros Civiles
+53,66198,Segunda Clase,0.0,Jürgen Williams,M,40,4,1,,nan,,378.0,,Oficial Subalterno
+54,65535,Segunda Clase,1.0,Dieter Smith,M,53,2,1,0.0,P,6.0,,Estocolmo,Personal de Servicio
+55,48700,Segunda Clase,1.0,Karl Thompson,nan,47,1,2,,G,7.0,,Dublín,Personal Médico
+56,62837,Segunda Clase,0.0,Marlene Thomas,M,56,3,1,1.0,nan,,992.0,,Personal de Máquinas
+57,37601,Cuarta Clase,1.0,Klaus Robinson,M,8,1,1,0.0,K,7.0,,Madrid,Pasajeros Civiles
+58,29558,Segunda Clase,1.0,Erika Martin,nan,47,0,2,1.0,P,6.0,,Lisboa,Personal de Servicio
+59,28003,Segunda Clase,1.0,Margarete Smith,F,52,4,0,1.0,P,9.0,,Madrid,Oficial Subalterno
+60,68336,Segunda Clase,0.0,Hans Garcia,M,46,3,0,0.0,nan,,259.0,,Personal de Servicio
+61,39935,Segunda Clase,0.0,Renate White,F,62,0,1,1.0,nan,,13.0,,Oficial Superior
+62,43965,Segunda Clase,0.0,Hans Smith,F,19,0,1,,nan,,328.0,,Personal Médico
+63,30229,Segunda Clase,1.0,Gertrud Moore,M,63,2,0,1.0,K,3.0,,Londres,Personal de Servicio
+64,40256,Segunda Clase,0.0,Renate Taylor,M,40,2,2,0.0,nan,,38.0,,Personal de Cubierta
+65,31619,Cuarta Clase,1.0,Hans Thompson,F,73,2,2,,P,7.0,,Bern,Pasajeros Civiles
+66,49911,Segunda Clase,1.0,Helga Davis,nan,37,3,2,1.0,K,9.0,,Dublín,Personal de Máquinas
+67,43217,Segunda Clase,0.0,Heinz Jones,nan,40,2,2,1.0,nan,,937.0,,Oficial de Cubierta
+68,54714,Segunda Clase,1.0,Gertrud Brown,nan,3,2,1,1.0,K,9.0,,Bern,Personal Médico
+69,66660,Segunda Clase,0.0,Jürgen Miller,F,68,3,2,0.0,nan,,986.0,,Personal Médico
+70,48909,Segunda Clase,0.0,Erika Thompson,M,53,4,1,1.0,nan,,314.0,,Oficial de Cubierta
+71,35659,Segunda Clase,0.0,Erich Thomas,M,63,4,1,1.0,nan,,613.0,,Personal de Máquinas
+72,49260,Segunda Clase,1.0,Erich Jackson,F,76,2,0,1.0,D,4.0,,Estocolmo,Oficial Superior
+73,48283,Segunda Clase,0.0,Friedrich Thomas,nan,77,4,1,,nan,,723.0,,Personal de Máquinas
+74,38730,Cuarta Clase,1.0,Elisabeth Harris,F,23,4,0,0.0,K,10.0,,Lisboa,Pasajeros Civiles
+75,68920,Segunda Clase,1.0,Hannelore Wilson,M,52,1,2,0.0,D,10.0,,Dublín,Personal de Máquinas
+76,42496,Cuarta Clase,1.0,Jürgen Taylor,M,58,3,2,1.0,G,7.0,,Madrid,Pasajeros Civiles
+77,67469,Segunda Clase,0.0,Friedrich Johnson,F,44,2,2,,nan,,407.0,,Personal de Servicio
+78,29679,Segunda Clase,0.0,Friedrich Jackson,M,46,2,2,0.0,nan,,920.0,,Personal de Cubierta
+79,64920,Segunda Clase,0.0,Elisabeth Jackson,M,46,3,2,0.0,nan,,533.0,,Oficial de Cubierta
+80,66613,Segunda Clase,0.0,Renate Martin,nan,16,2,0,,nan,,207.0,,Oficial Superior
+81,36215,Segunda Clase,0.0,Klaus Smith,nan,52,1,1,0.0,nan,,943.0,,Personal Médico
+82,60005,Segunda Clase,1.0,Wolfgang Williams,M,30,3,1,,P,3.0,,Berna,Oficial Superior
+83,41043,Segunda Clase,0.0,Margarete White,nan,56,2,2,0.0,nan,,389.0,,Oficial de Cubierta
+84,35708,Cuarta Clase,0.0,Greta Martinez,F,65,0,2,0.0,nan,,127.0,,Pasajeros Civiles
+85,55294,Cuarta Clase,0.0,Heinz Thompson,M,8,4,0,1.0,nan,,468.0,,Pasajeros Civiles
+86,49867,Segunda Clase,0.0,Klaus Wilson,M,61,3,1,0.0,nan,,912.0,,Personal de Máquinas
+87,42691,Segunda Clase,1.0,Karl Martinez,nan,27,0,0,,K,6.0,,Bern,Oficial de Cubierta
+88,66943,Segunda Clase,0.0,Margarete Moore,nan,17,3,2,,nan,,221.0,,Oficial Subalterno
+89,61500,Segunda Clase,1.0,Klaus Williams,F,26,4,2,1.0,G,10.0,,Bern,Oficial de Cubierta
+90,39392,Segunda Clase,0.0,Erich Garcia,F,69,0,1,1.0,nan,,868.0,,Oficial Superior
+91,46252,Cuarta Clase,0.0,Hannelore Johnson,nan,60,0,1,,nan,,433.0,,Pasajeros Civiles
+92,28665,Segunda Clase,0.0,Wolfgang Anderson,M,17,2,0,,nan,,229.0,,Oficial de Cubierta
+93,40010,Segunda Clase,0.0,Hans Miller,nan,49,3,2,0.0,nan,,126.0,,Oficial de Cubierta
+94,27103,Segunda Clase,0.0,Hannelore Brown,M,19,4,0,,nan,,984.0,,Oficial de Cubierta
+95,45673,Segunda Clase,1.0,Elisabeth Williams,nan,43,3,2,0.0,D,3.0,,Londres,Personal de Máquinas
+96,51290,Segunda Clase,0.0,Gustav Davis,F,54,0,2,1.0,nan,,118.0,,Oficial Subalterno
+97,42546,Cuarta Clase,1.0,Hannelore Wilson,M,25,2,0,1.0,P,6.0,,Berna,Pasajeros Civiles
+98,29337,Segunda Clase,0.0,Hannelore Jackson,M,64,0,0,1.0,nan,,66.0,,Personal de Cubierta
+99,38826,Segunda Clase,0.0,Renate Anderson,F,65,2,2,,nan,,777.0,,Oficial Subalterno
+100,62170,Segunda Clase,0.0,Elisabeth Brown,F,46,0,2,,nan,,215.0,,Oficial Subalterno
+101,45622,Cuarta Clase,1.0,Friedrich Thompson,nan,70,0,1,0.0,G,8.0,,Dublín,Pasajeros Civiles
+102,38934,Segunda Clase,0.0,Ingrid Johnson,M,40,2,2,1.0,nan,,517.0,,Personal de Cubierta
+103,67954,Segunda Clase,0.0,Heinz White,M,54,1,0,,nan,,576.0,,Oficial Subalterno
+104,57717,Segunda Clase,1.0,Jürgen Williams,M,62,0,2,,D,5.0,,Berna,Oficial Superior
+105,50928,Cuarta Clase,1.0,Greta Robinson,F,5,1,2,,D,2.0,,Bern,Pasajeros Civiles
+106,67129,Segunda Clase,0.0,Erika Robinson,F,6,0,1,0.0,nan,,483.0,,Oficial Subalterno
+107,55071,Cuarta Clase,0.0,Elisabeth Anderson,nan,37,3,0,1.0,nan,,237.0,,Pasajeros Civiles
+108,34363,Segunda Clase,1.0,Hans Moore,F,30,1,0,0.0,P,4.0,,Berna,Personal de Máquinas
+109,42359,Segunda Clase,1.0,Marlene Martin,M,3,0,1,0.0,P,3.0,,Bern,Oficial de Cubierta
+110,34150,Segunda Clase,0.0,Jürgen Thomas,F,53,4,0,1.0,nan,,66.0,,Personal de Máquinas
+111,41162,Cuarta Clase,0.0,Renate Jackson,F,52,1,0,0.0,nan,,140.0,,Pasajeros Civiles
+112,61789,Segunda Clase,0.0,Helga Davis,F,27,4,1,,nan,,528.0,,Oficial Subalterno
+113,60322,Segunda Clase,0.0,Hannelore Jackson,M,70,0,1,,nan,,692.0,,Personal de Cubierta
+114,42219,Cuarta Clase,0.0,Friedrich Robinson,nan,48,3,0,0.0,nan,,909.0,,Pasajeros Civiles
+115,63311,Segunda Clase,1.0,Gustav Wilson,nan,76,1,0,,K,9.0,,Madrid,Oficial Subalterno
+116,53077,Segunda Clase,1.0,Friedrich Williams,nan,29,4,0,1.0,P,6.0,,Dublín,Personal de Servicio
+117,63242,Cuarta Clase,0.0,Erich Brown,M,77,0,2,0.0,nan,,658.0,,Pasajeros Civiles
+118,51175,Segunda Clase,1.0,Elisabeth Brown,nan,40,0,0,,G,10.0,,Londres,Oficial Superior
+119,48723,Segunda Clase,1.0,Elisabeth Anderson,M,77,1,0,0.0,K,6.0,,Lisboa,Oficial Superior
+120,39373,Segunda Clase,1.0,Ingrid Jones,M,48,0,2,1.0,P,1.0,,Dublín,Personal Médico
+121,34065,Segunda Clase,0.0,Friedrich Smith,nan,69,1,2,,nan,,224.0,,Personal Médico
+122,58392,Segunda Clase,0.0,Gustav Harris,F,3,1,2,1.0,nan,,493.0,,Personal de Máquinas
+123,57343,Cuarta Clase,0.0,Ingrid Moore,nan,10,2,1,,nan,,50.0,,Pasajeros Civiles
+124,30957,Segunda Clase,1.0,Heinz Brown,F,4,1,0,1.0,D,5.0,,Berna,Oficial Superior
+125,28087,Segunda Clase,0.0,Friedrich Davis,F,35,1,1,1.0,nan,,541.0,,Personal Médico
+126,32185,Cuarta Clase,0.0,Helga Harris,M,44,4,2,0.0,nan,,407.0,,Pasajeros Civiles
+127,35016,Segunda Clase,0.0,Renate Garcia,M,45,4,0,,nan,,742.0,,Oficial de Cubierta
+128,66120,Cuarta Clase,0.0,Gertrud White,nan,73,1,1,0.0,nan,,18.0,,Pasajeros Civiles
+129,35484,Cuarta Clase,0.0,Heinz Smith,M,4,1,0,,nan,,839.0,,Pasajeros Civiles
+130,52666,Segunda Clase,0.0,Friedrich Thomas,F,14,3,1,0.0,nan,,384.0,,Personal de Cubierta
+131,64086,Segunda Clase,0.0,Renate Williams,M,1,1,0,1.0,nan,,707.0,,Personal Médico
+132,29163,Cuarta Clase,0.0,Erika Robinson,F,13,0,2,0.0,nan,,513.0,,Pasajeros Civiles
+133,50216,Cuarta Clase,0.0,Greta Jackson,nan,67,0,1,1.0,nan,,978.0,,Pasajeros Civiles
+134,50009,Segunda Clase,1.0,Hans Taylor,M,43,3,0,0.0,K,4.0,,Londres,Personal Médico
+135,64052,Segunda Clase,0.0,Helga Jackson,F,12,3,2,0.0,nan,,631.0,,Personal de Servicio
+136,55674,Segunda Clase,1.0,Friedrich Garcia,nan,51,3,0,0.0,G,7.0,,Berna,Personal de Servicio
+137,59676,Segunda Clase,1.0,Jürgen Martinez,M,31,3,0,,K,7.0,,Dublín,Oficial Superior
+138,41476,Segunda Clase,0.0,Gertrud Davis,M,32,3,2,1.0,nan,,113.0,,Personal Médico
+139,61256,Segunda Clase,0.0,Elisabeth Davis,M,75,1,2,0.0,nan,,464.0,,Personal Médico
+140,25752,Segunda Clase,0.0,Dieter Moore,M,11,0,2,0.0,nan,,323.0,,Oficial Superior
+141,32507,Segunda Clase,1.0,Gustav Moore,F,9,2,2,1.0,K,8.0,,Lisboa,Oficial Superior
+142,60190,Segunda Clase,0.0,Margarete Brown,M,14,0,2,,nan,,366.0,,Personal de Máquinas
+143,42486,Segunda Clase,0.0,Friedrich Davis,F,73,3,2,1.0,nan,,611.0,,Oficial Subalterno
+144,67006,Segunda Clase,0.0,Helga Moore,M,43,0,1,0.0,nan,,252.0,,Oficial Superior
+145,47293,Segunda Clase,1.0,Helga Taylor,F,15,1,1,1.0,P,5.0,,Bern,Oficial Subalterno
+146,32310,Segunda Clase,0.0,Margarete Williams,F,42,1,1,1.0,nan,,855.0,,Personal de Cubierta
+147,44234,Cuarta Clase,1.0,Ingrid Moore,nan,69,3,0,1.0,G,7.0,,Berna,Pasajeros Civiles
+148,53492,Segunda Clase,0.0,Jürgen Martin,M,59,1,0,1.0,nan,,807.0,,Personal de Máquinas
+149,35365,Segunda Clase,0.0,Erika Robinson,F,32,3,2,0.0,nan,,290.0,,Personal de Servicio
+150,54735,Cuarta Clase,0.0,Karl Harris,nan,25,1,1,1.0,nan,,352.0,,Pasajeros Civiles
+151,25212,Segunda Clase,1.0,Heinz Brown,F,66,0,0,0.0,P,1.0,,Berna,Personal de Cubierta
+152,42261,Segunda Clase,0.0,Gustav Smith,M,73,4,0,1.0,nan,,504.0,,Personal Médico
+153,57806,Cuarta Clase,0.0,Elisabeth Anderson,M,5,0,1,,nan,,215.0,,Pasajeros Civiles
+154,36708,Segunda Clase,1.0,Erika Jackson,M,8,2,0,1.0,P,6.0,,Dublín,Personal de Servicio
+155,58271,Segunda Clase,0.0,Greta Harris,nan,46,2,0,0.0,nan,,793.0,,Oficial Superior
+156,31973,Segunda Clase,0.0,Greta White,F,18,1,1,,nan,,362.0,,Oficial Superior
+157,65979,Cuarta Clase,0.0,Erika Brown,nan,27,4,1,1.0,nan,,553.0,,Pasajeros Civiles
+158,44558,Segunda Clase,1.0,Gustav Anderson,nan,55,4,1,0.0,K,7.0,,Bern,Oficial de Cubierta
+159,66874,Segunda Clase,0.0,Erika Miller,F,55,3,2,0.0,nan,,123.0,,Personal de Servicio
+160,58270,Segunda Clase,1.0,Margarete Anderson,M,36,4,2,0.0,P,1.0,,Bern,Personal Médico
+161,64909,Segunda Clase,1.0,Wolfgang Jackson,F,62,1,1,1.0,K,8.0,,Berna,Oficial de Cubierta
+162,38035,Segunda Clase,0.0,Greta Taylor,nan,24,4,0,1.0,nan,,699.0,,Personal de Servicio
+163,49504,Segunda Clase,0.0,Margarete Martinez,nan,26,2,1,,nan,,185.0,,Personal de Máquinas
+164,35587,Segunda Clase,1.0,Jürgen Anderson,M,45,0,2,,D,1.0,,Bern,Personal Médico
+165,60348,Segunda Clase,0.0,Elisabeth Moore,F,0,4,0,1.0,nan,,322.0,,Personal de Servicio
+166,59757,Segunda Clase,1.0,Elisabeth Thomas,nan,70,0,1,0.0,G,2.0,,Londres,Personal de Servicio
+167,25037,Segunda Clase,1.0,Heinz Martinez,M,19,1,0,0.0,P,4.0,,Madrid,Oficial Superior
+168,64252,Segunda Clase,0.0,Karl Martinez,nan,38,0,0,0.0,nan,,84.0,,Personal de Máquinas
+169,46243,Segunda Clase,0.0,Renate Davis,M,65,0,2,0.0,nan,,134.0,,Personal de Servicio
+170,57021,Segunda Clase,1.0,Renate Smith,F,40,0,2,0.0,P,7.0,,Dublín,Personal de Máquinas
+171,26276,Segunda Clase,0.0,Marlene Miller,M,61,3,1,,nan,,778.0,,Personal de Cubierta
+172,32331,Segunda Clase,0.0,Marlene Taylor,F,15,0,2,,nan,,603.0,,Personal de Máquinas
+173,48788,Segunda Clase,0.0,Friedrich White,F,51,3,0,0.0,nan,,933.0,,Oficial Subalterno
+174,45153,Segunda Clase,0.0,Margarete Brown,nan,43,0,1,0.0,nan,,872.0,,Personal Médico
+175,40692,Segunda Clase,1.0,Gustav Wilson,M,52,2,2,1.0,G,3.0,,Madrid,Oficial Superior
+176,28796,Segunda Clase,0.0,Erich Brown,M,71,1,2,1.0,nan,,974.0,,Oficial Superior
+177,40785,Segunda Clase,0.0,Helga Jackson,M,13,1,0,1.0,nan,,967.0,,Oficial Superior
+178,62182,Segunda Clase,0.0,Friedrich Harris,F,7,0,0,0.0,nan,,807.0,,Oficial Superior
+179,30161,Segunda Clase,0.0,Erika Martin,nan,53,0,1,1.0,nan,,75.0,,Personal de Servicio
+180,30613,Segunda Clase,1.0,Hannelore Jackson,nan,53,1,1,1.0,P,7.0,,Lisboa,Oficial Superior
+181,56849,Segunda Clase,0.0,Renate Thompson,M,7,0,1,,nan,,289.0,,Personal de Máquinas
+182,29535,Segunda Clase,0.0,Helga Garcia,F,15,3,2,1.0,nan,,626.0,,Oficial Subalterno
+183,59911,Cuarta Clase,0.0,Klaus Thomas,M,27,3,1,,nan,,181.0,,Pasajeros Civiles
+184,33241,Cuarta Clase,0.0,Renate Robinson,nan,33,4,0,,nan,,906.0,,Pasajeros Civiles
+185,33414,Cuarta Clase,0.0,Friedrich Jones,M,68,3,2,0.0,nan,,323.0,,Pasajeros Civiles
+186,68237,Cuarta Clase,0.0,Jürgen Thomas,nan,26,2,0,1.0,nan,,848.0,,Pasajeros Civiles
+187,56148,Segunda Clase,0.0,Wolfgang Robinson,nan,26,0,1,,nan,,296.0,,Personal de Máquinas
+188,61031,Segunda Clase,1.0,Klaus Martinez,M,5,1,0,1.0,D,8.0,,Londres,Oficial Superior
+189,35821,Segunda Clase,0.0,Elisabeth Anderson,F,73,3,0,1.0,nan,,724.0,,Personal de Servicio
+190,42370,Segunda Clase,0.0,Helga Jones,nan,63,1,0,,nan,,65.0,,Personal de Máquinas
+191,59581,Segunda Clase,1.0,Hans Jones,F,67,4,1,1.0,D,5.0,,Londres,Personal de Servicio
+192,64753,Cuarta Clase,0.0,Erich Wilson,F,19,1,0,1.0,nan,,555.0,,Pasajeros Civiles
+193,52730,Segunda Clase,0.0,Gertrud Thompson,F,67,4,0,1.0,nan,,137.0,,Personal de Cubierta
+194,38880,Segunda Clase,0.0,Renate Martinez,F,53,4,1,1.0,nan,,994.0,,Personal de Cubierta
+195,60343,Segunda Clase,0.0,Hannelore Wilson,nan,19,1,0,0.0,nan,,238.0,,Personal de Máquinas
+196,38182,Segunda Clase,0.0,Marlene Thomas,M,41,3,1,,nan,,287.0,,Oficial Superior
+197,45428,Cuarta Clase,0.0,Elisabeth Harris,nan,22,3,1,,nan,,526.0,,Pasajeros Civiles
+198,51148,Segunda Clase,1.0,Hannelore Thompson,nan,29,4,1,,P,8.0,,Madrid,Oficial de Cubierta
+199,49472,Segunda Clase,0.0,Dieter Thomas,F,48,1,2,0.0,nan,,339.0,,Oficial Subalterno
+200,53711,Segunda Clase,1.0,Hans Martin,F,26,2,1,,G,5.0,,Estocolmo,Personal Médico
+201,58919,Segunda Clase,1.0,Heinz Taylor,M,51,3,0,0.0,K,10.0,,Madrid,Oficial de Cubierta
+202,54588,Segunda Clase,0.0,Helga Williams,M,4,1,1,,nan,,811.0,,Oficial Superior
+203,32930,Segunda Clase,0.0,Heinz Brown,nan,55,1,0,,nan,,978.0,,Personal de Máquinas
+204,41246,Cuarta Clase,0.0,Ingrid Taylor,F,65,1,0,,nan,,29.0,,Pasajeros Civiles
+205,39725,Segunda Clase,1.0,Greta Harris,M,42,4,1,,D,2.0,,Lisboa,Personal de Máquinas
+206,29196,Segunda Clase,0.0,Karl Thompson,nan,6,2,0,1.0,nan,,932.0,,Oficial Superior
+207,47156,Segunda Clase,1.0,Margarete Thomas,M,12,3,0,,G,5.0,,Dublín,Personal de Cubierta
+208,26378,Segunda Clase,1.0,Margarete Jones,M,75,2,1,1.0,P,4.0,,Londres,Oficial de Cubierta
+209,63555,Segunda Clase,0.0,Marlene Harris,F,37,2,1,0.0,nan,,162.0,,Personal de Servicio
+210,61301,Cuarta Clase,1.0,Greta Williams,nan,48,0,2,0.0,D,8.0,,Madrid,Pasajeros Civiles
+211,40080,Cuarta Clase,1.0,Gustav Johnson,F,59,0,2,0.0,P,3.0,,Lisboa,Pasajeros Civiles
+212,63564,Cuarta Clase,0.0,Heinz Smith,nan,45,3,2,0.0,nan,,6.0,,Pasajeros Civiles
+213,39432,Segunda Clase,1.0,Greta Jones,nan,32,4,2,1.0,P,1.0,,Estocolmo,Personal de Cubierta
+214,25471,Cuarta Clase,1.0,Wolfgang Wilson,nan,19,4,0,1.0,P,1.0,,Lisboa,Pasajeros Civiles
+215,29652,Segunda Clase,1.0,Gertrud Davis,nan,3,3,0,,P,7.0,,Berna,Oficial Subalterno
+216,66359,Segunda Clase,1.0,Renate Davis,nan,47,1,0,,D,1.0,,Dublín,Personal de Cubierta
+217,28858,Segunda Clase,0.0,Greta Garcia,nan,36,0,0,1.0,nan,,969.0,,Personal de Cubierta
+218,40003,Segunda Clase,0.0,Helga Harris,F,44,1,0,1.0,nan,,389.0,,Personal de Máquinas
+219,29417,Segunda Clase,1.0,Jürgen Jackson,F,23,4,2,0.0,P,8.0,,Londres,Personal de Máquinas
+220,27058,Cuarta Clase,1.0,Wolfgang Davis,M,56,1,1,1.0,P,6.0,,Bern,Pasajeros Civiles
+221,46654,Segunda Clase,1.0,Helga Jackson,M,15,3,0,0.0,G,10.0,,Londres,Oficial Subalterno
+222,29643,Segunda Clase,0.0,Hans Robinson,nan,76,4,2,0.0,nan,,869.0,,Oficial Subalterno
+223,58695,Segunda Clase,1.0,Karl Harris,nan,15,2,0,0.0,D,3.0,,Berna,Personal de Servicio
+224,40597,Segunda Clase,0.0,Hannelore White,nan,38,1,0,,nan,,194.0,,Oficial Superior
+225,43250,Segunda Clase,0.0,Elisabeth Smith,nan,30,4,2,0.0,nan,,872.0,,Oficial Subalterno
+226,68842,Cuarta Clase,0.0,Karl Miller,F,79,0,0,0.0,nan,,708.0,,Pasajeros Civiles
+227,56812,Segunda Clase,1.0,Erich Williams,nan,14,4,2,1.0,P,4.0,,Berna,Oficial Superior
+228,39040,Cuarta Clase,1.0,Hannelore Jones,nan,78,3,1,0.0,D,7.0,,Madrid,Pasajeros Civiles
+229,60339,Segunda Clase,1.0,Renate Davis,M,22,1,2,,P,9.0,,Madrid,Oficial de Cubierta
+230,33671,Segunda Clase,1.0,Ingrid Anderson,M,46,4,0,,P,7.0,,Madrid,Personal de Servicio
+231,62423,Segunda Clase,0.0,Karl Harris,M,27,0,1,1.0,nan,,937.0,,Personal de Servicio
+232,62762,Segunda Clase,1.0,Heinz Moore,F,48,2,2,1.0,G,1.0,,Estocolmo,Personal Médico
+233,55976,Segunda Clase,1.0,Margarete Thompson,nan,77,2,1,0.0,K,8.0,,Lisboa,Personal de Máquinas
+234,40925,Segunda Clase,0.0,Greta Robinson,M,30,2,2,,nan,,513.0,,Oficial Subalterno
+235,55996,Segunda Clase,1.0,Elisabeth Robinson,F,67,2,0,,D,9.0,,Dublín,Personal de Máquinas
+236,51677,Segunda Clase,1.0,Elisabeth Martinez,F,31,1,2,1.0,K,10.0,,Madrid,Personal de Cubierta
+237,37478,Segunda Clase,0.0,Heinz Thomas,M,71,4,1,,nan,,657.0,,Personal de Máquinas
+238,31181,Segunda Clase,0.0,Ingrid Harris,nan,66,0,2,1.0,nan,,364.0,,Oficial Superior
+239,31352,Cuarta Clase,1.0,Erika Davis,M,30,4,1,0.0,P,3.0,,Estocolmo,Pasajeros Civiles
+240,68187,Segunda Clase,0.0,Gustav Robinson,nan,49,0,0,0.0,nan,,90.0,,Oficial Subalterno
+241,53249,Segunda Clase,0.0,Hannelore Williams,nan,76,3,0,1.0,nan,,715.0,,Oficial Subalterno
+242,48219,Cuarta Clase,0.0,Dieter Anderson,nan,9,0,2,0.0,nan,,186.0,,Pasajeros Civiles
+243,52759,Segunda Clase,0.0,Heinz Wilson,F,44,0,1,1.0,nan,,470.0,,Oficial Superior
+244,51941,Segunda Clase,1.0,Gustav Jones,F,66,3,2,,D,9.0,,Londres,Personal de Cubierta
+245,55606,Segunda Clase,1.0,Wolfgang Thomas,M,29,1,2,1.0,D,8.0,,Estocolmo,Personal Médico
+246,28550,Segunda Clase,1.0,Dieter Thompson,F,39,0,1,0.0,P,2.0,,Londres,Personal de Servicio
+247,67824,Segunda Clase,1.0,Elisabeth White,M,4,0,0,,G,8.0,,Lisboa,Personal Médico
+248,67348,Segunda Clase,1.0,Erika Brown,M,28,4,1,,G,5.0,,Dublín,Personal Médico
+249,31449,Segunda Clase,1.0,Hannelore Jackson,F,70,1,1,0.0,D,10.0,,Berna,Personal de Servicio
+250,28972,Segunda Clase,1.0,Helga Davis,M,7,1,1,1.0,P,8.0,,Dublín,Personal de Cubierta
+251,51386,Segunda Clase,0.0,Margarete Garcia,M,67,1,1,,nan,,354.0,,Oficial de Cubierta
+252,47236,Cuarta Clase,0.0,Wolfgang Garcia,M,60,2,2,1.0,nan,,104.0,,Pasajeros Civiles
+253,32161,Segunda Clase,1.0,Wolfgang Martin,M,1,4,1,,G,4.0,,Estocolmo,Oficial Superior
+254,41295,Segunda Clase,1.0,Gustav Brown,F,54,4,2,1.0,P,2.0,,Estocolmo,Personal de Máquinas
+255,37556,Segunda Clase,0.0,Wolfgang Anderson,F,40,3,0,,nan,,683.0,,Personal de Servicio
+256,37465,Segunda Clase,0.0,Marlene Robinson,F,6,4,1,1.0,nan,,85.0,,Oficial Superior
+257,60146,Segunda Clase,1.0,Klaus Thomas,nan,19,3,0,,D,2.0,,Bern,Personal de Cubierta
+258,54400,Segunda Clase,0.0,Hans Martin,nan,22,1,0,,nan,,174.0,,Personal Médico
+259,34186,Cuarta Clase,0.0,Dieter Miller,M,24,4,0,,nan,,285.0,,Pasajeros Civiles
+260,52648,Segunda Clase,0.0,Elisabeth Garcia,M,1,1,0,1.0,nan,,304.0,,Personal de Cubierta
+261,37025,Cuarta Clase,0.0,Gertrud Martin,M,55,0,2,,nan,,215.0,,Pasajeros Civiles
+262,43254,Segunda Clase,0.0,Helga Martin,nan,66,3,2,,nan,,844.0,,Oficial de Cubierta
+263,55318,Segunda Clase,0.0,Helga Harris,nan,67,4,1,1.0,nan,,340.0,,Personal de Servicio
+264,41371,Cuarta Clase,0.0,Margarete Davis,M,68,4,1,0.0,nan,,923.0,,Pasajeros Civiles
+265,29940,Cuarta Clase,0.0,Friedrich Martinez,M,13,3,1,0.0,nan,,731.0,,Pasajeros Civiles
+266,54041,Segunda Clase,0.0,Hans Wilson,nan,33,3,1,,nan,,843.0,,Oficial de Cubierta
+267,61066,Segunda Clase,0.0,Gustav Johnson,M,28,2,0,0.0,nan,,425.0,,Personal de Cubierta
+268,31416,Segunda Clase,0.0,Erich Wilson,nan,71,3,2,1.0,nan,,621.0,,Oficial de Cubierta
+269,28315,Segunda Clase,0.0,Renate Taylor,F,56,1,2,,nan,,660.0,,Oficial Subalterno
+270,67738,Segunda Clase,1.0,Wolfgang Harris,F,15,0,2,,P,4.0,,Lisboa,Personal de Cubierta
+271,60427,Segunda Clase,1.0,Hannelore Martin,F,73,1,0,1.0,P,2.0,,Bern,Personal de Cubierta
+272,25967,Segunda Clase,0.0,Renate Thompson,M,21,0,2,1.0,nan,,982.0,,Personal de Máquinas
+273,31112,Segunda Clase,0.0,Heinz Martinez,F,58,1,2,0.0,nan,,611.0,,Oficial Superior
+274,40491,Cuarta Clase,1.0,Heinz Moore,F,38,0,2,0.0,D,2.0,,Estocolmo,Pasajeros Civiles
+275,35899,Segunda Clase,0.0,Renate Thomas,F,75,1,0,1.0,nan,,15.0,,Personal Médico
+276,51634,Segunda Clase,0.0,Renate Johnson,M,49,1,0,0.0,nan,,113.0,,Personal de Servicio
+277,56826,Segunda Clase,0.0,Marlene Garcia,F,23,2,2,,nan,,223.0,,Oficial Subalterno
+278,56546,Segunda Clase,0.0,Karl White,M,37,0,1,1.0,nan,,175.0,,Oficial Subalterno
+279,39008,Segunda Clase,0.0,Heinz Wilson,M,4,3,2,,nan,,680.0,,Personal de Servicio
+280,51282,Cuarta Clase,1.0,Gustav Johnson,M,1,3,1,,P,6.0,,Berna,Pasajeros Civiles
+281,28842,Segunda Clase,0.0,Marlene Moore,nan,67,3,2,,nan,,873.0,,Oficial de Cubierta
+282,35789,Cuarta Clase,0.0,Ingrid Williams,F,75,0,0,,nan,,609.0,,Pasajeros Civiles
+283,49836,Cuarta Clase,0.0,Marlene Jones,nan,45,0,2,,nan,,190.0,,Pasajeros Civiles
+284,25141,Segunda Clase,1.0,Jürgen Miller,M,12,0,2,1.0,D,10.0,,Estocolmo,Personal de Máquinas
+285,50586,Segunda Clase,0.0,Hannelore Thomas,nan,46,4,1,,nan,,561.0,,Oficial Superior
+286,42380,Segunda Clase,0.0,Erika White,nan,1,1,2,,nan,,41.0,,Personal de Servicio
+287,54819,Cuarta Clase,0.0,Wolfgang Robinson,F,9,0,1,1.0,nan,,85.0,,Pasajeros Civiles
+288,43694,Segunda Clase,0.0,Dieter Miller,M,39,1,2,,nan,,69.0,,Personal de Servicio
+289,52722,Cuarta Clase,0.0,Karl Johnson,F,64,3,0,0.0,nan,,181.0,,Pasajeros Civiles
+290,61422,Segunda Clase,1.0,Hannelore Thomas,M,57,3,0,0.0,G,4.0,,Madrid,Personal Médico
+291,68376,Segunda Clase,0.0,Renate Moore,M,62,2,2,,nan,,187.0,,Oficial Superior
+292,56894,Segunda Clase,1.0,Erika Garcia,F,43,0,0,0.0,P,10.0,,Dublín,Personal de Máquinas
+293,35144,Segunda Clase,0.0,Wolfgang Anderson,M,54,4,2,,nan,,571.0,,Personal de Servicio
+294,37445,Segunda Clase,0.0,Gustav Taylor,nan,73,0,2,1.0,nan,,667.0,,Personal de Servicio
+295,44445,Segunda Clase,1.0,Hannelore Moore,nan,71,2,2,0.0,P,8.0,,Dublín,Personal de Servicio
+296,39267,Segunda Clase,0.0,Gertrud Jones,F,24,2,0,0.0,nan,,901.0,,Personal de Cubierta
+297,28832,Segunda Clase,0.0,Dieter White,F,59,0,0,0.0,nan,,306.0,,Oficial Superior
+298,62957,Segunda Clase,0.0,Klaus Moore,nan,71,0,2,1.0,nan,,767.0,,Personal de Servicio
+299,60533,Cuarta Clase,1.0,Dieter Brown,M,54,4,1,,K,2.0,,Berna,Pasajeros Civiles
+300,28994,Segunda Clase,1.0,Jürgen Brown,nan,41,1,2,1.0,G,9.0,,Madrid,Personal de Máquinas
+301,45552,Segunda Clase,0.0,Greta Wilson,M,33,0,0,1.0,nan,,950.0,,Oficial Subalterno
+302,28746,Segunda Clase,1.0,Elisabeth Martin,M,28,0,0,,K,6.0,,Berna,Personal Médico
+303,28286,Segunda Clase,1.0,Dieter Martinez,nan,47,4,2,1.0,D,10.0,,Bern,Personal de Máquinas
+304,63284,Segunda Clase,1.0,Erich White,nan,64,2,2,1.0,G,9.0,,Madrid,Oficial Superior
+305,56246,Segunda Clase,0.0,Elisabeth Harris,F,16,4,1,0.0,nan,,791.0,,Personal de Servicio
+306,57954,Segunda Clase,1.0,Friedrich Williams,F,50,3,0,,P,8.0,,Berna,Oficial Superior
+307,59807,Segunda Clase,0.0,Elisabeth Thompson,F,50,2,1,,nan,,909.0,,Oficial de Cubierta
+308,35317,Segunda Clase,0.0,Erich Thomas,F,43,4,0,1.0,nan,,425.0,,Personal de Servicio
+309,28727,Segunda Clase,0.0,Marlene Martin,F,10,2,0,,nan,,910.0,,Personal de Servicio
+310,58281,Cuarta Clase,0.0,Greta Martinez,nan,2,0,0,0.0,nan,,222.0,,Pasajeros Civiles
+311,30250,Segunda Clase,1.0,Hans Williams,M,6,3,2,,K,2.0,,Estocolmo,Oficial Superior
+312,37178,Segunda Clase,1.0,Marlene Thomas,nan,65,3,1,,D,9.0,,Londres,Personal de Servicio
+313,29490,Segunda Clase,0.0,Friedrich Garcia,nan,28,4,0,,nan,,635.0,,Personal de Cubierta
+314,63996,Segunda Clase,1.0,Elisabeth Miller,M,6,4,0,,D,10.0,,Londres,Personal de Máquinas
+315,29453,Segunda Clase,0.0,Helga Miller,nan,27,0,1,1.0,nan,,548.0,,Oficial de Cubierta
+316,40414,Segunda Clase,0.0,Margarete Moore,F,32,2,1,0.0,nan,,592.0,,Personal de Máquinas
+317,51461,Segunda Clase,0.0,Greta Taylor,nan,4,4,1,,nan,,205.0,,Oficial Subalterno
+318,32856,Segunda Clase,1.0,Greta Garcia,nan,35,1,0,,K,7.0,,Lisboa,Oficial Superior
+319,62334,Cuarta Clase,0.0,Hannelore Brown,nan,36,0,0,1.0,nan,,314.0,,Pasajeros Civiles
+320,41135,Segunda Clase,0.0,Hannelore Martin,F,3,2,0,0.0,nan,,356.0,,Oficial Superior
+321,62940,Cuarta Clase,0.0,Greta Johnson,M,18,2,2,,nan,,538.0,,Pasajeros Civiles
+322,63962,Cuarta Clase,0.0,Klaus Jones,F,45,0,0,1.0,nan,,787.0,,Pasajeros Civiles
+323,27604,Segunda Clase,0.0,Marlene Smith,nan,15,2,0,1.0,nan,,958.0,,Oficial de Cubierta
+324,65591,Segunda Clase,0.0,Heinz Davis,F,0,4,2,0.0,nan,,952.0,,Personal de Máquinas
+325,30372,Segunda Clase,1.0,Marlene Harris,F,19,4,0,0.0,D,8.0,,Madrid,Personal de Máquinas
+326,52474,Segunda Clase,1.0,Hans White,M,17,3,2,0.0,K,10.0,,Dublín,Oficial Subalterno
+327,68081,Segunda Clase,0.0,Karl Brown,F,45,3,1,,nan,,183.0,,Oficial de Cubierta
+328,63251,Segunda Clase,0.0,Gustav Davis,nan,5,4,1,,nan,,217.0,,Oficial Superior
+329,62042,Segunda Clase,1.0,Erich Williams,M,3,2,0,1.0,G,9.0,,Dublín,Oficial Subalterno
+330,59261,Segunda Clase,1.0,Ingrid Moore,nan,68,4,2,1.0,K,5.0,,Estocolmo,Personal de Cubierta
+331,45733,Segunda Clase,0.0,Friedrich Thomas,nan,52,0,2,0.0,nan,,255.0,,Oficial de Cubierta
+332,42089,Segunda Clase,0.0,Wolfgang Johnson,M,63,2,1,,nan,,709.0,,Oficial Subalterno
+333,38386,Segunda Clase,0.0,Elisabeth Taylor,F,55,4,1,0.0,nan,,642.0,,Oficial Subalterno
+334,68891,Segunda Clase,0.0,Jürgen White,M,24,1,0,,nan,,892.0,,Oficial Superior
+335,45590,Segunda Clase,0.0,Friedrich Jones,nan,7,2,1,1.0,nan,,520.0,,Oficial Subalterno
+336,40642,Segunda Clase,1.0,Hans Miller,F,38,0,2,1.0,K,3.0,,Lisboa,Personal Médico
+337,42407,Segunda Clase,1.0,Margarete Williams,F,15,0,1,,K,8.0,,Londres,Personal Médico
+338,50938,Segunda Clase,0.0,Dieter Martinez,nan,45,2,1,0.0,nan,,179.0,,Personal Médico
+339,33577,Segunda Clase,1.0,Jürgen Thompson,M,27,4,1,0.0,K,1.0,,Madrid,Personal de Máquinas
+340,67303,Segunda Clase,0.0,Marlene Smith,F,45,0,2,1.0,nan,,403.0,,Personal de Máquinas
+341,44660,Segunda Clase,0.0,Hans Anderson,M,57,3,2,,nan,,756.0,,Oficial Subalterno
+342,54964,Segunda Clase,0.0,Heinz White,M,25,2,0,0.0,nan,,30.0,,Personal Médico
+343,45720,Segunda Clase,1.0,Dieter Martin,F,54,1,1,0.0,P,6.0,,Londres,Oficial Superior
+344,29754,Segunda Clase,0.0,Friedrich Wilson,M,16,3,1,0.0,nan,,789.0,,Personal Médico
+345,25610,Segunda Clase,1.0,Elisabeth Williams,nan,29,4,2,1.0,P,10.0,,Berna,Personal Médico
+346,55034,Segunda Clase,0.0,Heinz Jones,F,28,4,0,1.0,nan,,655.0,,Personal de Cubierta
+347,65708,Segunda Clase,1.0,Greta Thomas,M,2,2,2,,D,2.0,,Bern,Personal de Cubierta
+348,61896,Cuarta Clase,1.0,Gustav Brown,M,19,1,0,1.0,P,6.0,,Lisboa,Pasajeros Civiles
+349,31552,Segunda Clase,1.0,Elisabeth Brown,M,48,2,1,1.0,D,7.0,,Estocolmo,Personal de Máquinas
+350,29801,Cuarta Clase,0.0,Dieter Williams,F,9,4,1,0.0,nan,,364.0,,Pasajeros Civiles
+351,60234,Segunda Clase,0.0,Gertrud Martinez,F,45,3,1,1.0,nan,,51.0,,Oficial Superior
+352,38969,Segunda Clase,0.0,Hans Robinson,M,77,1,2,1.0,nan,,102.0,,Personal de Cubierta
+353,58153,Segunda Clase,0.0,Wolfgang Harris,F,56,2,0,1.0,nan,,944.0,,Personal Médico
+354,33680,Segunda Clase,1.0,Ingrid Miller,M,47,0,2,0.0,K,5.0,,Londres,Personal Médico
+355,47872,Cuarta Clase,0.0,Dieter White,F,36,0,2,0.0,nan,,164.0,,Pasajeros Civiles
+356,29508,Cuarta Clase,1.0,Erika Harris,F,32,0,1,1.0,P,1.0,,Berna,Pasajeros Civiles
+357,41009,Segunda Clase,1.0,Karl Williams,F,16,2,2,1.0,G,4.0,,Berna,Personal de Máquinas
+358,49217,Segunda Clase,1.0,Heinz Brown,F,58,4,0,1.0,P,2.0,,Berna,Personal de Cubierta
+359,43676,Segunda Clase,0.0,Heinz Martinez,nan,72,3,2,,nan,,561.0,,Oficial Superior
+360,35338,Segunda Clase,1.0,Elisabeth Thomas,M,15,4,0,,K,7.0,,Madrid,Oficial Superior
+361,53716,Cuarta Clase,0.0,Helga Anderson,M,20,4,2,0.0,nan,,917.0,,Pasajeros Civiles
+362,60600,Segunda Clase,1.0,Dieter Wilson,M,19,2,0,0.0,G,5.0,,Lisboa,Personal de Servicio
+363,44825,Segunda Clase,1.0,Erich Williams,F,69,3,0,,G,1.0,,Berna,Personal Médico
+364,65086,Cuarta Clase,1.0,Jürgen Garcia,M,6,1,0,0.0,K,5.0,,Lisboa,Pasajeros Civiles
+365,67858,Cuarta Clase,0.0,Erika Robinson,M,53,1,0,1.0,nan,,308.0,,Pasajeros Civiles
+366,59664,Segunda Clase,0.0,Erika Taylor,M,6,2,0,0.0,nan,,761.0,,Personal Médico
+367,25512,Segunda Clase,0.0,Hans Taylor,M,64,2,2,,nan,,201.0,,Oficial de Cubierta
+368,68769,Segunda Clase,1.0,Karl Thompson,M,0,3,1,1.0,G,1.0,,Madrid,Personal de Máquinas
+369,61346,Segunda Clase,0.0,Erika Thompson,M,23,1,1,,nan,,731.0,,Personal Médico
+370,44620,Cuarta Clase,1.0,Karl Jackson,nan,51,4,2,0.0,K,1.0,,Estocolmo,Pasajeros Civiles
+371,68475,Segunda Clase,0.0,Gustav Johnson,M,53,4,2,0.0,nan,,282.0,,Oficial Subalterno
+372,31788,Cuarta Clase,1.0,Jürgen Martin,nan,15,3,2,1.0,K,10.0,,Bern,Pasajeros Civiles
+373,33800,Segunda Clase,1.0,Elisabeth Jones,nan,20,4,1,,P,3.0,,Lisboa,Personal Médico
+374,42332,Segunda Clase,0.0,Jürgen Martin,M,64,1,1,,nan,,518.0,,Oficial Superior
+375,32564,Segunda Clase,0.0,Erika Williams,nan,27,0,0,,nan,,415.0,,Personal de Máquinas
+376,32014,Segunda Clase,1.0,Gertrud Smith,nan,71,4,2,,P,10.0,,Madrid,Oficial Superior
+377,35187,Cuarta Clase,1.0,Ingrid Anderson,M,11,3,2,1.0,G,1.0,,Estocolmo,Pasajeros Civiles
+378,42848,Segunda Clase,1.0,Dieter Jackson,F,2,4,0,0.0,D,4.0,,Lisboa,Oficial Subalterno
+379,43465,Cuarta Clase,1.0,Hannelore White,F,52,0,0,,D,9.0,,Estocolmo,Pasajeros Civiles
+380,64638,Segunda Clase,0.0,Ingrid Garcia,M,61,0,0,1.0,nan,,42.0,,Oficial de Cubierta
+381,38803,Segunda Clase,1.0,Wolfgang Martin,F,9,3,0,0.0,G,2.0,,Bern,Personal Médico
+382,47471,Segunda Clase,1.0,Friedrich Smith,nan,63,0,2,1.0,G,2.0,,Londres,Personal Médico
+383,38342,Cuarta Clase,0.0,Hannelore Williams,F,17,3,1,0.0,nan,,491.0,,Pasajeros Civiles
+384,66565,Cuarta Clase,0.0,Hans Moore,F,40,1,2,,nan,,792.0,,Pasajeros Civiles
+385,42300,Segunda Clase,1.0,Karl Johnson,M,36,0,1,0.0,G,6.0,,Dublín,Oficial Subalterno
+386,58122,Segunda Clase,0.0,Klaus Jackson,nan,78,4,2,,nan,,136.0,,Personal de Máquinas
+387,57016,Segunda Clase,0.0,Gertrud Taylor,F,66,1,0,0.0,nan,,606.0,,Personal de Máquinas
+388,41457,Segunda Clase,1.0,Gertrud White,F,63,1,1,1.0,G,3.0,,Bern,Personal de Cubierta
+389,28329,Segunda Clase,0.0,Helga Jackson,nan,7,0,1,0.0,nan,,906.0,,Personal de Servicio
+390,31048,Segunda Clase,0.0,Friedrich Garcia,nan,78,1,2,0.0,nan,,402.0,,Personal de Servicio
+391,66568,Segunda Clase,1.0,Renate Robinson,F,46,0,0,1.0,D,5.0,,Madrid,Personal de Máquinas
+392,43132,Cuarta Clase,0.0,Dieter Moore,nan,40,0,0,0.0,nan,,182.0,,Pasajeros Civiles
+393,27889,Segunda Clase,0.0,Friedrich Taylor,F,38,3,0,,nan,,755.0,,Personal de Máquinas
+394,25232,Segunda Clase,1.0,Friedrich Thompson,M,10,3,2,,G,5.0,,Dublín,Oficial Superior
+395,46859,Segunda Clase,1.0,Karl Brown,F,66,3,1,1.0,P,8.0,,Dublín,Personal de Máquinas
+396,33573,Segunda Clase,0.0,Renate Anderson,M,22,4,0,1.0,nan,,683.0,,Oficial Superior
+397,66753,Cuarta Clase,1.0,Elisabeth Martinez,M,71,4,0,1.0,K,3.0,,Berna,Pasajeros Civiles
+398,42167,Segunda Clase,0.0,Friedrich Taylor,M,14,2,0,,nan,,942.0,,Personal de Servicio
+399,35589,Segunda Clase,0.0,Helga Wilson,F,61,0,1,1.0,nan,,741.0,,Personal de Cubierta
+400,53956,Segunda Clase,0.0,Klaus Wilson,nan,10,4,0,,nan,,498.0,,Personal de Cubierta
+401,61154,Segunda Clase,1.0,Friedrich White,M,58,4,1,0.0,D,5.0,,Lisboa,Oficial Subalterno
+402,53028,Segunda Clase,1.0,Heinz Harris,nan,10,1,2,0.0,K,2.0,,Berna,Personal de Máquinas
+403,61759,Segunda Clase,0.0,Erika Robinson,F,62,4,1,,nan,,764.0,,Oficial Superior
+404,25633,Segunda Clase,0.0,Klaus Taylor,nan,64,1,0,1.0,nan,,598.0,,Oficial Subalterno
+405,29931,Segunda Clase,0.0,Wolfgang Jones,nan,67,4,2,1.0,nan,,468.0,,Personal de Máquinas
+406,34768,Segunda Clase,0.0,Hans Brown,F,69,2,2,0.0,nan,,620.0,,Personal de Cubierta
+407,60755,Segunda Clase,0.0,Hans Davis,F,29,4,2,0.0,nan,,581.0,,Personal de Servicio
+408,27361,Segunda Clase,1.0,Margarete Thomas,nan,15,0,1,,K,1.0,,Estocolmo,Oficial Subalterno
+409,49196,Segunda Clase,1.0,Gertrud Thompson,nan,26,3,0,1.0,G,5.0,,Madrid,Oficial Superior
+410,63175,Segunda Clase,0.0,Erich Davis,F,26,4,2,1.0,nan,,46.0,,Personal de Cubierta
+411,61210,Cuarta Clase,1.0,Ingrid Brown,nan,71,3,0,,G,6.0,,Madrid,Pasajeros Civiles
+412,34705,Segunda Clase,1.0,Erich Jones,M,12,2,2,0.0,P,6.0,,Estocolmo,Personal de Servicio
+413,53166,Segunda Clase,1.0,Hans Anderson,F,49,0,0,1.0,G,4.0,,Estocolmo,Personal de Máquinas
+414,33352,Segunda Clase,0.0,Helga Moore,F,35,2,0,0.0,nan,,600.0,,Oficial Subalterno
+415,27741,Cuarta Clase,1.0,Gertrud Williams,F,36,4,1,,G,5.0,,Berna,Pasajeros Civiles
+416,45202,Segunda Clase,0.0,Erich Martinez,nan,1,0,1,1.0,nan,,361.0,,Oficial Superior
+417,48897,Segunda Clase,0.0,Friedrich Martin,M,11,2,2,,nan,,448.0,,Personal de Servicio
+418,27614,Cuarta Clase,0.0,Marlene Thompson,M,66,1,2,1.0,nan,,927.0,,Pasajeros Civiles
+419,48449,Segunda Clase,0.0,Ingrid Johnson,M,71,0,2,1.0,nan,,78.0,,Personal de Máquinas
+420,38767,Cuarta Clase,1.0,Margarete Martinez,F,52,4,2,0.0,D,3.0,,Bern,Pasajeros Civiles
+421,41353,Segunda Clase,0.0,Wolfgang Thomas,nan,10,1,1,0.0,nan,,661.0,,Personal de Máquinas
+422,68708,Segunda Clase,1.0,Wolfgang Moore,nan,17,4,0,,G,3.0,,Madrid,Personal de Cubierta
+423,31736,Segunda Clase,0.0,Heinz Martinez,F,26,1,2,,nan,,581.0,,Oficial Subalterno
+424,48178,Segunda Clase,0.0,Heinz Wilson,nan,23,0,2,0.0,nan,,244.0,,Oficial de Cubierta
+425,61692,Segunda Clase,0.0,Gertrud Smith,M,72,3,1,,nan,,752.0,,Personal de Máquinas
+426,51632,Segunda Clase,0.0,Klaus Smith,F,76,2,2,0.0,nan,,436.0,,Personal Médico
+427,65675,Segunda Clase,0.0,Jürgen Johnson,nan,79,3,1,0.0,nan,,625.0,,Oficial de Cubierta
+428,35128,Segunda Clase,1.0,Margarete Thomas,F,39,0,1,1.0,P,8.0,,Londres,Oficial de Cubierta
+429,40514,Segunda Clase,1.0,Elisabeth Brown,nan,6,4,0,,D,2.0,,Berna,Oficial Subalterno
+430,35649,Segunda Clase,1.0,Wolfgang Johnson,M,12,0,2,1.0,D,9.0,,Berna,Oficial Subalterno
+431,36603,Segunda Clase,0.0,Renate White,M,12,2,2,0.0,nan,,73.0,,Oficial Superior
+432,52020,Segunda Clase,1.0,Jürgen Anderson,M,11,4,2,,P,10.0,,Bern,Personal de Cubierta
+433,26624,Segunda Clase,0.0,Jürgen White,nan,72,1,2,1.0,nan,,670.0,,Oficial Superior
+434,36754,Cuarta Clase,0.0,Greta Moore,nan,78,4,1,1.0,nan,,287.0,,Pasajeros Civiles
+435,46770,Cuarta Clase,1.0,Friedrich Martinez,F,34,3,2,0.0,D,2.0,,Bern,Pasajeros Civiles
+436,51982,Cuarta Clase,1.0,Ingrid Jones,nan,20,1,0,0.0,D,2.0,,Londres,Pasajeros Civiles
+437,68903,Cuarta Clase,1.0,Gertrud Johnson,M,60,1,2,,D,9.0,,Bern,Pasajeros Civiles
+438,41263,Segunda Clase,1.0,Wolfgang Wilson,nan,42,2,0,,D,6.0,,Lisboa,Personal de Máquinas
+439,42485,Segunda Clase,0.0,Gertrud Johnson,F,2,1,2,0.0,nan,,943.0,,Oficial Subalterno
+440,35433,Segunda Clase,0.0,Elisabeth Williams,M,12,3,2,1.0,nan,,179.0,,Personal de Servicio
+441,32084,Segunda Clase,0.0,Marlene Taylor,nan,72,2,2,0.0,nan,,703.0,,Oficial Subalterno
+442,50070,Segunda Clase,0.0,Gustav Anderson,nan,38,4,2,,nan,,285.0,,Oficial Subalterno
+443,27537,Segunda Clase,0.0,Friedrich Garcia,M,28,1,1,,nan,,369.0,,Oficial Subalterno
+444,55847,Segunda Clase,1.0,Marlene Smith,F,42,2,1,0.0,G,10.0,,Berna,Oficial Subalterno
+445,39577,Segunda Clase,1.0,Ingrid Miller,nan,58,0,1,,D,4.0,,Lisboa,Personal Médico
+446,38079,Cuarta Clase,1.0,Gustav Martinez,M,28,4,0,0.0,D,9.0,,Dublín,Pasajeros Civiles
+447,55166,Segunda Clase,0.0,Gustav Robinson,F,28,0,0,1.0,nan,,1000.0,,Personal de Servicio
+448,47915,Segunda Clase,1.0,Jürgen Harris,M,12,0,0,0.0,G,1.0,,Dublín,Personal de Máquinas
+449,45000,Segunda Clase,1.0,Ingrid Martinez,F,70,1,1,0.0,P,1.0,,Berna,Oficial de Cubierta
+450,39915,Segunda Clase,1.0,Margarete Miller,nan,9,3,2,1.0,P,8.0,,Estocolmo,Personal Médico
+451,39609,Segunda Clase,0.0,Renate Wilson,nan,2,3,1,1.0,nan,,64.0,,Personal de Cubierta
+452,26550,Segunda Clase,0.0,Dieter Smith,M,70,3,1,1.0,nan,,78.0,,Personal Médico
+453,68255,Segunda Clase,1.0,Helga Smith,F,43,1,0,0.0,G,5.0,,Bern,Oficial de Cubierta
+454,37656,Cuarta Clase,0.0,Jürgen Garcia,M,64,1,0,,nan,,652.0,,Pasajeros Civiles
+455,51113,Segunda Clase,1.0,Ingrid Smith,F,14,3,0,0.0,P,9.0,,Lisboa,Oficial de Cubierta
+456,46512,Segunda Clase,0.0,Greta Smith,M,8,4,1,,nan,,276.0,,Personal de Cubierta
+457,43258,Segunda Clase,0.0,Elisabeth Taylor,nan,39,4,2,,nan,,649.0,,Personal Médico
+458,29549,Segunda Clase,1.0,Heinz Miller,M,1,3,1,,P,6.0,,Dublín,Oficial de Cubierta
+459,43292,Segunda Clase,0.0,Gertrud Wilson,F,26,3,2,,nan,,685.0,,Personal de Máquinas
+460,48012,Segunda Clase,0.0,Helga Martin,nan,68,2,1,0.0,nan,,657.0,,Personal Médico
+461,67040,Segunda Clase,0.0,Klaus Brown,F,10,4,0,1.0,nan,,986.0,,Personal Médico
+462,58384,Segunda Clase,0.0,Erich Williams,nan,29,0,2,0.0,nan,,475.0,,Personal de Cubierta
+463,51193,Segunda Clase,0.0,Klaus Wilson,M,48,2,2,,nan,,656.0,,Personal de Servicio
+464,60141,Cuarta Clase,0.0,Gertrud White,F,54,1,0,,nan,,364.0,,Pasajeros Civiles
+465,46702,Cuarta Clase,0.0,Ingrid Harris,nan,35,3,0,,nan,,542.0,,Pasajeros Civiles
+466,26808,Segunda Clase,0.0,Friedrich Martinez,nan,57,3,1,1.0,nan,,598.0,,Personal de Servicio
+467,32559,Segunda Clase,0.0,Heinz Thompson,nan,70,4,1,,nan,,929.0,,Oficial Subalterno
+468,42118,Segunda Clase,0.0,Dieter Jackson,M,9,3,0,0.0,nan,,905.0,,Oficial de Cubierta
+469,36702,Segunda Clase,1.0,Friedrich Martinez,F,47,0,1,,P,4.0,,Berna,Oficial Subalterno
+470,63049,Segunda Clase,1.0,Hannelore Johnson,F,69,1,2,0.0,G,4.0,,Estocolmo,Personal de Cubierta
+471,42397,Cuarta Clase,0.0,Helga Brown,M,0,4,0,,nan,,733.0,,Pasajeros Civiles
+472,27507,Segunda Clase,0.0,Jürgen Taylor,nan,6,0,0,,nan,,565.0,,Personal Médico
+473,32104,Segunda Clase,1.0,Erich Anderson,M,45,2,1,0.0,P,5.0,,Berna,Personal de Máquinas
+474,64096,Cuarta Clase,1.0,Elisabeth Anderson,F,69,0,0,,D,1.0,,Estocolmo,Pasajeros Civiles
+475,53479,Segunda Clase,0.0,Greta Harris,M,9,0,0,0.0,nan,,761.0,,Oficial Superior
+476,47654,Cuarta Clase,0.0,Erich Wilson,M,43,2,0,1.0,nan,,764.0,,Pasajeros Civiles
+477,45557,Segunda Clase,1.0,Friedrich Miller,F,75,3,0,0.0,G,9.0,,Berna,Oficial Superior
+478,53599,Segunda Clase,1.0,Dieter Martinez,nan,61,0,0,,P,2.0,,Bern,Personal de Cubierta
+479,64728,Segunda Clase,1.0,Heinz Brown,F,22,4,1,1.0,K,10.0,,Bern,Oficial Superior
+480,58516,Segunda Clase,1.0,Heinz Davis,M,10,3,1,0.0,G,9.0,,Estocolmo,Oficial Subalterno
+481,32578,Segunda Clase,1.0,Marlene Harris,nan,7,1,0,0.0,P,9.0,,Londres,Personal de Cubierta
+482,50244,Segunda Clase,0.0,Greta White,M,11,0,1,,nan,,913.0,,Personal Médico
+483,62787,Cuarta Clase,1.0,Heinz Garcia,F,79,0,2,1.0,K,10.0,,Berna,Pasajeros Civiles
+484,37457,Segunda Clase,0.0,Ingrid Miller,F,41,0,2,0.0,nan,,273.0,,Oficial Subalterno
+485,41693,Segunda Clase,1.0,Marlene Taylor,F,26,0,2,1.0,G,10.0,,Bern,Personal de Servicio
+486,27908,Segunda Clase,0.0,Marlene Moore,nan,34,2,1,1.0,nan,,710.0,,Oficial Superior
+487,53577,Segunda Clase,0.0,Heinz Williams,M,61,3,0,0.0,nan,,745.0,,Oficial de Cubierta
+488,25110,Segunda Clase,1.0,Wolfgang Taylor,F,55,4,1,0.0,G,8.0,,Berna,Personal Médico
+489,59073,Segunda Clase,1.0,Erika Johnson,F,31,4,1,0.0,G,7.0,,Londres,Personal de Máquinas
+490,60287,Cuarta Clase,1.0,Karl Anderson,M,16,0,2,,G,5.0,,Londres,Pasajeros Civiles
+491,68950,Segunda Clase,1.0,Dieter Williams,M,75,1,2,0.0,G,10.0,,Berna,Personal de Servicio
+492,37912,Cuarta Clase,1.0,Jürgen Thomas,F,79,4,1,1.0,D,3.0,,Bern,Pasajeros Civiles
+493,48869,Segunda Clase,0.0,Elisabeth Thompson,F,21,1,0,,nan,,498.0,,Personal de Servicio
+494,53265,Cuarta Clase,1.0,Klaus Taylor,M,57,0,0,1.0,P,3.0,,Madrid,Pasajeros Civiles
+495,29585,Segunda Clase,0.0,Erich Davis,nan,58,3,1,0.0,nan,,768.0,,Personal de Máquinas
+496,68531,Segunda Clase,0.0,Hans Jackson,nan,15,4,1,1.0,nan,,283.0,,Oficial de Cubierta
+497,46639,Segunda Clase,0.0,Marlene Garcia,nan,57,4,0,1.0,nan,,594.0,,Personal de Servicio
+498,65839,Segunda Clase,1.0,Renate Wilson,nan,14,2,0,0.0,P,4.0,,Dublín,Oficial Superior
+499,45572,Segunda Clase,0.0,Heinz Harris,F,59,2,1,,nan,,759.0,,Personal de Máquinas
+500,33167,Segunda Clase,0.0,Heinz Brown,M,60,2,2,1.0,nan,,720.0,,Oficial de Cubierta
+501,44681,Cuarta Clase,1.0,Heinz Smith,nan,17,1,1,,K,3.0,,Dublín,Pasajeros Civiles
+502,58234,Segunda Clase,0.0,Klaus Wilson,M,35,0,0,,nan,,394.0,,Personal de Máquinas
+503,45269,Segunda Clase,0.0,Dieter Miller,nan,36,0,0,0.0,nan,,52.0,,Oficial Superior
+504,68705,Segunda Clase,0.0,Elisabeth Thomas,M,70,3,1,,nan,,75.0,,Personal de Máquinas
+505,51764,Segunda Clase,0.0,Friedrich Martinez,M,58,3,1,0.0,nan,,131.0,,Oficial Subalterno
+506,46376,Segunda Clase,0.0,Hannelore Moore,M,67,4,1,,nan,,148.0,,Oficial Subalterno
+507,51371,Cuarta Clase,0.0,Friedrich Smith,F,56,1,0,1.0,nan,,986.0,,Pasajeros Civiles
+508,44376,Segunda Clase,1.0,Friedrich Miller,F,45,4,2,1.0,G,8.0,,Berna,Personal de Cubierta
+509,61333,Segunda Clase,0.0,Marlene Brown,nan,52,3,1,0.0,nan,,129.0,,Personal Médico
+510,33341,Segunda Clase,1.0,Friedrich Anderson,M,59,2,0,1.0,K,4.0,,Dublín,Oficial Subalterno
+511,37572,Segunda Clase,0.0,Heinz Johnson,F,76,4,2,0.0,nan,,488.0,,Personal Médico
+512,52554,Segunda Clase,1.0,Marlene Johnson,F,8,1,0,,K,10.0,,Londres,Personal Médico
+513,68576,Cuarta Clase,0.0,Wolfgang Martinez,nan,35,2,0,1.0,nan,,445.0,,Pasajeros Civiles
+514,49847,Segunda Clase,0.0,Helga Jackson,M,9,4,2,1.0,nan,,625.0,,Oficial Superior
+515,36405,Cuarta Clase,0.0,Margarete Smith,F,77,0,0,,nan,,700.0,,Pasajeros Civiles
+516,65338,Segunda Clase,0.0,Elisabeth White,M,12,1,1,1.0,nan,,574.0,,Personal de Cubierta
+517,62296,Segunda Clase,1.0,Wolfgang Thomas,nan,73,3,2,0.0,D,6.0,,Lisboa,Oficial de Cubierta
+518,44723,Segunda Clase,1.0,Karl Davis,M,51,2,2,0.0,P,5.0,,Londres,Oficial Subalterno
+519,51612,Cuarta Clase,0.0,Erich Moore,nan,5,0,1,0.0,nan,,413.0,,Pasajeros Civiles
+520,60909,Cuarta Clase,0.0,Marlene Brown,F,67,3,0,1.0,nan,,856.0,,Pasajeros Civiles
+521,25026,Segunda Clase,1.0,Klaus Robinson,nan,24,0,2,0.0,K,10.0,,Bern,Personal de Servicio
+522,44914,Segunda Clase,1.0,Erika Robinson,nan,50,4,2,0.0,D,4.0,,Londres,Oficial Superior
+523,43803,Segunda Clase,1.0,Jürgen Taylor,F,68,3,1,0.0,D,1.0,,Dublín,Personal de Cubierta
+524,38774,Segunda Clase,1.0,Margarete White,F,61,3,0,1.0,G,8.0,,Madrid,Oficial de Cubierta
+525,53173,Segunda Clase,0.0,Renate Martin,nan,44,0,0,1.0,nan,,443.0,,Personal de Cubierta
+526,63009,Segunda Clase,1.0,Klaus Williams,nan,10,1,1,1.0,P,4.0,,Dublín,Oficial Superior
+527,64758,Cuarta Clase,0.0,Erich Jackson,M,12,0,1,0.0,nan,,148.0,,Pasajeros Civiles
+528,67906,Segunda Clase,1.0,Dieter White,nan,61,3,0,0.0,K,6.0,,Berna,Oficial de Cubierta
+529,46118,Segunda Clase,0.0,Karl Thompson,M,62,3,2,1.0,nan,,246.0,,Personal de Servicio
+530,55473,Segunda Clase,0.0,Jürgen Garcia,M,13,4,1,0.0,nan,,391.0,,Personal Médico
+531,53952,Segunda Clase,0.0,Hans Jackson,M,42,1,0,1.0,nan,,635.0,,Oficial Superior
+532,53977,Segunda Clase,0.0,Ingrid Martin,F,40,4,1,0.0,nan,,893.0,,Oficial Superior
+533,39005,Segunda Clase,0.0,Renate Martin,M,56,4,0,,nan,,338.0,,Personal Médico
+534,58500,Cuarta Clase,0.0,Ingrid Martinez,nan,57,1,1,0.0,nan,,183.0,,Pasajeros Civiles
+535,56010,Cuarta Clase,1.0,Gertrud Anderson,M,4,4,1,,P,3.0,,Londres,Pasajeros Civiles
+536,36120,Cuarta Clase,0.0,Elisabeth Moore,F,57,2,2,1.0,nan,,780.0,,Pasajeros Civiles
+537,68178,Segunda Clase,0.0,Wolfgang Smith,F,74,0,1,,nan,,709.0,,Oficial de Cubierta
+538,30557,Segunda Clase,0.0,Greta Robinson,F,54,1,2,1.0,nan,,129.0,,Oficial Subalterno
+539,43598,Segunda Clase,1.0,Jürgen Smith,F,52,4,1,,D,3.0,,Estocolmo,Personal de Cubierta
+540,58780,Segunda Clase,1.0,Erich Johnson,nan,62,4,0,,D,3.0,,Dublín,Personal de Servicio
+541,68506,Cuarta Clase,0.0,Margarete Thompson,F,41,1,1,1.0,nan,,392.0,,Pasajeros Civiles
+542,66480,Segunda Clase,1.0,Ingrid Martinez,M,55,2,0,0.0,P,3.0,,Estocolmo,Personal de Máquinas
+543,65583,Segunda Clase,0.0,Jürgen Davis,F,77,3,0,0.0,nan,,709.0,,Oficial de Cubierta
+544,46966,Segunda Clase,1.0,Heinz Wilson,M,17,3,0,1.0,P,9.0,,Bern,Personal de Servicio
+545,31120,Segunda Clase,1.0,Jürgen Moore,F,28,1,1,1.0,P,6.0,,Estocolmo,Oficial Subalterno
+546,40392,Segunda Clase,0.0,Renate Johnson,nan,42,2,1,,nan,,908.0,,Oficial Superior
+547,45343,Cuarta Clase,0.0,Jürgen Martinez,nan,73,0,0,0.0,nan,,321.0,,Pasajeros Civiles
+548,39722,Segunda Clase,0.0,Elisabeth Thomas,F,27,1,1,,nan,,582.0,,Personal de Máquinas
+549,38050,Segunda Clase,0.0,Wolfgang Davis,M,5,2,2,1.0,nan,,877.0,,Oficial Superior
+550,34656,Cuarta Clase,1.0,Jürgen Martinez,nan,31,0,1,1.0,P,4.0,,Dublín,Pasajeros Civiles
+551,26600,Cuarta Clase,0.0,Greta Thomas,nan,37,1,1,0.0,nan,,346.0,,Pasajeros Civiles
+552,28028,Cuarta Clase,0.0,Hannelore Smith,F,63,3,1,0.0,nan,,279.0,,Pasajeros Civiles
+553,41046,Cuarta Clase,1.0,Ingrid Martinez,F,19,0,0,0.0,D,7.0,,Madrid,Pasajeros Civiles
+554,56138,Cuarta Clase,0.0,Hannelore Brown,M,69,2,1,0.0,nan,,784.0,,Pasajeros Civiles
+555,65060,Cuarta Clase,0.0,Hannelore Miller,nan,14,1,1,1.0,nan,,816.0,,Pasajeros Civiles
+556,29772,Segunda Clase,0.0,Margarete Garcia,M,40,0,1,0.0,nan,,850.0,,Personal de Servicio
+557,54846,Segunda Clase,1.0,Gustav Davis,M,62,2,2,,K,9.0,,Londres,Personal Médico
+558,52160,Cuarta Clase,1.0,Margarete Johnson,M,52,4,0,0.0,K,6.0,,Lisboa,Pasajeros Civiles
+559,66272,Segunda Clase,0.0,Friedrich Johnson,M,17,0,1,0.0,nan,,706.0,,Personal de Servicio
+560,62727,Segunda Clase,1.0,Jürgen Robinson,F,47,2,0,,K,2.0,,Madrid,Personal de Máquinas
+561,37742,Segunda Clase,1.0,Jürgen Smith,M,65,0,2,,K,1.0,,Madrid,Personal de Cubierta
+562,50164,Cuarta Clase,1.0,Gertrud Martin,M,75,3,0,,K,7.0,,Lisboa,Pasajeros Civiles
+563,57399,Segunda Clase,0.0,Hans Anderson,M,33,1,1,,nan,,545.0,,Personal de Máquinas
+564,51191,Segunda Clase,1.0,Erika Miller,F,56,1,0,0.0,K,8.0,,Londres,Oficial Superior
+565,40989,Segunda Clase,0.0,Dieter Anderson,M,34,2,2,1.0,nan,,423.0,,Personal de Máquinas
+566,34671,Segunda Clase,1.0,Wolfgang Anderson,nan,16,2,2,1.0,G,4.0,,Bern,Oficial de Cubierta
+567,67995,Segunda Clase,0.0,Klaus Smith,nan,3,0,0,1.0,nan,,259.0,,Oficial Superior
+568,25363,Segunda Clase,0.0,Dieter Martinez,nan,15,3,2,,nan,,702.0,,Personal de Máquinas
+569,31985,Segunda Clase,0.0,Dieter Jones,F,36,1,0,1.0,nan,,522.0,,Oficial Subalterno
+570,52862,Cuarta Clase,0.0,Gertrud Thomas,M,35,3,1,1.0,nan,,494.0,,Pasajeros Civiles
+571,39341,Segunda Clase,1.0,Friedrich Thomas,F,42,3,1,,K,8.0,,Dublín,Personal de Máquinas
+572,36526,Cuarta Clase,0.0,Elisabeth Martinez,M,44,4,0,,nan,,494.0,,Pasajeros Civiles
+573,58944,Segunda Clase,0.0,Heinz Anderson,M,52,2,2,1.0,nan,,142.0,,Personal de Máquinas
+574,55444,Segunda Clase,0.0,Gustav Anderson,nan,63,2,2,,nan,,402.0,,Oficial Subalterno
+575,28291,Segunda Clase,0.0,Dieter Davis,nan,41,3,2,1.0,nan,,805.0,,Personal Médico
+576,61530,Segunda Clase,0.0,Helga Martin,F,23,1,0,1.0,nan,,598.0,,Personal Médico
+577,41331,Segunda Clase,1.0,Greta Davis,M,41,0,0,,K,6.0,,Bern,Oficial Subalterno
+578,32953,Segunda Clase,1.0,Renate Robinson,F,25,0,1,0.0,G,8.0,,Berna,Oficial Subalterno
+579,54914,Segunda Clase,0.0,Ingrid Wilson,F,4,1,0,,nan,,788.0,,Oficial Superior
+580,33738,Segunda Clase,1.0,Hannelore Davis,F,47,1,0,,G,1.0,,Berna,Personal Médico
+581,55450,Cuarta Clase,0.0,Elisabeth Taylor,F,11,3,2,0.0,nan,,911.0,,Pasajeros Civiles
+582,68750,Segunda Clase,0.0,Gustav Brown,M,59,2,1,0.0,nan,,712.0,,Personal de Cubierta
+583,59808,Segunda Clase,0.0,Wolfgang Smith,M,60,4,1,0.0,nan,,113.0,,Oficial de Cubierta
+584,61629,Cuarta Clase,1.0,Hannelore Jackson,nan,9,0,1,0.0,G,1.0,,Estocolmo,Pasajeros Civiles
+585,64023,Segunda Clase,0.0,Hannelore Johnson,nan,18,1,2,1.0,nan,,243.0,,Oficial de Cubierta
+586,45794,Cuarta Clase,0.0,Wolfgang Robinson,F,7,0,0,0.0,nan,,488.0,,Pasajeros Civiles
+587,54004,Segunda Clase,0.0,Greta Robinson,nan,17,0,2,,nan,,857.0,,Personal de Máquinas
+588,65150,Segunda Clase,0.0,Jürgen Martinez,F,44,1,2,1.0,nan,,496.0,,Personal de Cubierta
+589,58081,Cuarta Clase,1.0,Heinz Martin,nan,26,1,1,1.0,D,6.0,,Madrid,Pasajeros Civiles
+590,52966,Segunda Clase,0.0,Dieter Anderson,nan,12,3,0,0.0,nan,,857.0,,Personal de Servicio
+591,60905,Cuarta Clase,1.0,Friedrich Wilson,M,28,0,0,1.0,K,7.0,,Londres,Pasajeros Civiles
+592,54223,Segunda Clase,0.0,Ingrid Anderson,nan,33,2,1,,nan,,308.0,,Personal Médico
+593,35430,Segunda Clase,0.0,Wolfgang Williams,F,7,0,1,,nan,,26.0,,Personal de Cubierta
+594,56108,Cuarta Clase,1.0,Greta Harris,nan,63,0,1,,P,4.0,,Bern,Pasajeros Civiles
+595,54495,Segunda Clase,1.0,Hans Moore,F,12,3,0,,P,7.0,,Lisboa,Oficial de Cubierta
+596,41986,Segunda Clase,0.0,Karl Wilson,M,33,4,2,0.0,nan,,859.0,,Personal de Cubierta
+597,41203,Segunda Clase,0.0,Friedrich Thomas,nan,14,0,2,1.0,nan,,241.0,,Personal de Máquinas
+598,66789,Cuarta Clase,0.0,Erich Jones,nan,43,3,0,1.0,nan,,754.0,,Pasajeros Civiles
+599,43173,Segunda Clase,1.0,Hans Johnson,nan,40,1,1,,P,10.0,,Bern,Personal de Máquinas
+600,59163,Segunda Clase,1.0,Elisabeth Harris,nan,60,1,0,0.0,P,10.0,,Estocolmo,Personal de Cubierta
+601,56758,Segunda Clase,0.0,Helga Davis,nan,44,0,1,,nan,,553.0,,Oficial Superior
+602,66074,Segunda Clase,0.0,Helga Martin,F,15,2,2,1.0,nan,,739.0,,Personal de Máquinas
+603,40679,Segunda Clase,0.0,Elisabeth Thomas,F,78,0,1,0.0,nan,,63.0,,Personal de Servicio
+604,42996,Segunda Clase,0.0,Renate Jackson,F,39,1,2,0.0,nan,,680.0,,Personal de Servicio
+605,53827,Segunda Clase,0.0,Heinz Martin,M,40,2,0,1.0,nan,,826.0,,Personal Médico
+606,30077,Segunda Clase,0.0,Hannelore Wilson,F,64,4,0,1.0,nan,,515.0,,Personal de Servicio
+607,43725,Segunda Clase,0.0,Wolfgang Harris,F,16,2,2,1.0,nan,,243.0,,Personal de Máquinas
+608,40367,Segunda Clase,1.0,Friedrich Johnson,nan,45,0,2,,G,4.0,,Dublín,Oficial Subalterno
+609,42807,Segunda Clase,0.0,Gustav Smith,F,40,1,0,1.0,nan,,739.0,,Personal Médico
+610,47010,Segunda Clase,0.0,Greta Moore,F,35,1,0,0.0,nan,,389.0,,Personal Médico
+611,45952,Segunda Clase,0.0,Heinz Williams,F,14,1,1,1.0,nan,,713.0,,Personal de Máquinas
+612,60399,Cuarta Clase,0.0,Greta Davis,nan,60,0,1,1.0,nan,,726.0,,Pasajeros Civiles
+613,30280,Segunda Clase,0.0,Elisabeth Davis,M,42,4,0,1.0,nan,,870.0,,Personal de Cubierta
+614,34068,Segunda Clase,1.0,Friedrich Garcia,nan,8,2,1,1.0,K,3.0,,Madrid,Oficial Superior
+615,34884,Segunda Clase,0.0,Friedrich Anderson,F,39,1,2,,nan,,703.0,,Personal de Servicio
+616,40155,Segunda Clase,1.0,Erika Robinson,M,78,2,1,1.0,G,8.0,,Madrid,Oficial Superior
+617,50102,Segunda Clase,0.0,Margarete Smith,M,5,3,2,0.0,nan,,528.0,,Personal de Servicio
+618,35014,Segunda Clase,0.0,Helga Davis,F,63,3,1,1.0,nan,,284.0,,Oficial Subalterno
+619,39021,Cuarta Clase,1.0,Erika White,M,34,3,1,,K,1.0,,Londres,Pasajeros Civiles
+620,29209,Segunda Clase,0.0,Wolfgang Johnson,F,48,1,2,1.0,nan,,705.0,,Personal de Cubierta
+621,52188,Segunda Clase,1.0,Heinz Anderson,nan,52,1,2,,G,2.0,,Bern,Personal de Máquinas
+622,51712,Segunda Clase,0.0,Karl Miller,M,43,2,1,1.0,nan,,394.0,,Oficial Superior
+623,46684,Segunda Clase,0.0,Helga Garcia,F,36,0,2,,nan,,841.0,,Oficial Superior
+624,60560,Segunda Clase,0.0,Renate Moore,F,17,3,2,0.0,nan,,726.0,,Personal de Máquinas
+625,55534,Segunda Clase,1.0,Gustav Taylor,M,65,3,2,0.0,D,8.0,,Estocolmo,Personal de Cubierta
+626,52248,Segunda Clase,1.0,Jürgen Jones,nan,45,3,0,,G,8.0,,Berna,Personal de Cubierta
+627,29080,Segunda Clase,0.0,Klaus Jackson,F,41,3,1,0.0,nan,,429.0,,Personal Médico
+628,38555,Segunda Clase,0.0,Hannelore Garcia,nan,49,0,1,,nan,,516.0,,Personal de Servicio
+629,52534,Segunda Clase,1.0,Margarete Brown,nan,17,3,1,,P,8.0,,Lisboa,Oficial Subalterno
+630,50524,Segunda Clase,1.0,Klaus Thomas,M,11,0,2,0.0,K,4.0,,Dublín,Personal Médico
+631,63278,Segunda Clase,0.0,Hans White,nan,78,2,1,0.0,nan,,626.0,,Personal de Máquinas
+632,26280,Segunda Clase,1.0,Friedrich Taylor,F,78,2,1,,D,10.0,,Bern,Personal Médico
+633,62728,Cuarta Clase,0.0,Erika Martin,nan,67,1,2,,nan,,864.0,,Pasajeros Civiles
+634,49928,Segunda Clase,0.0,Karl Jones,nan,59,3,0,,nan,,885.0,,Personal de Máquinas
+635,56259,Segunda Clase,1.0,Hans Miller,F,16,0,0,0.0,P,5.0,,Bern,Personal de Servicio
+636,25386,Segunda Clase,0.0,Wolfgang Taylor,nan,53,0,1,1.0,nan,,629.0,,Personal de Cubierta
+637,48052,Cuarta Clase,0.0,Friedrich Martin,F,32,2,2,1.0,nan,,748.0,,Pasajeros Civiles
+638,44569,Segunda Clase,0.0,Heinz Taylor,M,55,4,2,0.0,nan,,902.0,,Oficial Superior
+639,50558,Segunda Clase,1.0,Elisabeth Martin,F,24,4,0,0.0,G,1.0,,Lisboa,Personal de Servicio
+640,52460,Segunda Clase,0.0,Margarete Moore,M,52,2,0,1.0,nan,,473.0,,Personal de Máquinas
+641,60272,Cuarta Clase,0.0,Friedrich Garcia,M,5,0,0,,nan,,495.0,,Pasajeros Civiles
+642,60791,Segunda Clase,0.0,Elisabeth Davis,F,8,1,0,1.0,nan,,794.0,,Oficial Subalterno
+643,64534,Cuarta Clase,1.0,Ingrid Jackson,F,38,2,1,0.0,D,1.0,,Berna,Pasajeros Civiles
+644,39453,Segunda Clase,1.0,Ingrid Davis,F,62,2,2,0.0,D,8.0,,Bern,Oficial Subalterno
+645,56996,Segunda Clase,0.0,Marlene Johnson,nan,9,3,2,,nan,,482.0,,Personal Médico
+646,39380,Cuarta Clase,1.0,Erich Harris,M,59,3,2,0.0,P,3.0,,Lisboa,Pasajeros Civiles
+647,42887,Segunda Clase,0.0,Marlene Moore,M,21,2,1,0.0,nan,,854.0,,Oficial Subalterno
+648,53562,Segunda Clase,0.0,Jürgen Moore,F,0,3,2,0.0,nan,,781.0,,Oficial Superior
+649,56827,Segunda Clase,1.0,Hannelore Johnson,M,10,0,1,0.0,D,9.0,,Madrid,Oficial de Cubierta
+650,26902,Segunda Clase,0.0,Dieter Jones,nan,35,3,0,0.0,nan,,795.0,,Personal de Máquinas
+651,50484,Segunda Clase,0.0,Friedrich Thomas,F,53,2,1,,nan,,554.0,,Personal de Máquinas
+652,47028,Segunda Clase,0.0,Renate White,M,5,1,2,0.0,nan,,660.0,,Personal de Servicio
+653,68835,Cuarta Clase,0.0,Hannelore Wilson,nan,0,0,2,1.0,nan,,913.0,,Pasajeros Civiles
+654,51497,Segunda Clase,0.0,Renate Johnson,nan,64,0,0,0.0,nan,,576.0,,Oficial Subalterno
+655,35816,Segunda Clase,0.0,Elisabeth Thompson,M,70,2,1,,nan,,396.0,,Personal Médico
+656,55630,Segunda Clase,0.0,Helga Garcia,nan,35,0,1,,nan,,572.0,,Personal de Máquinas
+657,33364,Segunda Clase,1.0,Margarete Martinez,M,30,2,0,,P,5.0,,Madrid,Personal de Máquinas
+658,65780,Segunda Clase,0.0,Jürgen Martin,F,70,1,1,1.0,nan,,835.0,,Personal Médico
+659,60004,Segunda Clase,1.0,Gustav Williams,M,46,3,1,1.0,D,6.0,,Lisboa,Oficial Superior
+660,26767,Segunda Clase,0.0,Elisabeth Johnson,nan,68,2,1,1.0,nan,,564.0,,Oficial Subalterno
+661,50822,Cuarta Clase,0.0,Gertrud Martinez,F,66,1,0,1.0,nan,,634.0,,Pasajeros Civiles
+662,63790,Segunda Clase,1.0,Gertrud Martinez,F,10,0,2,1.0,D,1.0,,Dublín,Personal de Máquinas
+663,61987,Segunda Clase,0.0,Erika Brown,M,25,3,2,0.0,nan,,27.0,,Personal de Servicio
+664,68450,Segunda Clase,1.0,Heinz Harris,F,28,2,1,1.0,D,2.0,,Madrid,Personal de Máquinas
+665,26776,Segunda Clase,0.0,Wolfgang Davis,F,79,3,0,1.0,nan,,304.0,,Personal de Cubierta
+666,30501,Segunda Clase,1.0,Karl Miller,nan,77,3,1,,D,4.0,,Lisboa,Oficial de Cubierta
+667,67123,Segunda Clase,1.0,Dieter Johnson,nan,20,1,2,0.0,G,1.0,,Lisboa,Oficial Superior
+668,53089,Cuarta Clase,1.0,Helga Williams,nan,59,1,1,1.0,G,4.0,,Madrid,Pasajeros Civiles
+669,33893,Segunda Clase,1.0,Helga Miller,M,66,3,1,0.0,P,2.0,,Lisboa,Oficial Subalterno
+670,55257,Segunda Clase,0.0,Dieter Robinson,nan,70,4,2,0.0,nan,,719.0,,Personal Médico
+671,36909,Cuarta Clase,0.0,Erich Anderson,nan,9,2,0,,nan,,3.0,,Pasajeros Civiles
+672,28295,Segunda Clase,1.0,Friedrich Williams,F,68,2,1,1.0,K,5.0,,Londres,Personal de Servicio
+673,42049,Cuarta Clase,0.0,Elisabeth Garcia,nan,53,0,2,1.0,nan,,959.0,,Pasajeros Civiles
+674,49844,Segunda Clase,1.0,Elisabeth Garcia,M,32,0,0,0.0,K,6.0,,Bern,Oficial Superior
+675,46453,Segunda Clase,1.0,Greta Moore,F,78,1,1,1.0,D,6.0,,Lisboa,Personal de Cubierta
+676,38871,Segunda Clase,0.0,Gertrud Harris,F,27,2,1,1.0,nan,,282.0,,Personal de Cubierta
+677,54799,Segunda Clase,0.0,Hans Robinson,M,51,3,1,1.0,nan,,779.0,,Personal Médico
+678,46420,Segunda Clase,1.0,Hannelore Thompson,F,29,3,0,0.0,D,5.0,,Lisboa,Oficial de Cubierta
+679,47118,Segunda Clase,0.0,Helga Jones,F,42,4,2,0.0,nan,,200.0,,Personal de Cubierta
+680,49846,Segunda Clase,1.0,Helga Brown,nan,8,1,1,1.0,D,8.0,,Lisboa,Personal Médico
+681,43235,Segunda Clase,0.0,Dieter Martinez,F,65,1,2,0.0,nan,,899.0,,Oficial de Cubierta
+682,52627,Segunda Clase,0.0,Hannelore Martinez,M,62,2,2,,nan,,176.0,,Oficial Superior
+683,41532,Segunda Clase,0.0,Heinz Jones,F,77,1,2,,nan,,438.0,,Oficial Subalterno
+684,30367,Segunda Clase,1.0,Hannelore Jones,nan,71,4,2,0.0,G,1.0,,Londres,Oficial Superior
+685,55822,Segunda Clase,0.0,Gustav Garcia,nan,5,0,1,1.0,nan,,753.0,,Personal Médico
+686,26270,Segunda Clase,0.0,Ingrid White,nan,75,1,2,1.0,nan,,253.0,,Oficial Subalterno
+687,60351,Segunda Clase,0.0,Erich Jackson,M,32,2,2,0.0,nan,,550.0,,Personal Médico
+688,28413,Segunda Clase,0.0,Margarete Martinez,F,0,3,0,,nan,,318.0,,Oficial Superior
+689,47935,Segunda Clase,0.0,Erika Martin,M,17,0,0,0.0,nan,,439.0,,Personal de Máquinas
+690,39694,Segunda Clase,1.0,Klaus Davis,M,61,0,1,,D,9.0,,Lisboa,Personal de Máquinas
+691,67607,Segunda Clase,0.0,Erich Jackson,nan,13,4,2,,nan,,893.0,,Oficial Superior
+692,29496,Cuarta Clase,0.0,Dieter Robinson,M,5,1,0,0.0,nan,,26.0,,Pasajeros Civiles
+693,67713,Cuarta Clase,0.0,Erika Jackson,F,49,1,0,0.0,nan,,663.0,,Pasajeros Civiles
+694,27638,Segunda Clase,0.0,Klaus Jackson,nan,79,2,2,1.0,nan,,95.0,,Personal de Cubierta
+695,27033,Segunda Clase,0.0,Greta Wilson,F,41,2,0,,nan,,555.0,,Personal de Cubierta
+696,41205,Segunda Clase,1.0,Klaus Martin,nan,17,0,1,0.0,P,10.0,,Londres,Oficial Subalterno
+697,38065,Segunda Clase,0.0,Erich Thomas,nan,1,1,1,0.0,nan,,704.0,,Oficial Subalterno
+698,26335,Segunda Clase,0.0,Hans Anderson,nan,44,0,1,1.0,nan,,30.0,,Personal de Máquinas
+699,65719,Cuarta Clase,1.0,Gustav Taylor,M,19,0,0,,P,5.0,,Berna,Pasajeros Civiles
+700,34986,Segunda Clase,0.0,Erich Martin,F,26,1,1,,nan,,173.0,,Oficial de Cubierta
+701,40633,Segunda Clase,0.0,Heinz Wilson,nan,53,1,0,,nan,,631.0,,Oficial Superior
+702,33272,Segunda Clase,0.0,Dieter Taylor,M,34,1,0,,nan,,398.0,,Oficial de Cubierta
+703,56035,Segunda Clase,0.0,Marlene Anderson,nan,15,1,0,,nan,,970.0,,Oficial Subalterno
+704,68873,Segunda Clase,0.0,Erich White,M,38,1,2,0.0,nan,,608.0,,Oficial de Cubierta
+705,32496,Segunda Clase,0.0,Erika Williams,nan,5,4,1,1.0,nan,,670.0,,Personal Médico
+706,61960,Cuarta Clase,1.0,Karl Harris,M,10,0,2,1.0,K,10.0,,Bern,Pasajeros Civiles
+707,39284,Segunda Clase,0.0,Karl White,M,20,3,1,1.0,nan,,655.0,,Personal de Máquinas
+708,55476,Cuarta Clase,0.0,Margarete Thompson,F,66,2,0,1.0,nan,,554.0,,Pasajeros Civiles
+709,41793,Segunda Clase,1.0,Ingrid Johnson,nan,31,3,2,,G,1.0,,Lisboa,Personal de Máquinas
+710,49175,Segunda Clase,1.0,Gertrud Davis,nan,42,1,1,0.0,K,10.0,,Londres,Personal Médico
+711,35996,Cuarta Clase,0.0,Friedrich Taylor,nan,21,1,0,0.0,nan,,928.0,,Pasajeros Civiles
+712,64707,Segunda Clase,0.0,Gertrud Jackson,M,22,2,2,0.0,nan,,953.0,,Oficial Subalterno
+713,64796,Segunda Clase,0.0,Dieter Thompson,nan,44,4,0,,nan,,26.0,,Oficial Superior
+714,32506,Segunda Clase,1.0,Hannelore Smith,F,32,1,0,1.0,D,10.0,,Estocolmo,Oficial Superior
+715,35732,Segunda Clase,1.0,Wolfgang Miller,M,16,2,0,,D,3.0,,Estocolmo,Personal de Cubierta
+716,45384,Segunda Clase,1.0,Karl Johnson,M,70,3,1,,K,8.0,,Estocolmo,Personal de Servicio
+717,62924,Segunda Clase,1.0,Jürgen Johnson,F,47,3,0,0.0,P,2.0,,Madrid,Personal Médico
+718,26682,Cuarta Clase,0.0,Marlene Johnson,M,25,1,1,0.0,nan,,116.0,,Pasajeros Civiles
+719,45444,Segunda Clase,1.0,Ingrid Miller,F,6,0,1,1.0,P,8.0,,Madrid,Personal de Servicio
+720,62735,Segunda Clase,1.0,Erich Thomas,M,68,4,0,,D,9.0,,Dublín,Personal de Servicio
+721,49596,Segunda Clase,1.0,Marlene Thompson,nan,1,3,1,1.0,K,7.0,,Berna,Oficial Superior
+722,50995,Segunda Clase,1.0,Elisabeth Jones,F,59,4,1,1.0,D,2.0,,Estocolmo,Oficial Subalterno
+723,37997,Segunda Clase,1.0,Hans Wilson,F,61,2,0,0.0,P,2.0,,Londres,Personal de Máquinas
+724,29980,Segunda Clase,1.0,Ingrid Martin,M,11,0,2,,G,6.0,,Londres,Oficial Superior
+725,63803,Segunda Clase,1.0,Erika Harris,nan,18,4,0,,K,2.0,,Berna,Personal Médico
+726,66106,Segunda Clase,0.0,Wolfgang Martin,nan,71,3,2,0.0,nan,,258.0,,Personal Médico
+727,40915,Cuarta Clase,0.0,Hannelore Garcia,nan,50,2,1,,nan,,113.0,,Pasajeros Civiles
+728,31678,Segunda Clase,0.0,Ingrid Thomas,M,37,4,0,,nan,,368.0,,Personal de Máquinas
+729,44764,Segunda Clase,1.0,Wolfgang Moore,F,11,0,1,0.0,G,2.0,,Estocolmo,Oficial Subalterno
+730,64348,Cuarta Clase,0.0,Friedrich Taylor,nan,15,3,1,1.0,nan,,9.0,,Pasajeros Civiles
+731,32933,Segunda Clase,0.0,Hans Jackson,M,78,4,2,1.0,nan,,960.0,,Oficial Subalterno
+732,62088,Segunda Clase,0.0,Klaus Davis,nan,71,1,0,,nan,,381.0,,Oficial Subalterno
+733,27691,Segunda Clase,0.0,Hannelore Miller,F,69,0,2,,nan,,832.0,,Personal de Servicio
+734,47754,Cuarta Clase,1.0,Jürgen Wilson,F,53,3,2,,K,3.0,,Londres,Pasajeros Civiles
+735,59913,Cuarta Clase,0.0,Karl Moore,M,40,0,1,1.0,nan,,986.0,,Pasajeros Civiles
+736,53074,Segunda Clase,0.0,Helga Thompson,M,33,1,0,,nan,,299.0,,Oficial Superior
+737,68353,Cuarta Clase,0.0,Hans Smith,nan,35,3,2,1.0,nan,,982.0,,Pasajeros Civiles
+738,49285,Segunda Clase,0.0,Margarete Brown,M,52,3,2,,nan,,524.0,,Oficial Subalterno
+739,29519,Segunda Clase,0.0,Wolfgang Robinson,F,47,2,2,0.0,nan,,167.0,,Personal de Cubierta
+740,58158,Segunda Clase,1.0,Hans Wilson,M,30,1,0,,P,10.0,,Dublín,Oficial Subalterno
+741,67437,Segunda Clase,1.0,Erich Robinson,M,59,2,0,1.0,G,7.0,,Bern,Oficial Subalterno
+742,47362,Segunda Clase,1.0,Gustav Moore,M,35,0,1,1.0,P,4.0,,Berna,Personal de Máquinas
+743,25829,Segunda Clase,1.0,Helga Jackson,nan,46,4,1,,K,9.0,,Bern,Oficial de Cubierta
+744,52528,Segunda Clase,0.0,Ingrid Harris,nan,48,0,0,,nan,,566.0,,Personal de Máquinas
+745,57125,Cuarta Clase,1.0,Erich Miller,nan,54,2,0,1.0,G,10.0,,Dublín,Pasajeros Civiles
+746,31916,Segunda Clase,0.0,Marlene Taylor,F,27,3,1,,nan,,500.0,,Personal de Cubierta
+747,53411,Segunda Clase,0.0,Gertrud Robinson,M,13,0,0,0.0,nan,,634.0,,Oficial Superior
+748,48736,Segunda Clase,0.0,Elisabeth Martinez,nan,65,0,0,0.0,nan,,976.0,,Personal de Cubierta
+749,66653,Segunda Clase,0.0,Heinz Smith,F,27,1,2,1.0,nan,,927.0,,Oficial de Cubierta
+750,55129,Cuarta Clase,1.0,Gertrud Thomas,nan,65,4,0,0.0,K,3.0,,Berna,Pasajeros Civiles
+751,35026,Segunda Clase,1.0,Renate Robinson,nan,50,0,2,0.0,G,4.0,,Londres,Personal de Cubierta
+752,53540,Segunda Clase,0.0,Erika Taylor,F,2,0,1,1.0,nan,,778.0,,Oficial Subalterno
+753,36543,Segunda Clase,1.0,Gustav Jones,nan,62,2,0,1.0,D,5.0,,Bern,Personal de Cubierta
+754,59193,Cuarta Clase,1.0,Margarete Williams,F,30,3,1,0.0,P,9.0,,Dublín,Pasajeros Civiles
+755,67628,Segunda Clase,0.0,Greta Moore,F,67,1,2,1.0,nan,,539.0,,Oficial Superior
+756,42700,Cuarta Clase,0.0,Greta Moore,M,25,4,0,,nan,,752.0,,Pasajeros Civiles
+757,65364,Segunda Clase,0.0,Erich Taylor,F,36,3,2,1.0,nan,,420.0,,Oficial Subalterno
+758,60269,Segunda Clase,0.0,Karl Brown,nan,25,1,2,0.0,nan,,373.0,,Oficial Subalterno
+759,56686,Segunda Clase,0.0,Gertrud Wilson,nan,72,3,1,1.0,nan,,947.0,,Oficial Subalterno
+760,55465,Segunda Clase,1.0,Klaus Robinson,M,13,2,2,,K,1.0,,Lisboa,Personal de Máquinas
+761,53545,Cuarta Clase,0.0,Elisabeth Anderson,M,19,1,1,,nan,,898.0,,Pasajeros Civiles
+762,63828,Cuarta Clase,1.0,Dieter Smith,F,34,0,0,0.0,D,10.0,,Londres,Pasajeros Civiles
+763,42589,Segunda Clase,0.0,Margarete Taylor,F,70,3,2,1.0,nan,,957.0,,Oficial Superior
+764,46122,Cuarta Clase,1.0,Erich White,M,45,0,1,,G,5.0,,Berna,Pasajeros Civiles
+765,41088,Segunda Clase,1.0,Elisabeth Jackson,nan,62,3,0,,G,10.0,,Bern,Personal de Cubierta
+766,30679,Segunda Clase,0.0,Klaus Martinez,F,8,1,2,0.0,nan,,501.0,,Oficial de Cubierta
+767,43279,Segunda Clase,0.0,Hannelore Miller,nan,31,0,2,0.0,nan,,442.0,,Personal de Servicio
+768,54543,Cuarta Clase,1.0,Greta Wilson,F,28,2,1,1.0,P,3.0,,Dublín,Pasajeros Civiles
+769,40981,Segunda Clase,0.0,Renate Martin,F,54,3,1,0.0,nan,,796.0,,Personal Médico
+770,55455,Cuarta Clase,1.0,Ingrid Thompson,M,40,0,0,1.0,P,7.0,,Lisboa,Pasajeros Civiles
+771,62345,Segunda Clase,1.0,Gustav Davis,M,37,4,0,,D,6.0,,Londres,Personal de Cubierta
+772,64998,Segunda Clase,1.0,Renate Davis,M,68,4,2,0.0,K,1.0,,Berna,Personal de Cubierta
+773,68790,Segunda Clase,1.0,Gustav Jones,nan,56,4,2,,G,5.0,,Lisboa,Personal Médico
+774,49837,Segunda Clase,1.0,Margarete Brown,F,45,0,0,,D,3.0,,Estocolmo,Oficial de Cubierta
+775,47046,Segunda Clase,1.0,Erich Garcia,M,31,1,1,,P,7.0,,Berna,Personal de Servicio
+776,26880,Segunda Clase,0.0,Wolfgang Anderson,F,35,3,2,,nan,,27.0,,Personal de Cubierta
+777,57394,Segunda Clase,0.0,Friedrich Wilson,M,50,0,2,,nan,,82.0,,Personal Médico
+778,46300,Segunda Clase,1.0,Ingrid Wilson,F,78,0,2,,G,7.0,,Londres,Oficial Superior
+779,36917,Cuarta Clase,0.0,Gustav White,nan,10,3,2,1.0,nan,,903.0,,Pasajeros Civiles
+780,56952,Segunda Clase,0.0,Greta Thomas,F,30,0,2,0.0,nan,,227.0,,Oficial Subalterno
+781,38901,Segunda Clase,0.0,Erich Martinez,nan,69,0,0,0.0,nan,,176.0,,Personal Médico
+782,48253,Segunda Clase,1.0,Gustav Harris,M,50,1,1,0.0,G,1.0,,Dublín,Personal de Servicio
+783,41931,Segunda Clase,1.0,Heinz Martin,nan,56,0,0,0.0,D,9.0,,Dublín,Personal Médico
+784,47304,Segunda Clase,1.0,Klaus Martinez,M,23,4,1,,G,9.0,,Berna,Personal Médico
+785,43327,Segunda Clase,0.0,Hannelore Robinson,M,15,0,1,1.0,nan,,370.0,,Oficial de Cubierta
+786,64069,Segunda Clase,0.0,Friedrich Martin,M,38,1,0,1.0,nan,,731.0,,Personal de Máquinas
+787,43105,Segunda Clase,0.0,Karl Thompson,F,49,1,1,1.0,nan,,506.0,,Oficial Subalterno
+788,61424,Segunda Clase,0.0,Heinz Jackson,nan,15,3,1,0.0,nan,,690.0,,Personal de Máquinas
+789,25665,Segunda Clase,1.0,Gertrud Taylor,M,10,3,0,0.0,K,3.0,,Estocolmo,Personal de Máquinas
+790,58857,Segunda Clase,0.0,Helga Johnson,F,16,3,1,1.0,nan,,467.0,,Personal de Máquinas
+791,37521,Segunda Clase,1.0,Dieter Brown,M,42,1,0,0.0,D,1.0,,Berna,Personal de Servicio
+792,30610,Segunda Clase,1.0,Karl Anderson,F,63,2,0,1.0,G,2.0,,Bern,Oficial Subalterno
+793,40817,Segunda Clase,1.0,Helga Martinez,F,53,0,1,,G,5.0,,Dublín,Personal de Máquinas
+794,51635,Cuarta Clase,1.0,Marlene Brown,F,26,1,0,,D,2.0,,Londres,Pasajeros Civiles
+795,57019,Cuarta Clase,0.0,Greta Davis,F,46,3,1,0.0,nan,,436.0,,Pasajeros Civiles
+796,61384,Segunda Clase,0.0,Friedrich Martin,M,2,4,2,1.0,nan,,668.0,,Oficial Superior
+797,40749,Segunda Clase,1.0,Greta Davis,nan,33,3,0,,P,7.0,,Madrid,Personal de Máquinas
+798,56201,Segunda Clase,0.0,Greta Johnson,F,20,4,1,0.0,nan,,406.0,,Oficial de Cubierta
+799,67329,Segunda Clase,1.0,Hans Harris,M,49,3,2,,K,4.0,,Londres,Personal Médico
+800,57166,Segunda Clase,1.0,Erich Miller,M,55,0,1,1.0,P,5.0,,Lisboa,Oficial Superior
+801,54371,Segunda Clase,0.0,Wolfgang Martinez,F,63,3,2,1.0,nan,,650.0,,Personal de Cubierta
+802,26130,Segunda Clase,1.0,Wolfgang Martin,M,46,0,1,0.0,P,2.0,,Dublín,Personal Médico
+803,31098,Segunda Clase,1.0,Friedrich Brown,M,6,3,0,1.0,P,9.0,,Estocolmo,Oficial de Cubierta
+804,44283,Segunda Clase,1.0,Erika White,F,37,4,2,0.0,P,1.0,,Madrid,Oficial Subalterno
+805,39522,Segunda Clase,1.0,Helga Jackson,nan,8,3,0,,D,3.0,,Berna,Oficial Superior
+806,51502,Cuarta Clase,0.0,Helga Martin,F,0,3,1,1.0,nan,,843.0,,Pasajeros Civiles
+807,40945,Segunda Clase,1.0,Elisabeth Smith,nan,0,2,2,,K,6.0,,Dublín,Personal de Cubierta
+808,45067,Segunda Clase,0.0,Klaus Garcia,nan,72,1,0,1.0,nan,,820.0,,Personal de Servicio
+809,68513,Segunda Clase,1.0,Karl Thomas,nan,0,0,2,,K,6.0,,Bern,Personal de Servicio
+810,63112,Segunda Clase,1.0,Hans Anderson,F,31,0,2,1.0,K,9.0,,Madrid,Oficial de Cubierta
+811,49184,Segunda Clase,1.0,Gertrud Miller,M,56,1,0,1.0,D,5.0,,Estocolmo,Oficial Subalterno
+812,56015,Segunda Clase,1.0,Hans Smith,M,30,0,2,,G,9.0,,Estocolmo,Personal de Máquinas
+813,61272,Segunda Clase,1.0,Jürgen Wilson,nan,22,3,2,1.0,D,9.0,,Madrid,Personal de Máquinas
+814,59794,Segunda Clase,1.0,Ingrid Taylor,F,26,0,2,1.0,G,8.0,,Lisboa,Oficial de Cubierta
+815,47528,Segunda Clase,0.0,Dieter Jones,nan,54,3,2,0.0,nan,,929.0,,Oficial Subalterno
+816,52885,Segunda Clase,0.0,Elisabeth Thompson,M,68,2,2,,nan,,66.0,,Personal Médico
+817,61070,Cuarta Clase,0.0,Hannelore Taylor,nan,27,3,1,,nan,,135.0,,Pasajeros Civiles
+818,46678,Segunda Clase,0.0,Wolfgang Williams,F,62,4,0,1.0,nan,,533.0,,Personal Médico
+819,48056,Segunda Clase,1.0,Klaus Taylor,M,3,4,1,,P,3.0,,Dublín,Personal Médico
+820,54736,Segunda Clase,1.0,Gustav Harris,M,72,0,0,1.0,K,1.0,,Berna,Personal de Cubierta
+821,42754,Segunda Clase,0.0,Gertrud Robinson,M,43,2,0,,nan,,185.0,,Personal Médico
+822,45094,Cuarta Clase,1.0,Gertrud Anderson,nan,69,3,0,,K,6.0,,Estocolmo,Pasajeros Civiles
+823,41475,Segunda Clase,0.0,Helga Brown,F,21,3,0,,nan,,463.0,,Oficial Superior
+824,40108,Segunda Clase,0.0,Greta Martin,F,29,3,0,0.0,nan,,38.0,,Personal de Servicio
+825,32907,Cuarta Clase,1.0,Ingrid Miller,M,70,4,1,0.0,G,7.0,,Bern,Pasajeros Civiles
+826,37621,Segunda Clase,0.0,Wolfgang Jackson,nan,43,4,2,0.0,nan,,422.0,,Personal Médico
+827,45679,Segunda Clase,0.0,Hans Wilson,F,31,2,1,,nan,,345.0,,Oficial de Cubierta
+828,32835,Segunda Clase,0.0,Jürgen Brown,M,27,1,2,0.0,nan,,943.0,,Oficial de Cubierta
+829,60118,Segunda Clase,0.0,Karl Smith,M,39,1,1,0.0,nan,,163.0,,Personal de Máquinas
+830,37133,Cuarta Clase,1.0,Hannelore Thompson,M,1,0,2,0.0,P,3.0,,Bern,Pasajeros Civiles
+831,37552,Cuarta Clase,1.0,Wolfgang Jones,F,78,3,1,,G,10.0,,Berna,Pasajeros Civiles
+832,39180,Segunda Clase,0.0,Ingrid Johnson,F,50,4,1,,nan,,124.0,,Personal de Cubierta
+833,56732,Segunda Clase,0.0,Elisabeth Moore,F,4,0,1,0.0,nan,,786.0,,Personal Médico
+834,43120,Segunda Clase,0.0,Renate Robinson,M,12,0,1,1.0,nan,,745.0,,Personal Médico
+835,63639,Segunda Clase,0.0,Klaus Robinson,M,69,0,2,1.0,nan,,538.0,,Personal de Cubierta
+836,59382,Cuarta Clase,0.0,Klaus Jones,M,58,4,1,1.0,nan,,631.0,,Pasajeros Civiles
+837,64111,Cuarta Clase,1.0,Hans Johnson,F,20,3,2,0.0,P,4.0,,Londres,Pasajeros Civiles
+838,43546,Segunda Clase,0.0,Heinz White,F,31,4,2,,nan,,185.0,,Oficial Superior
+839,31588,Segunda Clase,0.0,Marlene Jackson,nan,79,2,1,,nan,,39.0,,Personal de Servicio
+840,37721,Segunda Clase,0.0,Heinz Garcia,F,71,2,0,,nan,,113.0,,Oficial Subalterno
+841,44414,Segunda Clase,1.0,Erich Martin,nan,32,1,0,1.0,P,8.0,,Bern,Personal de Cubierta
+842,39908,Segunda Clase,1.0,Dieter Miller,F,60,1,1,,G,2.0,,Lisboa,Personal de Máquinas
+843,48650,Segunda Clase,0.0,Hans Taylor,nan,7,2,1,1.0,nan,,33.0,,Personal de Servicio
+844,36759,Segunda Clase,1.0,Helga Jones,M,53,2,0,,G,10.0,,Berna,Personal de Máquinas
+845,44809,Cuarta Clase,0.0,Gertrud Moore,F,72,4,2,1.0,nan,,217.0,,Pasajeros Civiles
+846,25927,Segunda Clase,0.0,Erika Robinson,F,72,1,2,1.0,nan,,766.0,,Personal de Servicio
+847,33295,Cuarta Clase,0.0,Dieter White,F,77,0,1,0.0,nan,,558.0,,Pasajeros Civiles
+848,42977,Cuarta Clase,1.0,Heinz Thompson,nan,50,4,1,1.0,K,2.0,,Bern,Pasajeros Civiles
+849,27982,Segunda Clase,1.0,Erika Jones,nan,19,4,1,,K,6.0,,Lisboa,Oficial de Cubierta
+850,28573,Segunda Clase,0.0,Gustav Jones,F,60,3,2,1.0,nan,,271.0,,Personal de Máquinas
+851,61264,Cuarta Clase,1.0,Heinz Martin,M,32,3,1,1.0,D,3.0,,Bern,Pasajeros Civiles
+852,44145,Segunda Clase,0.0,Karl Robinson,M,49,2,2,0.0,nan,,585.0,,Personal de Cubierta
+853,33275,Segunda Clase,1.0,Karl Moore,F,9,2,1,0.0,P,2.0,,Dublín,Oficial Superior
+854,66803,Segunda Clase,0.0,Gertrud Miller,F,25,4,2,,nan,,937.0,,Personal de Servicio
+855,57170,Cuarta Clase,0.0,Ingrid White,F,21,0,1,1.0,nan,,769.0,,Pasajeros Civiles
+856,31723,Segunda Clase,1.0,Gustav Davis,M,31,1,2,1.0,K,9.0,,Berna,Personal Médico
+857,25803,Cuarta Clase,0.0,Klaus Garcia,F,36,0,1,,nan,,615.0,,Pasajeros Civiles
+858,62621,Segunda Clase,1.0,Margarete Miller,F,50,1,0,0.0,G,2.0,,Bern,Personal de Cubierta
+859,43634,Segunda Clase,0.0,Margarete Anderson,M,27,0,2,0.0,nan,,950.0,,Oficial Superior
+860,55762,Segunda Clase,0.0,Jürgen Smith,nan,78,0,2,0.0,nan,,652.0,,Oficial Subalterno
+861,56373,Segunda Clase,0.0,Hans Williams,F,27,1,2,,nan,,439.0,,Oficial Superior
+862,53866,Segunda Clase,1.0,Heinz Martinez,nan,62,3,2,0.0,P,9.0,,Bern,Personal de Servicio
+863,47328,Segunda Clase,0.0,Margarete Brown,F,8,1,0,,nan,,702.0,,Personal de Máquinas
+864,37082,Segunda Clase,1.0,Friedrich Thompson,F,7,2,1,1.0,P,8.0,,Lisboa,Personal de Máquinas
+865,28367,Cuarta Clase,1.0,Friedrich Jones,F,66,0,2,1.0,P,5.0,,Dublín,Pasajeros Civiles
+866,41546,Segunda Clase,1.0,Erich Wilson,F,11,0,1,0.0,K,2.0,,Dublín,Personal de Máquinas
+867,56308,Segunda Clase,0.0,Marlene Taylor,nan,67,4,2,,nan,,206.0,,Oficial Subalterno
+868,32476,Segunda Clase,0.0,Erich Harris,nan,37,0,0,,nan,,732.0,,Oficial de Cubierta
+869,29282,Cuarta Clase,1.0,Klaus Jones,F,7,4,1,,D,4.0,,Lisboa,Pasajeros Civiles
+870,51260,Segunda Clase,0.0,Wolfgang Johnson,F,53,4,2,,nan,,357.0,,Personal de Servicio
+871,57227,Cuarta Clase,0.0,Gustav Thomas,F,73,2,0,1.0,nan,,435.0,,Pasajeros Civiles
+872,29855,Cuarta Clase,1.0,Greta White,nan,47,0,0,1.0,P,5.0,,Dublín,Pasajeros Civiles
+873,62815,Cuarta Clase,1.0,Heinz Jones,F,19,1,0,1.0,G,10.0,,Madrid,Pasajeros Civiles
+874,66251,Cuarta Clase,1.0,Klaus Smith,F,37,2,2,,P,1.0,,Londres,Pasajeros Civiles
+875,28513,Segunda Clase,1.0,Dieter Davis,nan,18,4,0,,G,7.0,,Bern,Oficial Subalterno
+876,34943,Segunda Clase,0.0,Greta Thomas,nan,3,1,2,,nan,,899.0,,Personal de Máquinas
+877,34777,Segunda Clase,1.0,Marlene Robinson,F,42,0,0,0.0,D,7.0,,Bern,Personal Médico
+878,61886,Cuarta Clase,1.0,Erich Williams,M,79,4,0,,D,10.0,,Londres,Pasajeros Civiles
+879,44912,Segunda Clase,0.0,Ingrid Anderson,F,51,3,2,,nan,,476.0,,Personal Médico
+880,30582,Segunda Clase,0.0,Wolfgang Jones,nan,69,3,1,,nan,,139.0,,Oficial Subalterno
+881,41265,Cuarta Clase,0.0,Elisabeth Jackson,nan,8,3,2,1.0,nan,,408.0,,Pasajeros Civiles
+882,32762,Segunda Clase,0.0,Marlene Moore,nan,64,0,2,,nan,,963.0,,Oficial Subalterno
+883,61573,Segunda Clase,0.0,Elisabeth Martin,nan,65,3,0,1.0,nan,,557.0,,Personal de Máquinas
+884,52274,Segunda Clase,1.0,Helga Davis,F,43,3,1,0.0,K,7.0,,Dublín,Personal de Máquinas
+885,64735,Segunda Clase,0.0,Heinz Brown,nan,8,3,2,0.0,nan,,885.0,,Oficial Subalterno
+886,64067,Segunda Clase,0.0,Klaus Davis,M,23,2,1,1.0,nan,,309.0,,Personal de Servicio
+887,65528,Segunda Clase,0.0,Heinz White,F,45,3,0,,nan,,399.0,,Personal de Cubierta
+888,39790,Segunda Clase,1.0,Hannelore Martin,nan,27,4,0,1.0,D,1.0,,Bern,Personal de Máquinas
+889,59247,Cuarta Clase,0.0,Hannelore Harris,M,11,1,2,,nan,,633.0,,Pasajeros Civiles
+890,54524,Cuarta Clase,0.0,Wolfgang Robinson,nan,64,3,0,0.0,nan,,448.0,,Pasajeros Civiles
+891,54014,Cuarta Clase,1.0,Elisabeth Thomas,F,12,3,0,1.0,D,7.0,,Dublín,Pasajeros Civiles
+892,44487,Segunda Clase,0.0,Erika Smith,M,9,1,1,0.0,nan,,739.0,,Personal Médico
+893,63569,Segunda Clase,1.0,Dieter Martin,F,78,2,2,,P,10.0,,Lisboa,Personal de Cubierta
+894,53103,Segunda Clase,0.0,Margarete Jones,M,49,4,1,,nan,,232.0,,Personal Médico
+895,45013,Cuarta Clase,0.0,Helga Harris,F,71,0,2,1.0,nan,,210.0,,Pasajeros Civiles
+896,62265,Segunda Clase,1.0,Klaus Williams,F,74,1,1,,P,4.0,,Berna,Personal de Máquinas
+897,65699,Segunda Clase,0.0,Erich Anderson,F,50,3,0,,nan,,102.0,,Personal de Máquinas
+898,28947,Segunda Clase,1.0,Hans Thompson,F,47,1,2,,K,7.0,,Lisboa,Oficial Superior
+899,64952,Segunda Clase,0.0,Hannelore Martinez,F,9,3,2,1.0,nan,,696.0,,Personal de Servicio
+900,31503,Segunda Clase,0.0,Jürgen Anderson,F,77,4,0,0.0,nan,,719.0,,Personal de Cubierta
+901,38617,Cuarta Clase,0.0,Gertrud Thompson,M,25,4,0,,nan,,873.0,,Pasajeros Civiles
+902,65993,Segunda Clase,0.0,Erika Jones,F,5,3,1,0.0,nan,,100.0,,Personal Médico
+903,38829,Segunda Clase,1.0,Helga Wilson,F,23,3,2,1.0,K,7.0,,Berna,Personal de Cubierta
+904,42343,Segunda Clase,1.0,Margarete Thomas,M,6,3,2,0.0,P,6.0,,Madrid,Oficial de Cubierta
+905,68281,Cuarta Clase,1.0,Elisabeth Brown,M,62,1,0,1.0,K,4.0,,Lisboa,Pasajeros Civiles
+906,30320,Segunda Clase,0.0,Renate Robinson,nan,58,3,0,0.0,nan,,345.0,,Personal Médico
+907,35292,Segunda Clase,1.0,Klaus Smith,F,38,1,0,1.0,P,4.0,,Londres,Oficial Subalterno
+908,40719,Cuarta Clase,1.0,Wolfgang Thompson,nan,36,0,1,,P,10.0,,Estocolmo,Pasajeros Civiles
+909,36391,Segunda Clase,1.0,Margarete Martin,F,34,3,0,1.0,D,1.0,,Madrid,Personal de Servicio
+910,61175,Segunda Clase,0.0,Wolfgang Williams,M,37,4,0,1.0,nan,,727.0,,Oficial Subalterno
+911,29919,Segunda Clase,0.0,Margarete Anderson,M,33,3,0,,nan,,364.0,,Oficial de Cubierta
+912,35258,Cuarta Clase,0.0,Jürgen Anderson,M,42,0,0,,nan,,721.0,,Pasajeros Civiles
+913,25175,Segunda Clase,0.0,Erich Johnson,nan,52,3,0,,nan,,177.0,,Oficial Superior
+914,51772,Segunda Clase,1.0,Gertrud Wilson,F,6,4,0,0.0,K,4.0,,Bern,Oficial de Cubierta
+915,63916,Cuarta Clase,0.0,Renate Jackson,F,41,2,0,1.0,nan,,893.0,,Pasajeros Civiles
+916,55796,Segunda Clase,0.0,Elisabeth Wilson,M,77,2,2,,nan,,938.0,,Personal Médico
+917,44087,Segunda Clase,0.0,Friedrich Harris,nan,8,2,1,1.0,nan,,159.0,,Personal de Máquinas
+918,27139,Segunda Clase,1.0,Marlene Martinez,F,75,3,2,0.0,D,4.0,,Londres,Personal de Servicio
+919,40170,Segunda Clase,0.0,Marlene Williams,nan,32,4,1,0.0,nan,,721.0,,Oficial Subalterno
+920,43881,Segunda Clase,0.0,Margarete Harris,F,62,4,1,1.0,nan,,685.0,,Personal de Servicio
+921,43528,Segunda Clase,0.0,Greta Jones,nan,46,4,1,1.0,nan,,393.0,,Oficial de Cubierta
+922,54755,Segunda Clase,0.0,Margarete Smith,F,33,2,2,0.0,nan,,407.0,,Personal de Servicio
+923,29664,Cuarta Clase,0.0,Heinz Jackson,nan,41,1,0,1.0,nan,,617.0,,Pasajeros Civiles
+924,40297,Segunda Clase,0.0,Helga Johnson,nan,46,3,0,1.0,nan,,635.0,,Personal Médico
+925,42337,Cuarta Clase,0.0,Renate Garcia,F,5,4,1,,nan,,424.0,,Pasajeros Civiles
+926,65963,Segunda Clase,1.0,Hans Williams,M,75,4,1,1.0,P,8.0,,Lisboa,Oficial Subalterno
+927,63652,Cuarta Clase,1.0,Erika Robinson,M,10,2,0,0.0,P,10.0,,Berna,Pasajeros Civiles
+928,68331,Segunda Clase,1.0,Gustav Thompson,nan,31,1,2,,K,6.0,,Dublín,Oficial de Cubierta
+929,37964,Cuarta Clase,1.0,Renate Miller,nan,28,0,2,,D,7.0,,Londres,Pasajeros Civiles
+930,52861,Segunda Clase,0.0,Marlene Anderson,nan,79,1,0,1.0,nan,,409.0,,Personal de Máquinas
+931,32521,Segunda Clase,0.0,Ingrid Johnson,F,41,1,1,,nan,,868.0,,Personal Médico
+932,60688,Cuarta Clase,1.0,Jürgen Harris,F,23,3,0,,P,2.0,,Dublín,Pasajeros Civiles
+933,39733,Segunda Clase,1.0,Greta Garcia,nan,14,3,1,0.0,G,2.0,,Lisboa,Personal de Servicio
+934,67443,Segunda Clase,1.0,Erika Robinson,nan,13,3,2,1.0,P,1.0,,Lisboa,Personal de Máquinas
+935,34764,Segunda Clase,0.0,Margarete Thomas,F,48,4,2,,nan,,834.0,,Oficial Subalterno
+936,42408,Segunda Clase,0.0,Marlene Jones,F,73,3,1,0.0,nan,,175.0,,Personal Médico
+937,34321,Cuarta Clase,0.0,Heinz Wilson,F,38,2,1,0.0,nan,,838.0,,Pasajeros Civiles
+938,28908,Segunda Clase,1.0,Hans Anderson,nan,56,4,0,,P,10.0,,Londres,Personal de Máquinas
+939,35873,Cuarta Clase,0.0,Ingrid Taylor,F,57,1,0,0.0,nan,,585.0,,Pasajeros Civiles
+940,45159,Segunda Clase,0.0,Renate Thompson,M,70,3,0,,nan,,643.0,,Personal de Máquinas
+941,62303,Segunda Clase,0.0,Ingrid Jones,M,17,1,1,,nan,,879.0,,Personal de Cubierta
+942,43914,Segunda Clase,0.0,Klaus Davis,M,69,1,0,0.0,nan,,667.0,,Personal Médico
+943,53780,Segunda Clase,0.0,Margarete Brown,M,35,2,2,1.0,nan,,538.0,,Oficial de Cubierta
+944,33149,Segunda Clase,1.0,Helga Jones,F,13,0,0,1.0,K,2.0,,Madrid,Oficial de Cubierta
+945,55716,Segunda Clase,0.0,Erich Robinson,M,30,4,1,0.0,nan,,110.0,,Personal de Cubierta
+946,44928,Cuarta Clase,0.0,Karl Miller,nan,0,3,0,,nan,,658.0,,Pasajeros Civiles
+947,51378,Segunda Clase,0.0,Heinz Jackson,nan,4,2,1,0.0,nan,,125.0,,Personal de Cubierta
+948,42841,Segunda Clase,0.0,Karl Harris,M,31,3,1,0.0,nan,,605.0,,Oficial de Cubierta
+949,57798,Segunda Clase,0.0,Karl Anderson,F,76,4,0,0.0,nan,,852.0,,Personal de Cubierta
+950,60388,Segunda Clase,1.0,Heinz White,nan,79,3,2,0.0,G,6.0,,Lisboa,Personal de Cubierta
+951,57361,Segunda Clase,0.0,Klaus Martinez,nan,27,1,0,,nan,,193.0,,Oficial de Cubierta
+952,53688,Segunda Clase,0.0,Heinz Harris,F,45,3,0,0.0,nan,,841.0,,Personal Médico
+953,30271,Segunda Clase,0.0,Marlene Martinez,nan,1,2,2,,nan,,267.0,,Personal de Máquinas
+954,64192,Segunda Clase,0.0,Gertrud Brown,nan,12,3,0,0.0,nan,,527.0,,Personal Médico
+955,27612,Segunda Clase,1.0,Margarete Smith,F,6,4,1,0.0,G,2.0,,Dublín,Personal de Máquinas
+956,53313,Cuarta Clase,0.0,Gertrud Johnson,F,59,3,2,0.0,nan,,653.0,,Pasajeros Civiles
+957,46123,Segunda Clase,0.0,Renate White,nan,54,4,1,,nan,,167.0,,Personal de Cubierta
+958,64564,Segunda Clase,0.0,Hannelore Martin,F,63,3,2,1.0,nan,,870.0,,Personal de Cubierta
+959,41408,Segunda Clase,0.0,Gertrud Davis,F,70,3,2,1.0,nan,,633.0,,Oficial Superior
+960,26695,Cuarta Clase,0.0,Hannelore Davis,F,34,0,0,,nan,,6.0,,Pasajeros Civiles
+961,30985,Segunda Clase,0.0,Dieter Jones,F,45,0,1,1.0,nan,,293.0,,Personal de Servicio
+962,40002,Segunda Clase,1.0,Elisabeth Robinson,F,79,0,1,0.0,P,4.0,,Londres,Personal de Servicio
+963,62696,Segunda Clase,1.0,Erika Anderson,F,49,0,0,1.0,K,2.0,,Estocolmo,Personal de Máquinas
+964,63477,Segunda Clase,1.0,Gertrud Jackson,F,20,1,2,0.0,K,3.0,,Lisboa,Oficial Subalterno
+965,26359,Segunda Clase,0.0,Helga Robinson,F,73,1,2,1.0,nan,,263.0,,Personal de Cubierta
+966,42662,Cuarta Clase,0.0,Jürgen Moore,M,7,0,0,1.0,nan,,604.0,,Pasajeros Civiles
+967,62764,Segunda Clase,0.0,Elisabeth Anderson,nan,52,1,0,1.0,nan,,696.0,,Personal de Cubierta
+968,27636,Segunda Clase,0.0,Gustav Harris,nan,19,2,0,0.0,nan,,823.0,,Oficial Superior
+969,36481,Segunda Clase,0.0,Dieter Brown,M,74,3,0,1.0,nan,,406.0,,Personal de Máquinas
+970,55834,Segunda Clase,0.0,Helga Robinson,nan,66,4,1,,nan,,288.0,,Personal Médico
+971,59010,Segunda Clase,0.0,Gertrud Taylor,F,47,3,2,,nan,,43.0,,Personal de Cubierta
+972,67697,Segunda Clase,1.0,Renate Anderson,M,33,1,1,0.0,D,10.0,,Dublín,Personal Médico
+973,53981,Segunda Clase,1.0,Renate Miller,nan,23,0,0,,K,5.0,,Dublín,Oficial de Cubierta
+974,43229,Segunda Clase,0.0,Karl Miller,M,26,1,1,,nan,,275.0,,Oficial de Cubierta
+975,36894,Cuarta Clase,0.0,Erika Taylor,F,45,3,2,,nan,,795.0,,Pasajeros Civiles
+976,63360,Segunda Clase,0.0,Ingrid Brown,M,65,4,2,,nan,,185.0,,Personal de Cubierta
+977,53566,Cuarta Clase,1.0,Wolfgang Thompson,F,53,3,0,0.0,G,9.0,,Lisboa,Pasajeros Civiles
+978,66601,Segunda Clase,1.0,Renate Anderson,F,77,3,2,0.0,G,9.0,,Londres,Personal de Cubierta
+979,57225,Segunda Clase,1.0,Heinz Thomas,nan,73,1,1,,G,3.0,,Madrid,Oficial Subalterno
+980,30979,Segunda Clase,0.0,Renate Martin,nan,19,1,0,,nan,,756.0,,Oficial Superior
+981,55802,Segunda Clase,1.0,Hannelore Martinez,F,40,3,2,,K,8.0,,Berna,Oficial de Cubierta
+982,47803,Segunda Clase,1.0,Helga Garcia,M,28,0,2,,G,10.0,,Berna,Oficial de Cubierta
+983,51761,Cuarta Clase,0.0,Gustav White,F,46,4,2,1.0,nan,,427.0,,Pasajeros Civiles
+984,46843,Cuarta Clase,1.0,Hans Thompson,nan,53,2,2,0.0,G,1.0,,Madrid,Pasajeros Civiles
+985,46040,Segunda Clase,1.0,Heinz Smith,M,21,1,0,1.0,G,8.0,,Bern,Oficial de Cubierta
+986,68917,Segunda Clase,0.0,Elisabeth Brown,M,66,3,0,,nan,,881.0,,Oficial de Cubierta
+987,31855,Cuarta Clase,1.0,Klaus Johnson,F,26,4,2,0.0,G,1.0,,Londres,Pasajeros Civiles
+988,35539,Segunda Clase,0.0,Karl Moore,F,46,2,0,0.0,nan,,802.0,,Oficial Superior
+989,46614,Segunda Clase,1.0,Wolfgang Taylor,nan,43,0,2,0.0,G,7.0,,Dublín,Personal de Servicio
+990,51977,Segunda Clase,1.0,Erich Brown,M,14,2,2,1.0,P,10.0,,Bern,Personal de Máquinas
+991,57471,Segunda Clase,0.0,Klaus Taylor,nan,65,3,2,1.0,nan,,428.0,,Personal Médico
+992,43888,Segunda Clase,0.0,Karl Garcia,M,1,4,2,,nan,,476.0,,Oficial Superior
+993,68423,Segunda Clase,0.0,Klaus Thomas,nan,49,3,1,1.0,nan,,473.0,,Oficial Subalterno
+994,51244,Cuarta Clase,1.0,Marlene Jones,M,20,4,2,0.0,D,6.0,,Bern,Pasajeros Civiles
+995,61051,Cuarta Clase,0.0,Erika Garcia,nan,12,3,1,0.0,nan,,370.0,,Pasajeros Civiles
+996,27404,Segunda Clase,0.0,Jürgen Garcia,M,61,2,0,1.0,nan,,323.0,,Oficial Subalterno
+997,54807,Segunda Clase,0.0,Elisabeth Wilson,nan,30,1,2,,nan,,53.0,,Personal de Servicio
+998,30771,Segunda Clase,0.0,Gertrud Taylor,F,56,3,1,1.0,nan,,901.0,,Personal Médico
+999,45612,Segunda Clase,1.0,Klaus Jackson,M,8,3,0,,K,2.0,,Berna,Personal Médico
+1000,41541,Segunda Clase,0.0,Elisabeth White,F,27,0,2,0.0,nan,,604.0,,Oficial de Cubierta
+1001,46186,Segunda Clase,0.0,Greta Garcia,F,23,2,1,1.0,nan,,258.0,,Personal de Cubierta
+1002,32597,Segunda Clase,0.0,Klaus Smith,nan,8,2,1,,nan,,558.0,,Personal de Máquinas
+1003,51488,Segunda Clase,0.0,Erich Miller,nan,4,3,1,0.0,nan,,773.0,,Personal de Cubierta
+1004,58724,Cuarta Clase,0.0,Erika Harris,F,72,2,2,,nan,,205.0,,Pasajeros Civiles
+1005,25075,Segunda Clase,0.0,Jürgen Thomas,F,13,1,2,1.0,nan,,236.0,,Oficial Superior
+1006,68100,Segunda Clase,0.0,Hannelore Garcia,F,8,1,1,,nan,,26.0,,Oficial de Cubierta
+1007,60559,Cuarta Clase,0.0,Erika Miller,F,45,3,1,,nan,,558.0,,Pasajeros Civiles
+1008,55276,Cuarta Clase,1.0,Karl Taylor,M,72,3,0,1.0,K,9.0,,Londres,Pasajeros Civiles
+1009,52082,Segunda Clase,1.0,Marlene Davis,F,39,4,1,0.0,P,10.0,,Berna,Oficial Subalterno
+1010,28552,Segunda Clase,1.0,Friedrich Davis,F,68,1,1,0.0,P,5.0,,Estocolmo,Personal de Servicio
+1011,37293,Segunda Clase,1.0,Wolfgang Thompson,nan,37,1,1,1.0,P,4.0,,Dublín,Oficial Subalterno
+1012,58976,Cuarta Clase,0.0,Heinz Jackson,F,41,4,2,,nan,,313.0,,Pasajeros Civiles
+1013,48709,Segunda Clase,0.0,Klaus White,M,21,3,2,,nan,,563.0,,Personal de Servicio
+1014,65804,Segunda Clase,0.0,Erich Garcia,F,22,0,0,,nan,,239.0,,Personal Médico
+1015,57669,Segunda Clase,0.0,Erich Brown,nan,24,1,2,,nan,,380.0,,Oficial Subalterno
+1016,65986,Segunda Clase,0.0,Wolfgang Martinez,nan,50,2,1,0.0,nan,,645.0,,Personal de Cubierta
+1017,53969,Cuarta Clase,1.0,Erich Smith,F,8,1,2,,G,10.0,,Estocolmo,Pasajeros Civiles
+1018,28382,Cuarta Clase,1.0,Greta Harris,nan,16,0,2,,K,9.0,,Madrid,Pasajeros Civiles
+1019,38340,Segunda Clase,1.0,Dieter Johnson,nan,49,4,1,1.0,D,2.0,,Lisboa,Personal de Cubierta
+1020,42501,Segunda Clase,0.0,Dieter Anderson,nan,67,3,1,,nan,,144.0,,Oficial Superior
+1021,60993,Segunda Clase,0.0,Erika Johnson,F,60,4,2,,nan,,990.0,,Personal de Máquinas
+1022,33586,Segunda Clase,1.0,Erika Taylor,F,30,2,2,,P,2.0,,Estocolmo,Personal de Cubierta
+1023,43876,Segunda Clase,1.0,Margarete Martinez,F,70,2,0,0.0,P,8.0,,Lisboa,Personal Médico
+1024,53712,Cuarta Clase,1.0,Renate Thomas,F,36,3,0,0.0,D,9.0,,Londres,Pasajeros Civiles
+1025,56766,Cuarta Clase,0.0,Friedrich Anderson,nan,61,0,2,,nan,,298.0,,Pasajeros Civiles
+1026,32957,Segunda Clase,0.0,Gertrud Wilson,nan,49,2,1,1.0,nan,,41.0,,Personal Médico
+1027,26891,Segunda Clase,1.0,Wolfgang Thompson,F,17,4,2,1.0,P,2.0,,Bern,Oficial Subalterno
+1028,66289,Cuarta Clase,1.0,Friedrich Thompson,F,46,1,2,,K,2.0,,Dublín,Pasajeros Civiles
+1029,64903,Segunda Clase,1.0,Wolfgang White,nan,60,3,0,0.0,P,8.0,,Londres,Personal Médico
+1030,40682,Segunda Clase,0.0,Renate Garcia,M,67,2,1,1.0,nan,,890.0,,Personal de Cubierta
+1031,35379,Segunda Clase,0.0,Elisabeth Williams,nan,60,4,1,,nan,,483.0,,Oficial de Cubierta
+1032,45365,Segunda Clase,0.0,Ingrid Wilson,nan,21,2,2,,nan,,947.0,,Oficial Superior
+1033,61099,Segunda Clase,0.0,Karl Anderson,F,46,0,2,1.0,nan,,557.0,,Personal de Máquinas
+1034,25896,Segunda Clase,0.0,Greta Thomas,nan,12,0,0,1.0,nan,,801.0,,Oficial Subalterno
+1035,61192,Segunda Clase,0.0,Gustav Miller,nan,13,1,0,,nan,,547.0,,Personal Médico
+1036,51738,Segunda Clase,1.0,Erika Thompson,nan,43,4,1,0.0,D,9.0,,Madrid,Personal de Cubierta
+1037,31108,Segunda Clase,1.0,Margarete Garcia,nan,20,4,1,1.0,P,6.0,,Estocolmo,Oficial Subalterno
+1038,32435,Cuarta Clase,1.0,Hans Jones,M,18,2,2,,P,4.0,,Dublín,Pasajeros Civiles
+1039,55241,Segunda Clase,1.0,Ingrid Harris,F,49,1,0,1.0,K,4.0,,Madrid,Personal de Máquinas
+1040,32698,Segunda Clase,0.0,Jürgen Robinson,M,5,1,1,1.0,nan,,379.0,,Personal de Cubierta
+1041,67448,Segunda Clase,1.0,Erika Wilson,M,39,4,0,0.0,G,5.0,,Bern,Oficial de Cubierta
+1042,35090,Segunda Clase,1.0,Klaus Anderson,M,19,0,1,,P,9.0,,Bern,Oficial Subalterno
+1043,57661,Segunda Clase,0.0,Elisabeth Jones,F,74,2,0,1.0,nan,,743.0,,Personal de Servicio
+1044,44127,Segunda Clase,1.0,Elisabeth Moore,M,40,2,2,1.0,G,3.0,,Bern,Personal de Servicio
+1045,58349,Cuarta Clase,1.0,Renate Taylor,nan,24,2,2,,K,6.0,,Bern,Pasajeros Civiles
+1046,42919,Segunda Clase,1.0,Hans Thompson,F,7,4,2,,P,9.0,,Berna,Personal de Máquinas
+1047,52229,Segunda Clase,0.0,Ingrid Thompson,nan,63,0,2,0.0,nan,,672.0,,Oficial Superior
+1048,56621,Segunda Clase,0.0,Gertrud Harris,M,75,4,1,0.0,nan,,256.0,,Personal de Servicio
+1049,55947,Segunda Clase,0.0,Margarete Johnson,F,24,1,2,1.0,nan,,189.0,,Oficial Superior
+1050,40973,Segunda Clase,0.0,Gustav Miller,M,32,0,0,1.0,nan,,868.0,,Oficial Subalterno
+1051,54935,Segunda Clase,0.0,Greta Thompson,M,16,4,0,1.0,nan,,759.0,,Oficial Subalterno
+1052,61127,Segunda Clase,1.0,Friedrich Jones,M,49,2,1,1.0,K,1.0,,Berna,Personal Médico
+1053,34479,Segunda Clase,0.0,Wolfgang Garcia,nan,31,0,2,,nan,,856.0,,Personal de Máquinas
+1054,50138,Segunda Clase,0.0,Renate Smith,M,37,0,0,,nan,,420.0,,Oficial de Cubierta
+1055,37491,Cuarta Clase,1.0,Friedrich Miller,nan,47,0,2,,G,7.0,,Londres,Pasajeros Civiles
+1056,64280,Segunda Clase,0.0,Karl White,nan,10,1,2,,nan,,679.0,,Personal de Cubierta
+1057,58308,Segunda Clase,1.0,Heinz Miller,F,50,1,1,,D,3.0,,Bern,Personal de Servicio
+1058,33946,Segunda Clase,1.0,Renate White,M,74,2,1,1.0,D,7.0,,Bern,Oficial de Cubierta
+1059,29575,Segunda Clase,0.0,Friedrich Brown,M,10,2,2,0.0,nan,,828.0,,Personal Médico
+1060,43104,Segunda Clase,1.0,Hans Harris,F,41,3,1,,K,3.0,,Estocolmo,Personal de Cubierta
+1061,52193,Segunda Clase,0.0,Greta Johnson,nan,32,3,0,,nan,,525.0,,Personal de Máquinas
+1062,47274,Segunda Clase,1.0,Friedrich Williams,M,4,1,1,1.0,D,6.0,,Dublín,Personal de Cubierta
+1063,58275,Cuarta Clase,1.0,Klaus Davis,F,34,0,0,1.0,P,3.0,,Estocolmo,Pasajeros Civiles
+1064,42509,Segunda Clase,1.0,Erich Garcia,M,18,0,2,,G,1.0,,Bern,Personal de Cubierta
+1065,25168,Segunda Clase,0.0,Friedrich Martinez,F,68,1,1,0.0,nan,,831.0,,Personal de Máquinas
+1066,43536,Segunda Clase,0.0,Jürgen Moore,M,73,4,2,1.0,nan,,876.0,,Oficial de Cubierta
+1067,44566,Cuarta Clase,0.0,Helga Jackson,nan,37,4,0,,nan,,719.0,,Pasajeros Civiles
+1068,63465,Segunda Clase,0.0,Marlene Jackson,F,56,0,0,,nan,,270.0,,Oficial Superior
+1069,63005,Segunda Clase,1.0,Helga Anderson,nan,16,0,0,,D,8.0,,Londres,Personal Médico
+1070,68249,Segunda Clase,0.0,Hans Jackson,M,17,0,0,,nan,,673.0,,Personal de Cubierta
+1071,57089,Segunda Clase,1.0,Heinz Garcia,M,33,0,2,,D,9.0,,Madrid,Oficial Subalterno
+1072,34738,Segunda Clase,0.0,Hans Robinson,nan,6,1,1,1.0,nan,,894.0,,Personal de Servicio
+1073,54264,Cuarta Clase,0.0,Friedrich Martinez,nan,44,1,0,0.0,nan,,909.0,,Pasajeros Civiles
+1074,60296,Segunda Clase,1.0,Klaus Williams,M,63,4,1,1.0,P,3.0,,Berna,Personal de Cubierta
+1075,56741,Segunda Clase,1.0,Ingrid Thompson,M,23,1,1,0.0,G,2.0,,Lisboa,Oficial Superior
+1076,47618,Segunda Clase,1.0,Heinz Taylor,nan,68,3,1,1.0,P,1.0,,Berna,Personal de Cubierta
+1077,46786,Segunda Clase,0.0,Gustav Robinson,M,47,0,2,0.0,nan,,79.0,,Personal de Máquinas
+1078,61170,Segunda Clase,0.0,Friedrich Taylor,M,64,1,2,,nan,,137.0,,Oficial de Cubierta
+1079,60614,Segunda Clase,0.0,Marlene Jackson,M,36,2,1,,nan,,18.0,,Oficial de Cubierta
+1080,49720,Segunda Clase,1.0,Elisabeth Smith,F,60,4,0,0.0,K,3.0,,Berna,Oficial Subalterno
+1081,54841,Segunda Clase,1.0,Margarete Davis,F,17,0,2,,G,2.0,,Madrid,Personal Médico
+1082,46088,Segunda Clase,1.0,Renate Wilson,F,62,2,2,,P,2.0,,Madrid,Oficial Subalterno
+1083,37363,Segunda Clase,0.0,Dieter Jackson,F,57,3,1,0.0,nan,,236.0,,Personal Médico
+1084,40650,Segunda Clase,0.0,Renate Taylor,M,17,4,2,0.0,nan,,566.0,,Personal de Máquinas
+1085,62473,Segunda Clase,1.0,Dieter Taylor,M,54,2,0,1.0,K,4.0,,Berna,Personal de Servicio
+1086,50098,Cuarta Clase,0.0,Ingrid Smith,F,20,1,1,1.0,nan,,736.0,,Pasajeros Civiles
+1087,40306,Segunda Clase,0.0,Renate Garcia,nan,71,4,0,1.0,nan,,955.0,,Personal Médico
+1088,51920,Cuarta Clase,0.0,Dieter Jones,nan,54,1,1,,nan,,107.0,,Pasajeros Civiles
+1089,27860,Segunda Clase,1.0,Klaus Smith,M,25,0,0,,K,3.0,,Lisboa,Oficial de Cubierta
+1090,45852,Segunda Clase,0.0,Hannelore Robinson,nan,6,2,1,0.0,nan,,72.0,,Oficial de Cubierta
+1091,49984,Segunda Clase,0.0,Elisabeth Garcia,M,10,0,2,1.0,nan,,228.0,,Oficial Superior
+1092,50302,Cuarta Clase,0.0,Renate Williams,F,45,4,1,1.0,nan,,18.0,,Pasajeros Civiles
+1093,68495,Segunda Clase,0.0,Gustav Miller,M,7,0,0,1.0,nan,,750.0,,Personal Médico
+1094,67730,Cuarta Clase,0.0,Ingrid Miller,M,2,2,0,0.0,nan,,884.0,,Pasajeros Civiles
+1095,34968,Segunda Clase,0.0,Helga Thompson,nan,4,2,0,0.0,nan,,141.0,,Personal de Máquinas
+1096,57461,Segunda Clase,0.0,Dieter Davis,F,79,0,2,,nan,,827.0,,Oficial Superior
+1097,27426,Segunda Clase,1.0,Wolfgang Wilson,nan,16,4,1,0.0,K,6.0,,Londres,Oficial Superior
+1098,33273,Cuarta Clase,0.0,Erika Moore,M,20,3,1,,nan,,716.0,,Pasajeros Civiles
+1099,57918,Cuarta Clase,0.0,Karl Jones,F,34,0,1,0.0,nan,,867.0,,Pasajeros Civiles
+1100,63678,Cuarta Clase,0.0,Wolfgang Martinez,M,73,4,1,0.0,nan,,569.0,,Pasajeros Civiles
+1101,46757,Segunda Clase,1.0,Klaus Garcia,F,56,4,1,,P,3.0,,Bern,Oficial de Cubierta
+1102,31577,Cuarta Clase,0.0,Marlene Garcia,F,65,0,1,1.0,nan,,582.0,,Pasajeros Civiles
+1103,53855,Segunda Clase,1.0,Friedrich Taylor,nan,65,0,1,1.0,G,3.0,,Bern,Oficial Subalterno
+1104,31534,Segunda Clase,1.0,Friedrich Moore,M,11,4,2,,K,6.0,,Bern,Oficial Subalterno
+1105,59468,Segunda Clase,0.0,Heinz Miller,M,52,3,0,,nan,,940.0,,Personal de Máquinas
+1106,54945,Cuarta Clase,0.0,Hannelore Martin,M,30,1,2,0.0,nan,,470.0,,Pasajeros Civiles
+1107,26005,Segunda Clase,1.0,Greta Thomas,M,54,4,2,1.0,D,2.0,,Madrid,Personal Médico
+1108,34447,Segunda Clase,0.0,Dieter Wilson,M,20,0,1,0.0,nan,,429.0,,Oficial Superior
+1109,51868,Segunda Clase,1.0,Heinz Taylor,nan,6,4,1,0.0,K,8.0,,Berna,Oficial de Cubierta
+1110,67911,Segunda Clase,1.0,Erika Williams,F,10,4,2,,G,3.0,,Dublín,Personal Médico
+1111,35116,Segunda Clase,0.0,Karl Anderson,M,33,4,2,0.0,nan,,628.0,,Oficial Superior
+1112,29903,Cuarta Clase,1.0,Margarete Harris,M,66,0,1,,P,4.0,,Londres,Pasajeros Civiles
+1113,55768,Segunda Clase,1.0,Greta Robinson,nan,51,4,0,1.0,D,3.0,,Madrid,Personal Médico
+1114,42368,Cuarta Clase,0.0,Gustav Martinez,F,57,3,1,0.0,nan,,485.0,,Pasajeros Civiles
+1115,47187,Segunda Clase,0.0,Dieter Martinez,nan,56,1,0,,nan,,435.0,,Personal Médico
+1116,65845,Segunda Clase,0.0,Hannelore Thomas,nan,58,1,2,0.0,nan,,327.0,,Oficial Subalterno
+1117,51049,Cuarta Clase,0.0,Greta White,M,2,0,0,1.0,nan,,300.0,,Pasajeros Civiles
+1118,67587,Segunda Clase,0.0,Wolfgang Smith,F,63,2,2,1.0,nan,,775.0,,Personal de Servicio
+1119,30263,Segunda Clase,0.0,Greta Wilson,F,31,1,0,1.0,nan,,757.0,,Personal Médico
+1120,46532,Cuarta Clase,1.0,Jürgen White,nan,7,2,1,,D,10.0,,Dublín,Pasajeros Civiles
+1121,59971,Cuarta Clase,1.0,Erich Thomas,M,30,4,0,,P,6.0,,Estocolmo,Pasajeros Civiles
+1122,49904,Segunda Clase,0.0,Dieter Anderson,M,48,4,2,0.0,nan,,262.0,,Personal Médico
+1123,45752,Segunda Clase,0.0,Margarete Harris,F,70,3,0,0.0,nan,,863.0,,Personal de Cubierta
+1124,66077,Cuarta Clase,1.0,Marlene Thomas,F,44,1,1,0.0,G,10.0,,Dublín,Pasajeros Civiles
+1125,56978,Segunda Clase,0.0,Gustav Martin,nan,51,2,1,1.0,nan,,633.0,,Personal de Servicio
+1126,60456,Segunda Clase,0.0,Renate Jones,F,7,0,2,0.0,nan,,52.0,,Personal de Cubierta
+1127,27352,Cuarta Clase,1.0,Wolfgang Robinson,nan,58,2,1,1.0,G,2.0,,Berna,Pasajeros Civiles
+1128,65465,Segunda Clase,0.0,Friedrich Moore,nan,14,1,2,1.0,nan,,29.0,,Oficial de Cubierta
+1129,29484,Segunda Clase,0.0,Dieter Garcia,nan,40,2,1,,nan,,651.0,,Oficial Superior
+1130,40385,Cuarta Clase,1.0,Karl Moore,nan,76,0,2,1.0,P,5.0,,Bern,Pasajeros Civiles
+1131,66363,Segunda Clase,0.0,Friedrich Williams,F,68,4,2,0.0,nan,,739.0,,Personal de Servicio
+1132,43833,Segunda Clase,1.0,Hans Thompson,M,36,4,2,0.0,K,9.0,,Dublín,Personal de Máquinas
+1133,30923,Segunda Clase,1.0,Hans Martinez,nan,64,1,1,1.0,G,1.0,,Madrid,Oficial Superior
+1134,53440,Cuarta Clase,0.0,Hannelore Jackson,M,14,4,1,,nan,,705.0,,Pasajeros Civiles
+1135,31451,Cuarta Clase,0.0,Hannelore Miller,nan,36,4,0,,nan,,332.0,,Pasajeros Civiles
+1136,66533,Segunda Clase,0.0,Klaus Garcia,F,29,4,0,1.0,nan,,19.0,,Oficial Superior
+1137,31586,Segunda Clase,0.0,Erich Garcia,M,58,3,0,0.0,nan,,979.0,,Personal Médico
+1138,54076,Cuarta Clase,0.0,Renate Martin,F,7,3,1,0.0,nan,,204.0,,Pasajeros Civiles
+1139,35902,Segunda Clase,0.0,Dieter Thomas,F,25,0,0,1.0,nan,,579.0,,Personal de Cubierta
+1140,44625,Segunda Clase,0.0,Elisabeth Wilson,nan,32,3,1,1.0,nan,,877.0,,Personal de Servicio
+1141,26897,Segunda Clase,1.0,Hannelore Taylor,M,56,0,0,0.0,P,6.0,,Lisboa,Oficial Subalterno
+1142,28014,Segunda Clase,0.0,Dieter Harris,F,68,3,1,,nan,,514.0,,Oficial Subalterno
+1143,46258,Segunda Clase,0.0,Gertrud Thompson,nan,61,0,1,0.0,nan,,937.0,,Personal de Servicio
+1144,28677,Segunda Clase,1.0,Friedrich Jackson,nan,54,1,1,1.0,K,9.0,,Londres,Personal de Máquinas
+1145,44226,Segunda Clase,1.0,Ingrid Thompson,nan,67,4,2,0.0,P,9.0,,Lisboa,Personal de Servicio
+1146,48492,Segunda Clase,1.0,Hans Wilson,F,49,1,1,0.0,P,10.0,,Madrid,Personal Médico
+1147,49565,Segunda Clase,1.0,Erika Davis,F,70,2,2,1.0,G,8.0,,Londres,Personal de Servicio
+1148,53225,Segunda Clase,1.0,Gertrud Brown,F,12,0,1,,P,10.0,,Bern,Personal de Servicio
+1149,34540,Segunda Clase,1.0,Marlene Davis,F,59,1,2,0.0,P,5.0,,Dublín,Oficial Superior
+1150,41003,Cuarta Clase,1.0,Wolfgang Martinez,M,63,3,0,1.0,P,3.0,,Madrid,Pasajeros Civiles
+1151,59810,Segunda Clase,0.0,Hannelore Brown,M,56,3,0,1.0,nan,,877.0,,Oficial Subalterno
+1152,52004,Segunda Clase,0.0,Margarete Thomas,M,54,2,0,1.0,nan,,656.0,,Personal de Máquinas
+1153,36800,Segunda Clase,0.0,Klaus Wilson,F,25,2,1,0.0,nan,,669.0,,Oficial Superior
+1154,36140,Segunda Clase,0.0,Margarete Wilson,M,40,4,0,0.0,nan,,629.0,,Oficial Subalterno
+1155,36473,Cuarta Clase,0.0,Friedrich Moore,F,29,2,2,0.0,nan,,830.0,,Pasajeros Civiles
+1156,30175,Segunda Clase,0.0,Ingrid Wilson,M,50,1,1,1.0,nan,,466.0,,Personal de Servicio
+1157,64943,Cuarta Clase,1.0,Klaus Miller,nan,58,4,0,0.0,G,3.0,,Berna,Pasajeros Civiles
+1158,65613,Segunda Clase,0.0,Gertrud Thomas,F,41,0,1,0.0,nan,,939.0,,Oficial Subalterno
+1159,40783,Segunda Clase,0.0,Elisabeth Martin,F,31,3,0,,nan,,937.0,,Oficial de Cubierta
+1160,57615,Cuarta Clase,0.0,Marlene Johnson,F,67,1,0,,nan,,77.0,,Pasajeros Civiles
+1161,63217,Cuarta Clase,1.0,Klaus Anderson,nan,32,0,0,1.0,P,8.0,,Berna,Pasajeros Civiles
+1162,34379,Segunda Clase,0.0,Heinz Thompson,nan,26,2,0,,nan,,173.0,,Personal de Cubierta
+1163,40216,Segunda Clase,0.0,Erich Moore,M,64,2,1,0.0,nan,,62.0,,Personal Médico
+1164,55221,Cuarta Clase,0.0,Hannelore Garcia,F,27,3,2,,nan,,268.0,,Pasajeros Civiles
+1165,66805,Segunda Clase,0.0,Hannelore Davis,F,21,2,0,1.0,nan,,289.0,,Personal de Servicio
+1166,41644,Cuarta Clase,0.0,Elisabeth Jackson,nan,68,0,2,1.0,nan,,936.0,,Pasajeros Civiles
+1167,55118,Segunda Clase,1.0,Ingrid Martinez,M,31,2,1,0.0,P,5.0,,Dublín,Personal de Servicio
+1168,41733,Segunda Clase,1.0,Friedrich Thompson,M,70,0,2,,G,1.0,,Londres,Oficial de Cubierta
+1169,68702,Segunda Clase,1.0,Erich Jackson,F,68,2,1,0.0,P,2.0,,Estocolmo,Oficial de Cubierta
+1170,25615,Segunda Clase,0.0,Jürgen Thompson,F,49,0,2,0.0,nan,,960.0,,Personal Médico
+1171,55490,Segunda Clase,1.0,Elisabeth Thomas,nan,43,3,2,1.0,G,10.0,,Estocolmo,Personal de Máquinas
+1172,43850,Segunda Clase,0.0,Ingrid Martin,M,53,3,1,,nan,,115.0,,Oficial Subalterno
+1173,60821,Segunda Clase,1.0,Margarete Robinson,M,6,1,0,,K,5.0,,Lisboa,Personal de Cubierta
+1174,35353,Segunda Clase,0.0,Hans Thompson,nan,2,2,1,0.0,nan,,946.0,,Oficial de Cubierta
+1175,29840,Segunda Clase,0.0,Dieter Harris,M,76,0,0,,nan,,257.0,,Oficial Superior
+1176,53949,Cuarta Clase,1.0,Wolfgang Wilson,M,51,1,1,1.0,P,3.0,,Bern,Pasajeros Civiles
+1177,47646,Segunda Clase,0.0,Friedrich Thompson,M,47,1,1,,nan,,948.0,,Personal de Servicio
+1178,63507,Cuarta Clase,1.0,Erich Miller,M,41,2,2,0.0,D,10.0,,Lisboa,Pasajeros Civiles
+1179,44605,Segunda Clase,0.0,Dieter Davis,M,71,1,0,0.0,nan,,18.0,,Oficial de Cubierta
+1180,66873,Segunda Clase,0.0,Wolfgang Thomas,nan,33,1,0,0.0,nan,,986.0,,Oficial de Cubierta
+1181,52807,Segunda Clase,0.0,Erika Jones,M,52,0,0,,nan,,30.0,,Oficial Superior
+1182,41390,Segunda Clase,0.0,Jürgen White,M,48,0,0,1.0,nan,,65.0,,Oficial Superior
+1183,54939,Cuarta Clase,0.0,Greta Jones,nan,42,0,1,0.0,nan,,250.0,,Pasajeros Civiles
+1184,44799,Segunda Clase,0.0,Margarete Martin,M,0,4,2,1.0,nan,,784.0,,Personal Médico
+1185,38055,Cuarta Clase,1.0,Margarete Miller,M,15,3,0,,D,6.0,,Bern,Pasajeros Civiles
+1186,50211,Segunda Clase,0.0,Hannelore Davis,F,28,1,0,0.0,nan,,992.0,,Oficial de Cubierta
+1187,56667,Cuarta Clase,0.0,Helga Smith,nan,17,4,1,,nan,,355.0,,Pasajeros Civiles
+1188,31989,Segunda Clase,0.0,Jürgen Johnson,F,5,2,1,,nan,,9.0,,Personal de Servicio
+1189,40545,Segunda Clase,0.0,Dieter Martinez,nan,36,3,0,1.0,nan,,208.0,,Personal Médico
+1190,49993,Segunda Clase,0.0,Hannelore Davis,M,23,2,1,1.0,nan,,32.0,,Oficial de Cubierta
+1191,62481,Cuarta Clase,1.0,Dieter Thompson,nan,75,4,0,0.0,D,5.0,,Bern,Pasajeros Civiles
+1192,48524,Segunda Clase,1.0,Klaus Martinez,nan,4,0,1,0.0,K,1.0,,Madrid,Oficial de Cubierta
+1193,62670,Cuarta Clase,0.0,Dieter Johnson,nan,19,0,2,1.0,nan,,567.0,,Pasajeros Civiles
+1194,44390,Segunda Clase,0.0,Wolfgang Moore,F,49,0,2,1.0,nan,,820.0,,Oficial Subalterno
+1195,44348,Cuarta Clase,0.0,Wolfgang Thompson,M,22,4,2,0.0,nan,,406.0,,Pasajeros Civiles
+1196,26437,Segunda Clase,0.0,Elisabeth Robinson,M,19,4,0,0.0,nan,,803.0,,Personal de Cubierta
+1197,68137,Segunda Clase,0.0,Hannelore Smith,M,50,4,2,1.0,nan,,586.0,,Oficial de Cubierta
+1198,50939,Segunda Clase,0.0,Gustav Williams,M,38,4,0,,nan,,772.0,,Personal de Máquinas
+1199,42988,Segunda Clase,0.0,Karl Harris,nan,52,1,2,1.0,nan,,33.0,,Personal de Máquinas
+1200,25530,Segunda Clase,1.0,Erika Martin,M,19,3,0,,K,5.0,,Bern,Oficial de Cubierta
+1201,28214,Segunda Clase,0.0,Margarete Davis,F,45,0,1,1.0,nan,,449.0,,Personal de Cubierta
+1202,64741,Segunda Clase,1.0,Jürgen White,nan,58,2,1,0.0,P,5.0,,Madrid,Oficial Subalterno
+1203,57553,Cuarta Clase,0.0,Erika Brown,F,30,2,2,1.0,nan,,497.0,,Pasajeros Civiles
+1204,43756,Segunda Clase,0.0,Hannelore Davis,F,40,2,1,,nan,,252.0,,Oficial de Cubierta
+1205,40081,Segunda Clase,0.0,Erika Thompson,M,21,0,2,1.0,nan,,577.0,,Personal de Servicio
+1206,64784,Segunda Clase,1.0,Erich Davis,M,68,2,2,1.0,K,4.0,,Bern,Personal de Cubierta
+1207,48089,Segunda Clase,0.0,Greta Harris,nan,70,1,1,1.0,nan,,508.0,,Personal de Cubierta
+1208,39352,Cuarta Clase,0.0,Erika Martinez,nan,12,2,1,,nan,,37.0,,Pasajeros Civiles
+1209,66721,Cuarta Clase,0.0,Friedrich Wilson,F,64,0,2,0.0,nan,,821.0,,Pasajeros Civiles
+1210,37460,Segunda Clase,1.0,Elisabeth Jackson,nan,4,0,0,,G,1.0,,Berna,Oficial Subalterno
+1211,65690,Segunda Clase,0.0,Dieter Jones,M,67,3,0,0.0,nan,,415.0,,Personal de Servicio
+1212,41425,Cuarta Clase,1.0,Hans Miller,F,59,4,0,1.0,D,7.0,,Madrid,Pasajeros Civiles
+1213,68200,Segunda Clase,0.0,Gertrud Thompson,F,50,2,2,,nan,,823.0,,Personal Médico
+1214,33963,Cuarta Clase,1.0,Helga Brown,nan,21,0,2,1.0,D,3.0,,Dublín,Pasajeros Civiles
+1215,66172,Segunda Clase,1.0,Erika Jones,M,49,2,2,,K,2.0,,Bern,Personal de Máquinas
+1216,31367,Segunda Clase,0.0,Wolfgang Martin,nan,43,2,0,1.0,nan,,889.0,,Personal de Servicio
+1217,66121,Cuarta Clase,1.0,Erika Robinson,nan,49,3,0,,G,5.0,,Dublín,Pasajeros Civiles
+1218,67358,Segunda Clase,1.0,Klaus Garcia,M,56,1,1,,P,4.0,,Londres,Personal de Máquinas
+1219,27583,Segunda Clase,0.0,Gertrud Jones,M,71,3,0,0.0,nan,,642.0,,Personal de Servicio
+1220,45246,Segunda Clase,1.0,Friedrich Martin,F,40,2,0,0.0,P,1.0,,Londres,Personal de Servicio
+1221,53889,Segunda Clase,0.0,Dieter Robinson,F,76,2,1,0.0,nan,,649.0,,Oficial Subalterno
+1222,27186,Segunda Clase,1.0,Renate Smith,nan,23,2,0,,P,2.0,,Bern,Personal de Cubierta
+1223,62982,Segunda Clase,1.0,Helga Thompson,nan,67,4,2,0.0,P,4.0,,Madrid,Personal de Servicio
+1224,48911,Segunda Clase,0.0,Helga Thomas,F,58,0,0,1.0,nan,,337.0,,Oficial Subalterno
+1225,33612,Cuarta Clase,1.0,Klaus Thompson,M,63,4,2,0.0,G,5.0,,Berna,Pasajeros Civiles
+1226,30906,Segunda Clase,0.0,Helga Wilson,M,49,1,2,1.0,nan,,282.0,,Personal Médico
+1227,44340,Segunda Clase,1.0,Margarete Jackson,F,70,4,2,1.0,D,2.0,,Berna,Oficial de Cubierta
+1228,46411,Segunda Clase,1.0,Ingrid Martinez,M,21,1,0,0.0,G,5.0,,Dublín,Oficial de Cubierta
+1229,52230,Segunda Clase,0.0,Hannelore Jones,F,52,1,0,0.0,nan,,399.0,,Personal de Cubierta
